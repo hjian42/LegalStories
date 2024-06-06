@@ -1,0 +1,237 @@
+Purchasing power parity  is a measure of the price of specific goods in different countries and is used to compare the absolute purchasing power of the countries' currencies. PPP is effectively the ratio of the price of a basket of goods at one location divided by the price of the basket of goods at a different location. The PPP inflation and exchange rate may differ from the market exchange rate because of tariffs, and other transaction costs.
+
+The purchasing power parity indicator can be used to compare economies regarding their gross domestic product , labour productivity and actual individual consumption, and in some cases to analyse price convergence and to compare the cost of living between places.
+The calculation of the PPP, according to the OECD, is made through a basket of goods that contains a "final product list  covers around 3,000 consumer goods and services, 30 occupations in government, 200 types of equipment goods and about 15 construction projects".
+
+PPP is usually compared to the United States.
+
+Purchasing power parity is an economic term for measuring prices at different locations.  It is based on the law of one price, which says that, if there are no transaction costs nor trade barriers for a particular good, then the price for that good should be the same at every location. Ideally, a computer in New York and in Hong Kong should have the same price.  If its price is 500 US dollars in New York and the same computer costs 2,000 HK dollars in Hong Kong, PPP theory says the exchange rate should be 4 HK dollars for every 1 US dollar.
+
+Poverty, tariffs, transportation and other frictions prevent trading and purchasing of various goods, so measuring a single good can cause a large error. The PPP term accounts for this by using a basket of goods, that is, many goods with different quantities. PPP then computes an inflation and exchange rate as the ratio of the price of the basket in one location to the price of the basket in the other location. For example, if a basket consisting of 1 computer, 1 ton of rice, and half a ton of steel was 1000 US dollars in New York and the same goods cost 6000 HK dollars in Hong Kong, the PPP exchange rate would be 6 HK dollars for every 1 US dollar.
+
+The name purchasing power parity comes from the idea that, with the right exchange rate, consumers in every location will have the same purchasing power.
+
+The value of the PPP exchange rate is very dependent on the basket of goods chosen. In general, goods are chosen that might closely obey the law of one price. So, ones traded easily and are commonly available in both locations. Organizations that compute PPP exchange rates use different baskets of goods and can come up with different values.
+
+The PPP exchange rate may not match the market exchange rate. The market rate is more volatile because it reacts to changes in demand at each location. Also, tariffs and differences in the price of labour  can contribute to longer-term differences between the two rates. One use of PPP is to predict longer-term exchange rates.
+
+Because PPP exchange rates are more stable and are less affected by tariffs, they are used for many international comparisons, such as comparing countries' GDPs or other national income statistics. These numbers often come with the label PPP-adjusted.
+
+There can be marked differences between purchasing power adjusted incomes and those converted via market exchange rates. A well-known purchasing power adjustment is the Geary–Khamis dollar . The World Bank's World Development Indicators 2005 estimated that in 2003, one Geary–Khamis dollar was equivalent to about 1.8 Chinese yuan by purchasing power parity—considerably different from the nominal exchange rate. This discrepancy has large implications; for instance, when converted via the nominal exchange rates, GDP per capita in India is about US$1,965 while on a PPP basis, it is about US$7,197. At the other extreme, Denmark's nominal GDP per capita is around US$53,242, but its PPP figure is US$46,602, in line with other developed nations.
+
+There are variations in calculating PPP. The EKS method  uses the geometric mean of the exchange rates computed for individual goods. The EKS-S method  uses two different baskets, one for each country, and then averages the result.  While these methods work for 2 countries, the exchange rates may be inconsistent if applied to 3 countries, so further adjustment may be necessary so that the rate from currency A to B times the rate from B to C equals the rate from A to C.
+
+Relative PPP is a weaker statement based on the law of one price, covering changes in the exchange rate and inflation rates. It seems to mirror the exchange rate closer than PPP does.
+
+Purchasing power parity exchange rate is used when comparing national production and consumption and other places where the prices of non-traded goods are considered important.  . PPP rates are more stable over time and can be used when that attribute is important.
+
+PPP exchange rates help costing but exclude profits and above all do not consider the different quality of goods among countries. The same product, for instance, can have a different level of quality and even safety in different countries, and may be subject to different taxes and transport costs. Since market exchange rates fluctuate substantially, when the GDP of one country measured in its own currency is converted to the other country's currency using market exchange rates, one country might be inferred to have higher real GDP than the other country in one year but lower in the other. Both of these inferences would fail to reflect the reality of their relative levels of production.
+
+If one country's GDP is converted into the other country's currency using PPP exchange rates instead of observed market exchange rates, the false inference will not occur. Essentially GDP measured at PPP controls for the different costs of living and price levels, usually relative to the United States dollar, enabling a more accurate estimate of a nation's level of production.
+
+The exchange rate reflects transaction values for traded goods between countries in contrast to non-traded goods, that is, goods produced for home-country use. Also, currencies are traded for purposes other than trade in goods and services, e.g., to buy capital assets whose prices vary more than those of physical goods. Also, different interest rates, speculation, hedging or interventions by central banks can influence the purchasing power parity of a country in the international markets.
+
+The PPP method is used as an alternative to correct for possible statistical bias. The Penn World Table is a widely cited source of PPP adjustments, and the associated Penn effect reflects such a systematic bias in using exchange rates to outputs among countries.
+
+For example, if the value of the Mexican peso falls by half compared to the US dollar, the Mexican gross domestic product measured in dollars will also halve. However, this exchange rate results from international trade and financial markets. It does not necessarily mean that Mexicans are poorer by a half; if incomes and prices measured in pesos stay the same, they will be no worse off assuming that imported goods are not essential to the quality of life of individuals.
+
+Measuring income in different countries using PPP exchange rates helps to avoid this problem, as the metrics give an understanding of relative wealth regarding local goods and services at domestic markets. On the other hand, it is poor for measuring the relative cost of goods and services in international markets. The reason is it does not take into account how much US$1 stands for in a respective country. Using the above-mentioned example: in an international market, Mexicans can buy less than Americans after the fall of their currency, though their GDP PPP changed a little.
+
+PPP exchange rates are never valued because market exchange rates tend to move in their general direction, over a period of years.  There is some value to knowing in which direction the exchange rate is more likely to shift over the long run.
+
+In neoclassical economic theory, the purchasing power parity theory assumes that the exchange rate between two currencies actually observed in the different international markets is the one that is used in the purchasing power parity comparisons, so that the same amount of goods could actually be purchased in either currency with the same beginning amount of funds. Depending on the particular theory, purchasing power parity is assumed to hold either in the long run or, more strongly, in the short run. Theories that invoke purchasing power parity assume that in some circumstances a fall in either currency's purchasing power  would lead to a proportional decrease in that currency's valuation on the foreign exchange market.
+
+PPP exchange rates are especially useful when official exchange rates are artificially manipulated by governments. Countries with strong government control of the economy sometimes enforce official exchange rates that make their own currency artificially strong. By contrast, the currency's black market exchange rate is artificially weak. In such cases, a PPP exchange rate is likely the most realistic basis for economic comparison. Similarly, when exchange rates deviate significantly from their long term equilibrium due to speculative attacks or carry trade, a PPP exchange rate offers a better alternative for comparison.
+
+In 2011, the Big Mac Index was used to identify manipulation of inflation numbers by Argentina.
+
+The PPP exchange-rate calculation is controversial because of the difficulties of finding comparable baskets of goods to compare purchasing power across countries.
+
+Estimation of purchasing power parity is complicated by the fact that countries do not simply differ in a uniform price level; rather, the difference in food prices may be greater than the difference in housing prices, while also less than the difference in entertainment prices. People in different countries typically consume different baskets of goods. It is necessary to compare the cost of baskets of goods and services using a price index. This is a difficult task because purchasing patterns and even the goods available to purchase differ across countries.
+
+Thus, it is necessary to make adjustments for differences in the quality of goods and services. Furthermore, the basket of goods representative of one economy will vary from that of another: Americans eat more bread; Chinese more rice. Hence a PPP calculated using the US consumption as a base will differ from that calculated using China as a base. Additional statistical difficulties arise with multilateral comparisons when  more than two countries are to be compared.
+
+Various ways of averaging bilateral PPPs can provide a more stable multilateral comparison, but at the cost of distorting bilateral ones. These are all general issues of indexing; as with other price indices there is no way to reduce complexity to a single number that is equally satisfying for all purposes. Nevertheless, PPPs are typically robust in the face of the many problems that arise in using market exchange rates to make comparisons.
+
+For example, in 2005 the price of a gallon of gasoline in Saudi Arabia was US$0.91, and in Norway the price was US$6.27. The significant differences in price would not contribute to accuracy in a PPP analysis, despite all of the variables that contribute to the significant differences in price. More comparisons have to be made and used as variables in the overall formulation of the PPP.
+
+When PPP comparisons are to be made over some interval of time, proper account needs to be made of inflationary effects.
+
+In addition to methodological issues presented by the selection of a basket of goods, PPP estimates can also vary based on the statistical capacity of participating countries. The International Comparison Program, which PPP estimates are based on, require the disaggregation of national accounts into production, expenditure or  income, and not all participating countries routinely disaggregate their data into such categories.
+
+Some aspects of PPP comparison are theoretically impossible or unclear. For example, there is no basis for comparison between the Ethiopian labourer who lives on teff with the Thai labourer who lives on rice, because teff is not commercially available in Thailand and rice is not in Ethiopia, so the price of rice in Ethiopia or teff in Thailand cannot be determined. As a general rule, the more similar the price structure between countries, the more valid the PPP comparison.
+
+PPP levels will also vary based on the formula used to calculate price matrices. Possible formulas include GEKS-Fisher, Geary-Khamis, IDB, and the superlative method. Each has advantages and disadvantages.
+
+Linking regions presents another methodological difficulty. In the 2005 ICP round, regions were compared by using a list of some 1,000 identical items for which a price could be found for 18 countries, selected so that at least two countries would be in each region. While this was superior to earlier "bridging" methods, which do not fully take into account differing quality between goods, it may serve to overstate the PPP basis of poorer countries, because the price indexing on which PPP is based will assign to poorer countries the greater weight of goods consumed in greater shares in richer countries.
+
+There are a number of reasons that different measures do not perfectly reflect standard of living. In 2011, interviewed by the Financial Times, a spokesperson for the IMF declared:
+
+The IMF considers that GDP in purchase-power-parity  terms is not the most appropriate measure for comparing the relative size of countries to the global economy, because PPP price levels are influenced by nontraded services, which are more relevant domestically than globally. The IMF believes that GDP at market rates is a more relevant comparison.
+
+The goods that the currency has the "power" to purchase are a basket of goods of different types:
+
+The more that a product falls into category 1, the further its price will be from the currency exchange rate, moving towards the PPP exchange rate. Conversely, category 2 products tend to trade close to the currency exchange rate. .
+
+More processed and expensive products are likely to be tradable, falling into the second category, and drifting from the PPP exchange rate to the currency exchange rate. Even if the PPP "value" of the Ethiopian currency is three times stronger than the currency exchange rate, it will not buy three times as much of internationally traded goods like steel, cars and microchips, but non-traded goods like housing, services , and domestically produced crops. The relative price differential between tradables and non-tradables from high-income to low-income countries is a consequence of the Balassa–Samuelson effect and gives a big cost advantage to labour-intensive production of tradable goods in low income countries , as against high income countries .
+
+The corporate cost advantage is nothing more sophisticated than access to cheaper workers, but because the pay of those workers goes farther in low-income countries than high, the relative pay differentials  can be sustained for longer than would be the case otherwise.  An equivalent cost benefit comes from non-traded goods that can be sourced locally . These act as a cheaper factor of production than is available to factories in richer countries. It is difficult by GDP PPP to consider the different quality of goods among the countries.
+
+The Bhagwati–Kravis–Lipsey view provides a somewhat different explanation from the Balassa–Samuelson theory. This view states that price levels for nontradables are lower in poorer countries because of differences in endowment of labor and capital, not because of lower levels of productivity. Poor countries have more labor relative to capital, so marginal productivity of labor is greater in rich countries than in poor countries. Nontradables tend to be labor-intensive; therefore, because labor is less expensive in poor countries and is used mostly for nontradables, nontradables are cheaper in poor countries. Wages are high in rich countries, so nontradables are relatively more expensive.
+
+PPP calculations tend to overemphasise the primary sectoral contribution, and underemphasise the industrial and service sectoral contributions to the economy of a nation.
+
+The law of one price is weakened by transport costs and governmental trade restrictions, which make it expensive to move goods between markets located in different countries. Transport costs sever the link between exchange rates and the prices of goods implied by the law of one price. As transport costs increase, the larger the range of exchange rate fluctuations. The same is true for official trade restrictions because the customs fees affect importers' profits in the same way as shipping fees. According to Krugman and Obstfeld, "Either type of trade impediment weakens the basis of PPP by allowing the purchasing power of a given currency to differ more widely from country to country."  They cite the example that a dollar in London should purchase the same goods as a dollar in Chicago, which is certainly not the case.
+
+Nontradables are primarily services and the output of the construction industry. Nontradables also lead to deviations in PPP because the prices of nontradables are not linked internationally. The prices are determined by domestic supply and demand, and shifts in those curves lead to changes in the market basket of some goods relative to the foreign price of the same basket. If the prices of nontradables rise, the purchasing power of any given currency will fall in that country.
+
+Linkages between national price levels are also weakened when trade barriers and imperfectly competitive market structures occur together. Pricing to market occurs when a firm sells the same product for different prices in different markets. This is a reflection of inter-country differences in conditions on both the demand side  and the supply side . According to Krugman and Obstfeld, this occurrence of product differentiation and segmented markets results in violations of the law of one price and absolute PPP. Over time, shifts in market structure and demand will occur, which may invalidate relative PPP.
+
+Measurement of price levels differ from country to country. Inflation data from different countries are based on different commodity baskets; therefore, exchange rate changes do not offset official measures of inflation differences. Because it makes predictions about price changes rather than price levels, relative PPP is still a useful concept. However, change in the relative prices of basket components can cause relative PPP to fail tests that are based on official price indexes.
+
+The global poverty line is a worldwide count of people who live below an international poverty line, referred to as the dollar-a-day line. This line represents an average of the national poverty lines of the world's poorest countries, expressed in international dollars.  These national poverty lines are converted to international currency and the global line is converted back to local currency using the PPP exchange rates from the ICP. PPP exchange rates include data from the sales of high end non-poverty related items which skews the value of food items and necessary goods which is 70 percent of poor peoples' consumption. Angus Deaton argues that PPP indices need to be reweighted for use in poverty measurement; they need to be redefined to reflect local poverty measures, not global measures, weighing local food items and excluding luxury items that are not prevalent or are not of equal value in all localities.
+
+The idea originated with the School of Salamanca in the 16th century, and was developed in its modern form by Gustav Cassel in 1916, in The Present Situation of the Foreign Trade. While Gustav Cassel's use of PPP concept has been traditionally interpreted as his attempt to formulate a positive theory of exchange rate determination, the policy and theoretical context in which Cassel wrote about exchange rates suggests different interpretation. In the years immediately preceding the end of WWI and following it economists and politicians were involved in discussions on possible ways of restoring the gold standard, which would automatically restore the system of fixed exchange rates among participating nations.
+
+The stability of exchange rates was widely believed to be crucial for restoring the international trade and for its further stable and balanced growth. Nobody then was mentally prepared for the idea that flexible exchange rates determined by market forces do not necessarily cause chaos and instability in the peaceful time . Gustav Cassel was among those who supported the idea of restoring the gold standard, although with some alterations. The question, which Gustav Cassel tried to answer in his works written during that period, was not how exchange rates are determined in the free market, but rather how to determine the appropriate level at which exchange rates were to be fixed during the restoration of the system of fixed exchange rates.
+
+His recommendation was to fix exchange rates at the level corresponding to the PPP, as he believed that this would prevent trade imbalances between trading nations. Thus, PPP doctrine proposed by Cassel was not really a positive  theory of exchange rate determination , but rather a normative  policy advice, formulated in the context of discussions on returning to the gold standard.
+
+Each month, the Organisation for Economic Co-operation and Development  measures the differences in price levels between its member countries by calculating the ratios of PPPs for private final consumption expenditure to exchange rates. The OECD table below indicates the number of US dollars needed in each of the countries listed to buy the same representative basket of consumer goods and services that would cost US$100 in the United States.
+
+According to the table, an American living or travelling in Switzerland on an income denominated in US dollars would find that country to be the most expensive of the group, having to spend 47% more US dollars to maintain a standard of living comparable to the US in terms of consumption.
+
+Since global PPP estimates—such as those provided by the ICP—are not calculated annually, but for a single year, PPP exchange rates for years other than the benchmark year need to be extrapolated. One way of doing this is by using the country's GDP deflator. To calculate a country's PPP exchange rate in Geary–Khamis dollars for a particular year, the calculation proceeds in the following manner:
+
+PPPrate
+
+
+
+X
+,
+i
+
+
+=
+
+
+
+
+
+
+PPPrate
+
+
+
+X
+,
+b
+
+
+⋅
+
+
+
+
+
+GDPdef
+
+
+
+X
+,
+i
+
+
+
+
+
+GDPdef
+
+
+
+X
+,
+b
+
+
+
+
+
+
+
+
+
+PPPrate
+
+
+
+U
+,
+b
+
+
+⋅
+
+
+
+
+
+GDPdef
+
+
+
+U
+,
+i
+
+
+
+
+
+GDPdef
+
+
+
+U
+,
+b
+
+
+
+
+
+
+
+
+
+{\displaystyle {\textrm {PPPrate}}_{X,i}={\frac {{\textrm {PPPrate}}_{X,b}\cdot {\frac {{\textrm {GDPdef}}_{X,i}}{{\textrm {GDPdef}}_{X,b}}}}{{\textrm {PPPrate}}_{U,b}\cdot {\frac {{\textrm {GDPdef}}_{U,i}}{{\textrm {GDPdef}}_{U,b}}}}}}
+
+Where PPPrateX,i is the PPP exchange rate of country X for year i, PPPrateX,b is the PPP exchange rate of country X for the benchmark year, PPPrateU,b is the PPP exchange rate of the United States  for the benchmark year , GDPdefX,i is the GDP deflator of country X for year i, GDPdefX,b is the GDP deflator of country X for the benchmark year, GDPdefU,i is the GDP deflator of the US for year i, and GDPdefU,b is the GDP deflator of the US for the benchmark year.
+
+The bank UBS produces its "Prices and Earnings" report every 3 years.  The 2012 report says, "Our reference basket of goods is based on European consumer habits and includes 122 positions".
+
+To teach PPP, the basket of goods is often simplified to a single good.
+
+The Big Mac Index is a simple implementation of PPP where the basket contains a single good: a Big Mac burger from McDonald's restaurants.  The index was created and popularized by The Economist as a way to teach economics and to identify over- and under-valued currencies.
+
+The Big Mac has the value of being a relatively standardized consumer product that includes input costs from a wide range of sectors in the local economy, such as agricultural commodities , labor , advertising, rent and real estate costs, transportation, etc.
+
+There are some problems with the Big Mac Index.  A Big Mac is perishable and not easily transported.  That means the law of one price is not likely to keep prices the same in different locations.  McDonald's restaurants are not present in every country, which limits the index's usage.  Moreover, Big Macs are not sold at every McDonald's , which limits its usage further.
+
+In the white paper, "Burgernomics", the authors computed a correlation of 0.73 between the Big Mac Index's prices and prices calculated using the Penn World Tables.  This single-good index captures most, but not all, of the effects captured by more professional  PPP measurement.
+
+The Economist uses The Big Mac Index to identify overvalued and undervalued currencies.  That is, ones where the Big Mac is expensive or cheap, when measured using current exchange rates.  The January 2019 article states that a Big Mac costs HK$20.00 in Hong Kong and US$5.58 in the United States.  The implied PPP exchange rate is 3.58 HK$ per US$. The difference between this and the actual exchange rate of 7.83 suggests that the Hong Kong dollar is 54.2% undervalued.  That is, it is cheaper to convert US dollars into Hong Kong dollars and buy a Big Mac in Hong Kong than it is to buy a Big Mac directly in US dollars.
+
+Similar to the Big Mac Index, the KFC Index measures PPP with a basket that contains a single item:  a KFC Original 12/15 pc. bucket. The Big Mac Index cannot be used for most countries in Africa because most do not have a McDonald's restaurant.  Thus, the KFC Index was created by Sagaci Research  to identify over- and under-valued currencies in Africa.
+
+For example, the average price of KFC's Original 12 pc. Bucket in the United States in January 2016 was $20.50; while in Namibia it was only $13.40 at market exchange rates. Therefore, the index states the Namibian dollar was undervalued by 33% at that time.
+
+Like the Big Mac Index, the Nespresso Index measures PPP with a basket that contains a single product: An Arpeggio flavored coffee pod produced and retailed by the Nestlé Group. Its advantage compared to the Big Mac Index is that Nespresso capsules are sold in higher numbers compared to a single Big Mac hamburger.
+
+For example, 1 basic Nespresso Capsule costs 0.5 CHF in Switzerland and 0.7 USD in United States. The implied exchange rate is 0.71. The difference between this and the actual exchange rate, 0.93 as of Mid November 2021, suggests the CHF is -22.8% undervalued to the USD.
+
+Like the Big Mac Index, the iPad index  compares an item's price in various locations.  Unlike the Big Mac, however, each iPad is produced in the same place  and all iPads  have identical performance characteristics.  Price differences are therefore a function of transportation costs, taxes, and the prices that may be realized in individual markets.  In 2013, an iPad cost about twice as much in Argentina as in the United States.
+
+Consumer price index  and purchasing power parity  conversion factors share conceptual similarities. The CPI measures differences in levels of prices of goods and services over time within a country, whereas PPPs measure the change in levels of prices across regions within a country.
+

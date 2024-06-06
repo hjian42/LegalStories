@@ -1,0 +1,4 @@
+Illinois Brick Co. v. Illinois, 431 U.S. 720 (1977), is a United States Supreme Court case that involved issues concerning statutory standing in antitrust law.
+The decision established the rule that indirect purchasers of goods or services along a supply chain cannot seek damages for antitrust violations committed by the original manufacturer or service provider, but it permitted such claims by direct purchasers. Several courts recognize exceptions to the rule.
+The decision has become known as the "Illinois Brick doctrine" and is applied to determine whether a plaintiff has standing to bring claims under various federal antitrust statutes.
+

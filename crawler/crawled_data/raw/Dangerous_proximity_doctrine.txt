@@ -1,0 +1,126 @@
+The International Standard Book Number  is a numeric commercial book identifier that is intended to be unique. Publishers purchase or receive ISBNs from an affiliate of the International ISBN Agency.
+
+An ISBN is assigned to each separate edition and variation  of a publication. For example, an e-book, a paperback and a hardcover edition of the same book will each have a different ISBN. The ISBN is ten digits long if assigned before 2007, and thirteen digits long if assigned on or after 1 January 2007. The method of assigning an ISBN is nation-specific and varies between countries, often depending on how large the publishing industry is within a country.
+
+The initial ISBN identification format was devised in 1967, based upon the 9-digit Standard Book Numbering  created in 1966. The 10-digit ISBN format was developed by the International Organization for Standardization  and was published in 1970 as international standard ISO 2108 .
+
+Privately published books sometimes appear without an ISBN. The International ISBN Agency sometimes assigns such books ISBNs on its own initiative.
+
+Another identifier, the International Standard Serial Number , identifies periodical publications such as magazines and newspapers. The International Standard Music Number  covers musical scores.
+
+The Standard Book Number  is a commercial system using nine-digit code numbers to identify books. In 1965, British bookseller and stationers WHSmith announced plans to implement a standard numbering system for its books. They hired consultants to work on their behalf, and the system was devised by Gordon Foster, emeritus professor of statistics at Trinity College Dublin. The International Organization for Standardization  Technical Committee on Documentation sought to adapt the British SBN for international use. The ISBN identification format was conceived in 1967 in the United Kingdom by David Whitaker  and in 1968 in the United States by Emery Koltay .
+
+The 10-digit ISBN format was developed by the ISO and was published in 1970 as international standard ISO 2108. The United Kingdom continued to use the nine-digit SBN code until 1974. ISO has appointed the International ISBN Agency as the registration authority for ISBN worldwide and the ISBN Standard is developed under the control of ISO Technical Committee 46/Subcommittee 9 TC 46/SC 9. The ISO on-line facility only refers back to 1978.
+
+An SBN may be converted to an ISBN by prefixing the digit "0". For example, the second edition of Mr. J. G. Reeder Returns, published by Hodder in 1965, has "SBN 340 01381 8", where "340" indicates the publisher, "01381" is the serial number assigned by the publisher, and "8" is the check digit. By prefixing a zero, this can be converted to .mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:urlright 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:urlright 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:urlright 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:urlright 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}ISBN 0-340-01381-8; the check digit does not need to be re-calculated. Some publishers, such as Ballantine Books, would sometimes use 12-digit SBNs where the last three digits indicated the price of the book; for example, Woodstock Handmade Houses had a 12-digit Standard Book Number of 345-24223-8-595 , and it cost US$5.95.
+
+Since 1 January 2007, ISBNs have contained thirteen digits, a format that is compatible with "Bookland" European Article Numbers, which have 13 digits.
+
+A separate ISBN is assigned to each edition and variation  of a publication. For example, an ebook, audiobook, paperback, and hardcover edition of the same book will each have a different ISBN assigned to it.: 12  The ISBN is thirteen digits long if assigned on or after 1 January 2007, and ten digits long if assigned before 2007. An International Standard Book Number consists of four parts  or five parts .
+
+Section 5 of the International ISBN Agency's official user manual: 11  describes the structure of the 13-digit ISBN, as follows:
+
+A 13-digit ISBN can be separated into its parts , and when this is done it is customary to separate the parts with hyphens or spaces. Separating the parts  of a 10-digit ISBN is also done with either hyphens or spaces. Figuring out how to correctly separate a given ISBN is complicated, because most of the parts do not use a fixed number of digits.
+
+ISBN issuance is country-specific, in that ISBNs are issued by the ISBN registration agency that is responsible for that country or territory regardless of the publication language. The ranges of ISBNs assigned to any particular country are based on the publishing profile of the country concerned, and so the ranges will vary depending on the number of books and the number, type, and size of publishers that are active. Some ISBN registration agencies are based in national libraries or within ministries of culture and thus may receive direct funding from the government to support their services. In other cases, the ISBN registration service is provided by organisations such as bibliographic data providers that are not government funded.
+
+A full directory of ISBN agencies is available on the International ISBN Agency website. A list for a few countries is given below:
+
+The ISBN registration group element is a 1-to-5-digit number that is valid within a single prefix element ,: 11  and can be separated between hyphens, such as "978-1-...". Registration groups have primarily been allocated within the 978 prefix element. The single-digit registration groups within the 978-prefix element are: 0 or 1 for English-speaking countries; 2 for French-speaking countries; 3 for German-speaking countries; 4 for Japan; 5 for Russian-speaking countries; and 7 for People's Republic of China. An example 5-digit registration group is 99936, for Bhutan. The allocated registration groups are: 0–5, 600–625, 65, 7, 80–94, 950–989, 9917–9989, and 99901–99983. Books published in rare languages typically have longer group elements.
+
+Within the 979 prefix element, the registration group 0 is reserved for compatibility with International Standard Music Numbers , but such material is not actually assigned an ISBN. The registration groups within prefix element 979 that have been assigned are 8 for the United States of America, 10 for France, 11 for the Republic of Korea, and 12 for Italy.
+
+The original 9-digit standard book number  had no registration group identifier, but prefixing a zero to a 9-digit SBN creates a valid 10-digit ISBN.
+
+The national ISBN agency assigns the registrant element  and an accompanying series of ISBNs within that registrant element to the publisher; the publisher then allocates one of the ISBNs to each of its books. In most countries, a book publisher is not legally required to assign an ISBN, although most large bookstores only handle publications that have ISBNs assigned to them.
+
+The International ISBN Agency maintains the details of over one million ISBN prefixes and publishers in the Global Register of Publishers. This database is freely searchable over the internet.
+
+Publishers receive blocks of ISBNs, with larger blocks allotted to publishers expecting to need them; a small publisher may receive ISBNs of one or more digits for the registration group identifier, several digits for the registrant, and a single digit for the publication element. Once that block of ISBNs is used, the publisher may receive another block of ISBNs, with a different registrant element. Consequently, a publisher may have different allotted registrant elements. There also may be more than one registration group identifier used in a country. This might occur once all the registrant elements from a particular registration group have been allocated to publishers.
+
+By using variable block lengths, registration agencies are able to customise the allocations of ISBNs that they make to publishers. For example, a large publisher may be given a block of ISBNs where fewer digits are allocated for the registrant element and many digits are allocated for the publication element; likewise, countries publishing many titles have few allocated digits for the registration group identifier and many for the registrant and publication elements. Here are some sample ISBN-10 codes, illustrating block length variations.
+
+English-language registration group elements are 0 and 1 . These two registration group elements are divided into registrant elements in a systematic pattern, which allows their length to be determined, as follows:
+
+A check digit is a form of redundancy check used for error detection, the decimal equivalent of a binary check bit. It consists of a single digit computed from the other digits in the number. The method for the 10-digit ISBN is an extension of that for SBNs, so the two systems are compatible; an SBN prefixed with a zero  will give the same check digit as the SBN without the zero. The check digit is base eleven, and can be an integer between 0 and 9, or an 'X'. The system for 13-digit ISBNs is not compatible with SBNs and will, in general, give a different check digit from the corresponding 10-digit ISBN, so does not provide the same protection against transposition. This is because the 13-digit code was required to be compatible with the EAN format, and hence could not contain an 'X'.
+
+According to the 2001 edition of the International ISBN Agency's official user manual, the ISBN-10 check digit  must range from 0 to 10 , and must be such that the sum of the ten digits, each multiplied by its  weight, descending from 10 to 1, is a multiple of 11. That is, if xi is the ith digit, then x10 must be chosen such that:
+
+For example, for an ISBN-10 of 0-306-40615-2:
+
+Formally, using modular arithmetic, this is rendered
+
+It is also true for ISBN-10s that the sum of all ten digits, each multiplied by its weight in ascending order from 1 to 10, is a multiple of 11. For this example:
+
+Formally, this is rendered
+
+The two most common errors in handling an ISBN  are a single altered digit or the transposition of adjacent digits. It can be proven mathematically that all pairs of valid ISBN-10s differ in at least two digits. It can also be proven that there are no pairs of valid ISBN-10s with eight identical digits and two transposed digits.  The ISBN check digit method therefore ensures that it will always be possible to detect these two most common types of error, i.e., if either of these types of error has occurred, the result will never be a valid ISBN – the sum of the digits multiplied by their weights will never be a multiple of 11. However, if the error were to occur in the publishing house and remain undetected, the book would be issued with an invalid ISBN.
+
+In contrast, it is possible for other types of error, such as two altered non-transposed digits, or three altered digits, to result in a valid ISBN .
+
+Each of the first nine digits of the 10-digit ISBN – excluding the check digit itself – is multiplied by its  weight, descending from 10 to 2, and the sum of these nine products found. The value of the check digit is simply the one number between 0 and 10 which, when added to this sum, means the total is a multiple of 11.
+
+For example, the check digit for an ISBN-10 of 0-306-40615-? is calculated as follows:
+
+Adding 2 to 130 gives a multiple of 11  – this is the only number between 0 and 10 which does so. Therefore, the check digit has to be 2, and the complete sequence is ISBN 0-306-40615-2. If the value of 
+
+
+
+
+x
+
+10
+
+
+
+
+{\displaystyle x_{10}}
+
+ required to satisfy this condition is 10, then an 'X' should be used.
+
+Alternatively, modular arithmetic is convenient for calculating the check digit using modulus 11. The remainder of this sum when it is divided by 11 , is computed. This remainder plus the check digit must equal either 0 or 11. Therefore, the check digit is  modulo 11. Taking the remainder modulo 11 a second time accounts for the possibility that the first remainder is 0. Without the second modulo operation, the calculation could result in a check digit value of 11 − 0 = 11, which is invalid. 
+
+For example, the check digit for the ISBN of 0-306-40615-? is calculated as follows:
+
+Thus the check digit is 2.
+
+It is possible to avoid the multiplications in a software implementation by using two accumulators. Repeatedly adding t into s computes the necessary multiples:
+
+The modular reduction can be done once at the end, as shown above , or s and t could be reduced by a conditional subtract after each addition.
+
+Appendix 1 of the International ISBN Agency's official user manual: 33  describes how the 13-digit ISBN check digit is calculated. The ISBN-13 check digit, which is the last digit of the ISBN, must range from 0 to 9 and must be such that the sum of all the thirteen digits, each multiplied by its  weight, alternating between 1 and 3, is a multiple of 10. As ISBN-13 is a subset of EAN-13, the algorithm for calculating the check digit is exactly the same for both.
+
+Formally, using modular arithmetic, this is rendered:
+
+The calculation of an ISBN-13 check digit begins with the first twelve digits of the 13-digit ISBN . Each digit, from left to right, is alternately multiplied by 1 or 3, then those products are summed modulo 10 to give a value ranging from 0 to 9. Subtracted from 10, that leaves a result from 1 to 10. A zero replaces a ten, so, in all cases, a single check digit results.
+
+For example, the ISBN-13 check digit of 978-0-306-40615-? is calculated as follows:
+
+Thus, the check digit is 7, and the complete sequence is ISBN 978-0-306-40615-7.
+
+In general, the ISBN check digit is calculated as follows.
+
+Let
+
+Then
+
+This check system – similar to the UPC check digit formula – does not catch all errors of adjacent digit transposition. Specifically, if the difference between two adjacent digits is 5, the check digit will not catch their transposition. For instance, the above example allows this situation with the 6 followed by a 1. The correct order contributes 3 × 6 + 1 × 1 = 19 to the sum; while, if the digits are transposed , the contribution of those two digits will be 3 × 1 + 1 × 6 = 9. However, 19 and 9 are congruent modulo 10, and so produce the same, final result: both ISBNs will have a check digit of 7. The ISBN-10 formula uses the prime modulus 11 which avoids this blind spot, but requires more than the digits 0–9 to express the check digit.
+
+Additionally, if the sum of the 2nd, 4th, 6th, 8th, 10th, and 12th digits is tripled then added to the remaining digits , the total will always be divisible by 10 .
+
+A 10-digit ISBN is converted to a 13-digit ISBN by prepending "978" to the  ISBN-10 and recalculating the final checksum digit using the ISBN-13 algorithm. The reverse process can also be performed, but not for numbers commencing with a prefix other than 978, which have no 10-digit equivalent.
+
+Publishers and libraries have varied policies about the use of the ISBN check digit. Publishers sometimes fail to check the correspondence of a book title and its ISBN before publishing it; that failure causes book identification problems for libraries, booksellers, and readers. For example, ISBN 0-590-76484-5 is shared by two books – Ninja gaiden: a novel based on the best-selling game by Tecmo  and Wacky laws , both published by Scholastic.
+
+Most libraries and booksellers display the book record for an invalid ISBN issued by the publisher. The Library of Congress catalogue contains books published with invalid ISBNs, which it usually tags with the phrase "Cancelled ISBN". However, book-ordering systems will not search for a book if an invalid ISBN is entered to its search engine. The International Union Library Catalog  often indexes by invalid ISBNs, if the book is indexed in that way by a member library.
+
+Only the term "ISBN" should be used; the terms "eISBN" and "e-ISBN" have historically been sources of confusion and should be avoided. If a book exists in one or more digital  formats, each of those formats must have its own ISBN. In other words, each of the three separate EPUB, Amazon Kindle, and PDF formats of a particular book will have its own specific ISBN. They should not share the ISBN of the paper version, and there is no generic "eISBN" which encompasses all the e-book formats for a title.
+
+Currently the barcodes on a book's back cover  are EAN-13; they may have a separate barcode encoding five digits called an EAN-5 for the currency and the recommended retail price. For 10-digit ISBNs, the number "978", the Bookland "country code", is prefixed to the ISBN in the barcode data, and the check digit is recalculated according to the EAN-13 formula .
+
+Partly because of an expected shortage in certain ISBN categories, the International Organization for Standardization  decided to migrate to a 13-digit ISBN . The process began on 1 January 2005 and was planned to conclude on 1 January 2007. As of 2011, all the 13-digit ISBNs began with 978. As the 978 ISBN supply is exhausted, the 979 prefix was introduced. Part of the 979 prefix is reserved for use with the Musicland code for musical scores with an ISMN. The 10-digit ISMN codes differed visually as they began with an "M" letter; the bar code represents the "M" as a zero, and for checksum purposes it counted as a 3. All ISMNs are now thirteen digits commencing 979-0; 979-1 to 979-9 will be used by ISBN.
+
+Publisher identification code numbers are unlikely to be the same in the 978 and 979 ISBNs, likewise, there is no guarantee that language area code numbers will be the same. Moreover, the 10-digit ISBN check digit generally is not the same as the 13-digit ISBN check digit. Because the GTIN-13 is part of the Global Trade Item Number  system , the 13-digit ISBN falls within the 14-digit data field range.
+
+Barcode format compatibility is maintained, because  the ISBN-13 barcode format is identical to the EAN barcode format of existing 10-digit ISBNs. So, migration to an EAN-based system allows booksellers the use of a single numbering system for both books and non-book products that is compatible with existing ISBN based data, with only minimal changes to information technology systems. Hence, many booksellers  migrated to EAN barcodes as early as March 2005. Although many American and Canadian booksellers were able to read EAN-13 barcodes before 2005, most general retailers could not read them. The upgrading of the UPC barcode system to full EAN-13, in 2005, eased migration to the ISBN in North America.
+

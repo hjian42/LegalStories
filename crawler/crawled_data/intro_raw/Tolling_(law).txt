@@ -1,0 +1,8 @@
+Tolling is a legal doctrine that allows for the pausing or delaying of the running of the period of time set forth by a statute of limitations, such that a lawsuit may potentially be filed even after the statute of limitations has run. Although grounds for tolling the statute of limitations vary by jurisdiction, common grounds include:
+The plaintiff was a minor at the time a cause of action accrued.
+The plaintiff has been deemed mentally incompetent.
+The plaintiff has been convicted of a felony and is imprisoned.
+The defendant has filed a bankruptcy case triggering a stay of other lawsuits.
+The defendant is not physically within a certain jurisdiction (state or country).
+The parties were engaged in good-faith negotiations to resolve a dispute without litigation when the statute of limitations expired.Tolling may occur under a statute that specifically provides for the tolling of the statute of limitations during specified circumstances. It may also take the form of equitable tolling, where the court applies common law principles of equity to extend the time for the filing of a document.
+

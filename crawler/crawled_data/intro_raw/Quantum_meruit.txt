@@ -1,0 +1,2 @@
+Quantum meruit is a Latin phrase meaning "what one has earned". In the context of contract law, it means something along the lines of "reasonable value of services".
+In the United States, the elements of quantum meruit are determined by state common law. For example, to state a claim for unjust enrichment in New York, a plaintiff must allege that (1) defendant was enriched; (2) the enrichment was at plaintiff's expense; and (3) the circumstances were such that equity and good conscience require defendants to make restitution.

@@ -1,0 +1,2 @@
+The doctrine of equivalents is a legal rule in many (but not all) of the world's patent systems that allows a court to hold a party liable for patent infringement even though the infringing device or process does not fall within the literal scope of a patent claim, but nevertheless is equivalent to the claimed invention.  U.S. Judge Learned Hand has described its purpose as being "to temper unsparing logic and prevent an infringer from stealing the benefit of the invention".
+

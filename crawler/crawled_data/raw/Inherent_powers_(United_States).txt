@@ -1,0 +1,94 @@
+.us is the Internet country code top-level domain  for the United States. It was established in early 1985. Registrants of .us domains must be U.S. citizens, residents, or organizations – or foreign entities with a presence in the United States or any territory of the United States. Most registrants in the U.S. have registered for .com, .net, .org and other gTLDs, instead of .us, which has primarily been used by state and local governments, even though private entities may also register .us domains.
+
+The .us domain is less commonly used by American businesses and enterprises than the more international .com.
+
+On February 15, 1985, .us was created as the Internet's first ccTLD. Its original administrator was Jon Postel of the Information Sciences Institute  at the University of Southern California . He administered .us under a subcontract that the ISI and USC had from SRI International  and later Network Solutions .
+
+Postel and his colleague Ann Westine Cooper codified the .us ccTLD's policies in December 1992 as RFC 1386 and revised them the following June in RFC 1480. Registrants could only register third-level domains or higher in a geographic and organizational hierarchy. From June 1993 to June 1997, Postel delegated the vast majority of the geographic subdomains under .us to various public and private entities. .us registrants could register with the delegated manager for the specific zone they wished to register in, but not directly with the .us administrator. In July 1997, Postel instituted a "50/500 rule" that limited each delegated manager to 500 localities maximum, 50 in a given state.
+
+In June 1998, Postel raised the possibility of covering IANA operating costs by charging locality name registrars, who would pass the costs along to individual registrants. In September 1998, the United States Postal Service proposed funding the operations in order to assume control of .us, as part of a plan to diversify away from postage revenue. On October 1, 1998, the NSF transferred oversight of the .us domain to the National Telecommunications and Information Administration  of the United States Department of Commerce. Postel died that month, leaving his domain administration responsibilities with ISI. In December 2000, these responsibilities were transferred to Network Solutions, which had recently been acquired by Verisign.
+
+On October 26, 2001, Neustar was awarded the contract to administer .us. On April 24, 2002, second-level domains under .us became available for registration. One of the first .us domain hacks, icio.us, was registered on May 3, 2002, for the creation of the subdomain del.icio.us. A moratorium was placed on additional delegations of locality-based namespaces, and Neustar became the default delegate for undelegated localities. Neustar's contract was renewed by the National Telecommunications and Information Administration  in 2007 and most recently in 2014.
+
+On March 31, 2019, The .US registry made it clear that under its Acceptable Use Policy it would not allow the sale of opioids through the .US top level domain.
+
+In Q2 2020, GoDaddy acquired Neustar's registry business.
+
+The .us ccTLD is historically organized under a complex locality namespace hierarchy. Until second-level registrations were introduced in 2002, .us permitted only fourth-level domain registrations of the form organization-name.locality.state.us, with some exceptions for government entities. Registrants of locality-based domains must meet the same criteria as in the rest of the .us ccTLD. Though the locality namespace is most commonly used for government entities, it is also open to registrations by private businesses and individuals. Since 2002, second-level domain registrations have eclipsed those in the locality namespace, and many local governments have transitioned to .org and other TLDs. In the 2010s, the first top-level domains for U.S. cities became available as paid alternatives to third-level locality domains, including .nyc as an alternative to .new-york.ny.us.
+
+Many locality-based zones of .us are delegated to various public and private entities known as delegated managers. Domains in these zones are registered through the delegated manager, rather than through GoDaddy. As the delegated managers are expected to receive requests directly from registrants, few if any domain name registrars serve this space, possibly contributing to its lower visibility and utilization. RFC 1480 describes the rationale for the locality namespace's deep hierarchy and local delegation:
+
+One concern is that things will continue to grow dramatically, and this will require more subdivision of the domain name management. Maybe the plan for the US Domain is overkill on growth planning, but there has never been overplanning for growth yet.
+
+This hierarchical system has proven unappealing to companies that operate nationally or globally.
+
+As of October 31, 2013, 12,979 domains were registered under the locality namespace, of which 3,653 were managed by about 1,300 delegated managers while 9,326 were managed by Neustar as the de facto manager. According to a 2013 survey of 539 delegated managers, 282 were state or local government agencies, while 98 were private individuals and 85 were commercial Internet service providers. Nearly 90% of the respondents offer domain registrations for free.
+
+The .au and .ca ccTLDs have also established third- and fourth-level locality namespaces, though the .ca locality namespace is no longer open to registrations. The .cn ccTLD maintains a third-level locality namespace in general use.
+
+A two-letter second-level domain is formally reserved for each U.S. state, federal territory, and the District of Columbia. Each domain corresponds to a USPS abbreviation. For example, .ny.us is reserved for websites affiliated with New York, while .va.us is for those affiliated with Virginia. Second-level domains are also reserved for five U.S. territories: .as.us for American Samoa, .gu.us for Guam, .mp.us for the Northern Mariana Islands, .pr.us for Puerto Rico, and .vi.us for the U.S. Virgin Islands. However, these domains go unused because each territory has its own ccTLD per ISO 3166-1 alpha-2: respectively, .as, .gu, .mp, .pr, and .vi.
+
+A state's main government portal is usually found at the third-level domain state.state.us, which is reserved for this purpose. However, some state administrations prefer .gov domains: for example, California's government portal is located at www.ca.gov, while www.state.ma.us redirects to Massachusetts's portal at www.mass.gov. Fully spelled-out names of states are also reserved under .us, so the State of Ohio's website was at one point available at www.ohio.us in addition to the usual www.ohio.gov, with the former www.state.oh.us remaining as a redirect. Other than for state governments, no third-level domain registrations are permitted under state or territory second-level domains.
+
+A few additional names are reserved at the second level for government agencies that are not subordinate to a state government:
+
+A large number of third-level domains are reserved for localities within states. Each fourth-level domain registration under this namespace follows the format organization-name.locality.state.us, where state is a state's two-letter postal abbreviation and locality is a hyphenated name that corresponds to a ZIP code or appears in a well-known atlas.
+
+Two values of organization-name are formally reserved across the entire locality namespace for city and county governments:
+
+Delegated managers often reserve additional names for different kinds of local governments:
+
+In some cases, a local government that serves as the delegated manager for its own locality may locate its website directly under the locality, omitting the organization-name. For example, the website of the City of Brunswick, Ohio, is located at www.brunswick.oh.us rather than www.ci.brunswick.oh.us, and the website of Delhi Township, Hamilton County, Ohio, is located at delhi.oh.us instead of www.twp.delhi.oh.us. Many large cities use .gov extensions, for example New York City: www.nyc.gov; Chicago: www.chicago.gov, Rochester, New York: cityofrochester.gov; and Atlanta: www.atlantaga.gov.
+
+Private organizations and individuals may register fourth-level domains parallel to these government domains, for example:
+
+Directly beneath the state.us zone, several affinity namespaces are reserved for specific purposes:
+
+Some of these affinity namespaces have been supplanted by more convenient sponsored top-level domains. The first sTLD, .museum, became available in October 2001 as an alternative to the .mus namespace. Since April 2003, the .edu top-level domain has been available as an alternative for community colleges, technical and vocational schools, and other tertiary educational institutions that might have previously used the .cc or .tec affinity namespaces.
+
+Although the Kentucky Department of Education operates the .k12.ky.us namespace for Kentucky school districts, most districts instead use subdomains of the less formal domain kyschools.us, which the department operates in a similar manner. For example, Gallatin county schools have a website at www.gallatin.k12.ky.us, while Paducah Public Schools are located at paducah.kyschools.us and the McCracken County Public Schools use mccracken.kyschools.us as a redirect to www.mccrackencountyschools.net.
+
+The Dot Kids Implementation and Efficiency Act of 2002  ) established a .kids.us second-level domain. The general public could register third-level domains under .kids.us for educational content that met strict requirements, including conformance to the Children's Online Privacy Protection Act and adherence to Children's Advertising Review Unit standards. Webpages were prohibited from linking outside the .kids.us namespace. On July 27, 2012, in response to declining usage and a petition by Neustar the previous year, the NTIA suspended .kids.us registrations. By that time, 651 domains were registered under .kids.us, and only five registrants  were operating active websites.
+
+Under .us nexus requirements, .us domains may be registered only by the following qualified entities:
+
+To ensure that these requirements are met, GoDaddy frequently conducts "spot checks" on registrant information.
+
+To prevent anonymous registrations that do not meet these requirements, in 2005 the National Telecommunications and Information Administration ruled that registrants of .us domains may not secure private domain name registration via anonymizing proxies, and that their contact information must be made public. Registrants are required to provide complete contact information without omissions.
+
+Under the locality namespace, delegated managers may impose additional requirements. For example, the Texas Regional Hostmaster restricts each of its delegated localities to organizations that have a mailing address in that locality.
+
+A .ac .ad .ae .af .ag .ai .al .am .ao .aq .ar .as .at .au .aw .ax .az  
+B .ba .bb .bd .be .bf .bg .bh .bi .bj .bm .bn .bo .br .bs .bt .bw .by .bz  
+C .ca .cc .cd .cf .cg .ch .ci .ck .cl .cm .cn .co .cr .cu .cv .cw .cx .cy .cz  
+D .de .dj .dk .dm .do .dz  
+E .ec .ee .eg .er .es .et .eu  
+F .fi .fj .fk .fm .fo .fr  
+G .ga .gd .ge .gf .gg .gh .gi .gl .gm .gn .gp .gq .gr .gs .gt .gu .gw .gy  
+H .hk .hm .hn .hr .ht .hu  
+I .id .ie .il .im .in .io .iq .ir .is .it  
+J .je .jm .jo .jp  
+K .ke .kg .kh .ki .km .kn .kp .kr .kw .ky .kz  
+L .la .lb .lc .li .lk .lr .ls .lt .lu .lv .ly  
+M .ma .mc .md .me .mg .mh .mk .ml .mm .mn .mo .mp .mq .mr .ms .mt .mu .mv .mw .mx .my .mz  
+N .na .nc .ne .nf .ng .ni .nl .no .np .nr .nu .nz  
+O .om  
+P .pa .pe .pf .pg .ph .pk .pl .pm .pn .pr .ps .pt .pw .py  
+Q .qa  
+R .re .ro .rs .ru .rw  
+S .sa .sb .sc .sd .se .sg .sh .si .sk .sl .sm .sn .so .sr .ss .st .su .sv .sx .sy .sz  
+T .tc .td .tf .tg .th .tj .tk .tl .tm .tn .to .tr .tt .tv .tw .tz  
+U .ua .ug .uk .us .uy .uz  
+V .va .vc .ve .vg .vi .vn .vu  
+W .wf .ws  
+Y .ye .yt  
+Z .za .zm .zw
+
+.κπ  - .日本 
+
+.bl .bq .eh .mf .xk
+
+.bv .gb .sj
+
+.an .bu .cs .dd .tp .um .yu .zr
+

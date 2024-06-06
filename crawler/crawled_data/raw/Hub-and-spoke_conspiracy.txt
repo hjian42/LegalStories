@@ -1,0 +1,10 @@
+This is a list of the world's countries and their dependencies by land, water, and total area, ranked by total area.
+
+Entries in this list include, but are not limited to, those in the ISO 3166-1 standard, which includes sovereign states and dependent territories. All 193 member states of the United Nations plus the two observer states are given a rank number. Largely unrecognised states not in ISO 3166-1 are included in the list in ranked order. The areas of such largely unrecognised states are in most cases also included in the areas of the more widely recognised states that claim the same territory; see the notes in the "notes" column for each country for clarification.
+
+Not included in the list are individual country claims to parts of the continent of Antarctica or entities such as the European Union that have some degree of sovereignty but do not consider themselves to be sovereign countries or dependent territories.
+
+This list includes three measurements of area:
+
+Data is taken from the United Nations Statistics Division unless otherwise noted.
+

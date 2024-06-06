@@ -1,0 +1,47 @@
+In common-law legal systems, laches  is a lack of diligence and activity in making a legal claim, or moving forward with legal enforcement of a right, particularly in regard to  equity. This means that it is an unreasonable delay that can be viewed as prejudicing the opposing party. When asserted in litigation, it is an equity defense, that is, a defense to a claim for an equitable remedy.
+
+The person invoking laches is asserting that an opposing party has "slept on its rights", and that, as a result of this delay, circumstances have changed , such that it is no longer a just resolution to grant the plaintiff's claim. Laches is associated with the maxim of equity: "Equity aids the vigilant" - not those who sleep on their rights. Put another way, failure to assert one's rights in a timely manner can result in a claim being barred by laches.
+
+Laches is a legal term derived from the Old French laschesse, meaning "remissness" or "dilatoriness," and is viewed as the opposite of "vigilance." The United States Supreme Court case Costello v. United States 365 US 265, 282  is often cited for a definition of laches. Costello defined Laches as "Lack of diligence by the party against whom the defense is asserted combined with prejudice to the party asserting the defense".
+
+Invoking laches is a reference to a lack of diligence and activity in making a legal claim, or moving forward with legal enforcement of a right, in particular with regard to equity, and so is an "unreasonable delay pursuing a right or claim, in a way that prejudices the  party". When asserted in litigation, it is an equitable defense, that is, a defense to a claim for an equitable remedy. The essential element of laches is an unreasonable delay by the plaintiff in bringing the claim; because laches is an equitable defense, it is ordinarily applied only to claims for equitable relief , and not to claims for legal relief . The person invoking laches is asserting that an opposing party has "slept on its rights", and that, as a result of this delay, witnesses or evidence may have been lost or no longer available, and circumstances have changed such that it is no longer just to grant the plaintiff's original claim; hence, laches is associated with the maxim of equity: Vigilantibus non dormientibus æquitas subvenit . Put another way, failure to assert one's rights in a timely manner can result in a claim being barred by laches. Sometimes courts will also require that the party invoking the doctrine has changed its position as a result of the delay, but that requirement is more typical of the related  defense and equally cause of action of estoppel.
+
+A claim of laches requires the following components:
+
+The period of delay begins when the plaintiff knew, or reasonably ought to have known, that the cause of action existed; the period of delay ends only when the legal action is formally filed. Informing or warning the defendant of the cause of action  does not, by itself, end the period of delay.
+
+In order to invoke laches, the delay by the opposing party in initiating the lawsuit must be unreasonable.  The courts have recognized the following causes of delay as reasonable:
+
+By contrast, it is not reasonable to delay a lawsuit to "capitalize on the value of the infringer's labor".  In Danjaq v. Sony, the Ninth Circuit decided that a screenwriter who waited for a film studio to publicize and distribute a film based on a script he allegedly owned had delayed his lawsuit unreasonably.
+
+Unreasonable delay must prejudice the defendant.  Examples of such prejudice include:
+
+Unreasonable delay may also prejudice the rights of third-parties who were unknown in the case, earlier but whose rights got created in the intervening period of the delay 
+
+A defense lawyer raising the defense of laches against a motion for injunctive relief  might argue that the plaintiff comes "waltzing in at the eleventh hour" when it is now too late to grant the relief sought, at least not without causing great harm that the plaintiff could have avoided. In certain types of cases , a delay of even a few days is likely to be met with a defense of laches, even where the applicable statute of limitations might allow the type of action to be commenced within a much longer time period. In courts in the United States, laches has often been applied even where a statute of limitations exists, although there is a division of authority on this point.
+
+If a court does accept the laches defense, it can decide either to deny the request for equitable relief or to narrow the equitable relief that it would otherwise give. Even if the court denies equitable relief to a plaintiff because of laches, the plaintiff may still have a claim for legal relief if the statute of limitations has not run out.
+
+Under the United States Federal Rules of Civil Procedure, laches is an affirmative defense, which means that the burden of asserting laches is on the party responding to the claim to which it applies..mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}
+
+"When the defense of laches is clear on the face of the complaint, and where it is clear that the plaintiff can prove no set of facts to avoid the insuperable bar, a court may consider the defense on a motion to dismiss." 
+
+The laches defense does not apply if the claimant was a minor during the time that the claim was not brought, so a party can bring a claim against an historical injustice when they reach their majority.
+
+The defense of laches resembles a statute of limitations since both are concerned with ensuring that plaintiffs bring their claims in a timely fashion.
+
+However,  a statute of limitations is concerned only with the time that has passed. Laches is concerned with the reasonableness of the delay in a particular situation and so is more case-specific and more focused on the equitable conduct of the plaintiff. Those considerations are not unique to the laches defense because they are characteristic of equitable reasoning and equitable remedies. Whereas, limitation is a statutory remedy.
+
+In the US, the proper disposal of claims in light of those two areas of law has required attention through to the Supreme Court. In Petrella v. Metro-Goldwyn-Mayer , the US Supreme Court rebuffed a defendant's claim that laches barred a copyright infringement suit because Congress had established a detailed statutory scheme, including a statute of limitations.
+
+
+In the Virginia Republican primary for the 2012 US presidential election, several candidates did not appear on the ballot because they failed to obtain sufficient petition signatures. Four of the unsuccessful candidates—Rick Perry, Jon Huntsman, Newt Gingrich, and Rick Santorum—sued, claiming that restrictions on the persons allowed to gather signatures were unconstitutional. Their claim was dismissed by the district court on the grounds of laches, because, in the words of the appellate court:
+
+...plaintiffs could have brought their constitutional challenge to Virginia's residency requirement for petition circulators as soon they were able to circulate petitions in the summer of 2011, but instead chose to wait until after the December 22, 2011 deadline before seeking relief. The district court concluded this delay 'displayed an unreasonable and inexcusable lack of diligence' on plaintiffs' part that 'has significantly harmed the defendants.' Specifically, it determined that the delayed nature of this suit had already transformed the Board's orderly schedule for printing and mailing absentee ballots 'into a chaotic attempt to get absentee ballots out on time.' The district court consequently held that laches barred their request for relief.
+
+The appeals court upheld the dismissal on grounds of laches, but it added that the challenge would likely have succeeded if it had been brought in a timely fashion.
+
+In Grand Haven, Michigan, the Northwest Ottawa Community Health System sued Grand Haven Township and Health Pointe, which was in the process of building a competing medical facility in the township, arguing that the township ignored its own zoning ordinance in approving the project. On March 24, 2017, as part of a ruling dismissing the lawsuit, Circuit Court Judge Jon A. Van Allsburg noted that the Northwest Ottawa Community Health System waited more than eight months from the date the project was approved before filing the lawsuit and that during that time, plaintiff Health Pointe had purchased construction materials.
+
+The defense of laches is often used as an affirmative defense in patent infringement lawsuits in the USA. In 2021, the Court of Appeals for the Federal Circuit allowed the USPTO to use laches as a reason for denying patents to an applicant, who filed hundreds of applications, that were “atypically long and complex”, and who filed amendments, which increased the total number of claims to roughly 115,000.  This applicant alone forced the USPTO to create an art unit of twelve experienced examiners solely to examine its patents.
+

@@ -1,0 +1,9 @@
+The median income is the income amount that divides a population into two equal groups, half having an income above that amount, and half having an income below that amount. It may differ from the mean  income. Both of these are ways of understanding income distribution.
+
+Median income can be calculated by household income, by personal income, or for specific demographic groups.
+
+The following table represents data from OECD's "median disposable income per person" metric; disposable income deducts from gross income the value of taxes on income and wealth paid and of
+contributions paid by households to public social security schemes. The figures are equivalised by dividing income by the square root of household size. As OECD displays median disposable incomes in each country's respective currency, the values were converted here using PPP conversion factors for private consumption from the same source, accounting for each country's cost of living in the year that the disposable median income was recorded. Data are in United States dollars at current prices and current purchasing power parity for private consumption for the reference year.
+
+*Top country subdivisions by GDP
+

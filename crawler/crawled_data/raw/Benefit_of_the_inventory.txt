@@ -1,0 +1,12 @@
+Helvering v. Horst, 311 U.S. 112 , is an opinion of the United States Supreme Court which further developed the “fruit-and-tree” metaphor established in Lucas v. Earl. Horst is the leading case that applies the assignment of income doctrine to income from property.
+
+In 1934 and 1935, Paul Horst, the owner of negotiable bonds, detached negotiable interest coupons prior to their due date and gave them as a gift to his son.  His son thus collected the interest coupons at maturity. A coupon bond holder owns two independent and separable rights:  the right to receive at maturity the principal amount of the bond, and  the right to receive interim payments of interest on the investment of the amounts specified by the coupons.
+
+The issue before the Court was whether the gift of interest coupons, during the donor’s taxable year, detached from the bonds, is considered as the realization of income taxable to the donor, or if the gift of the coupons effectively diverts the payments of interest to the donee.
+
+The Court held that Paul Horst was liable for income tax on the interest payments received by his son.
+
+The Court reasoned that the power to dispose of income is the equivalent of ownership. Because he was able to separate the interest coupons from the bonds and procure payment of the interest to his son, Paul Horst enjoyed the economic benefits of the income. The court stated “he taxpayer has equally enjoyed the fruits of his labor or investment and obtained the satisfaction of his desires whether he collects and uses the income . . . or whether he disposes of his right to collect it. . . .” The taxpayer cannot attribute the fruit  to a different tree from that on which it grew . If Horst had given both the bond and the interest coupons to his son, the interest would have been taxable to his son.
+
+Horst has important implications for taxpayers trying to shift their tax burden to another. A taxpayer who is normally taxable only on the receipt of interest payments cannot escape taxation by giving away his right to such income. Furthermore, when assigning income from property to another person   in the form of a gift, the courts will usually see it as a way to avoid tax and thus consider it “fruit.”  Only in an arms-length sale do the courts see the “tree” itself being moved.
+

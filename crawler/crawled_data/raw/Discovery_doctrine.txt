@@ -1,0 +1,353 @@
+In legal terminology, the assured clear distance ahead  is the distance ahead of any terrestrial locomotive device such as a land vehicle, typically an automobile, or watercraft, within which they should be able to bring the device to a halt. It is one of the most fundamental principles governing ordinary care and the duty of care for all methods of conveyance, and is frequently used to determine if a driver is in proper control and is a nearly universally implicit consideration in vehicular accident liability. The rule is a precautionary trivial burden required to avert the great probable gravity of precious life loss and momentous damage. Satisfying the ACDA rule is necessary but not sufficient to comply with the more generalized basic speed law, and accordingly, it may be used as both a layman's criterion and judicial test for courts to use in determining if a particular speed is negligent, but not to prove it is safe. As a spatial standard of care, it also serves as required explicit and fair notice of prohibited conduct so unsafe speed laws are not void for vagueness. The concept has transcended into accident reconstruction and engineering.
+
+This distance is typically both determined and constrained by the proximate edge of clear visibility, but it may be attenuated to a margin of which beyond hazards may reasonably be expected to spontaneously appear. The rule is the specific spatial case of the common law basic speed rule, and an application of volenti non fit injuria. The two-second rule may be the limiting factor governing the ACDA, when the speed of forward traffic is what limits the basic safe speed, and a primary hazard of collision could result from following any closer.
+
+As the original common law driving rule preceding statutized traffic law, it is an ever important foundational rule in today's complex driving environment. Because there are now protected classes of roadway users–such as a school bus, mail carrier, emergency vehicle, horse-drawn vehicle, agricultural machinery, street sweeper, disabled vehicle, cyclist, and pedestrian–as well as natural hazards which may occupy or obstruct the roadway beyond the edge of visibility, negligence may not depend ex post facto on what a driver happened to hit, could not have known, but had a concurrent duty to avoid. Furthermore, modern knowledge of human factors has revealed physiological limitations–such as the subtended angular velocity detection threshold  – which may make it difficult, and in some circumstance impossible, for other drivers to always comply with right-of-way statutes by staying clear of roadway.
+
+As with the genesis of most legal doctrine governing problems which precede a legislative solution, the ACDA principle generally originates to decisional precedent by high courts which reasoned general common sense rules of conduct of which naturally follow from the repetitive process of determining specific culpability. Legislation often subsequently followed which either superfluously codified and endorsed or revised these principles, of which courts would in turn continue to flesh out the details. By the late 1920s, the term "assured clear distance ahead" came into widespread use as the identity of a standard of care element in choosing safe speed, with differing jurisdictions adopting the language to carry its same effects. Much of the earliest published record naturally pertains to high stakes wrecks among vessels or vehicles as defined in those times, though the obvious principle applies to chariots and might in fact be time immemorial.
+
+Horses may still be expected to use the roadways, as well bicycles and automobiles. The former are a regular appearance in both urban areas and in the country, and are commonly exercised by commuters and Amish. Many roads are unchanged since the 1800s while controlled-access highways have been invented specifically for the automobile. Ships now have marine radar that allows one to view tens of miles beyond the eye. "At common law a motorist is required to regulate his speed so that he can stop within the range of his vision. In numerous jurisdictions, this rule has been incorporated in statutes which typically require that no person shall drive any motor vehicle in and upon any public road or highway at a greater speed than will permit him to bring it to a stop within the assured clear distance ahead." Decisional law usually settles the circumstances by which a portion of the roadway is assuredly clear without it being mentioned in statute. States where the judiciary has explicitly established the state's ACDA law include Indiana, Iowa, Kansas, Louisiana, Michigan, New York, North Carolina, Ohio, Tennessee, Vermont, Wisconsin, and California.
+
+Many states have further passed statutes which require their courts to more inflexibly weigh the ACDA in their determination of reasonable speed or behavior. Such statutes do so in part by designating ACDA violations as a citable driving offense, thus burdening an offending driver to rebut a presumption of negligence. States with such explicit ACDA standard of care provisions include: Iowa, Michigan, Ohio, Oklahoma, Pennsylvania, and Texas.
+
+States which apply the principle by statute to watercraft on navigable waterways include all 174 member states of the International Maritime Organization, notwithstanding membership: Great Britain and its common law inheriting Commonwealth of Nations, The United States, Florida, Hawaii, Illinois, Louisiana, Michigan, Montana, Oregon, Texas, and West Virginia.
+
+Most state-issued and some Canadian driver handbooks instruct or mention the ACDA rule as required care or safe practice.
+
+Explicit ACDA statutes and regulations, especially those of which create a citable driving or maritime offense, are aimed at preventing harm that could result from potentially negligent behavior—whereas the slightly more obscure common law ACDA doctrine is most easily invoked to remedy actual damages that have already occurred as a result of such negligence. Unsafe speed statutes are immune from being void for vagueness when they contain explicit ACDA clauses. Explicit and implicit ACDA rules govern millions of North American drivers.
+
+Not all jurisdictions have applied the rule uniformly, most often differing over exceptions for specific "sudden emergencies". There has been an increased interest in the ACDA codified as a universal standard of care that has been brought about by recent technological and social changes such as event data recorders, dashcams, self-driving cars, safe cities and multi-use movements, and a movement to reduce claims by speeders against governments for "dangerous conditions" when operating speeds exceed a road's inferred design speed.
+
+Collision liability has historically benefited the law profession by being cloaked as a mixture of fact and law, but with EDR's precisely preserving "a state of facts" often repeated with differing trial outcomes, collisions are less a question of fact, but of law. Electronic access to precise EDR data and rulings with new ideological modeling tools, can now expose judges as consistent political advocates for differing special road user interests. Furthermore, the law needs to be clear, precise, and uniform at a national level for the panoply of automobile manufacturers with the strict liability for their programming of law-abiding self-driving vehicles. It is foreseeable that two self-driving car makes can collide because their algorithm of the law letter is different; a resolvable issue that has been troubling human drivers for decades. The ACDA is a standard with descriptive mathematics, much of which are used in reverse by road engineers when designing or re-engineering roads to a speed criteria—for which its users were expected to follow.
+
+The range of visibility of which is the de facto ACDA, is usually that distance before which an ordinary person can see small hazards—such as a traffic cone or buoy—with 20/20 vision. This distance may be attenuated by specific conditions such as atmospheric opacity, blinding glare, darkness, road design, and adjacent environmental hazards including civil and recreational activities, horse-drawn vehicle, ridden animal, livestock, deer, crossing traffic, and parked cars. The ACDA may also be somewhat attenuated on roads with lower functional classification.
+This is because the probability of spontaneous traffic increases proportionally to the density of road access points, and this density reduces the distance a person exercising ordinary care can be assured that a road will be clear; such reduction in the ACDA is readily apparent from the conditions, even when a specific access point or the traffic thereon is not. Furthermore, even though a through-driver may typically presume all traffic will stay assuredly clear when required by law, such driver may not take such presumption when circumstances provide actual knowledge under ordinary care that such traffic cannot obey the law. During times of darkness, commercial vehicles can see ahead about 250 feet with low beams, and about 350–500 feet with high beams. This clear distance corresponds to a maximum safe speed of 52 mph and 65-81 mph respectively on dry pavement with good tires, which is attenuated further by convex and lateral road curvature; safe speed is always dynamic. Non-commercial vehicles have even shorter lighting distances. Drivers commonly drive the maximum posted speed limit at night, often in violation of the ACDA rule and this shows up in accident data.
+
+As a corollary to the rule that drivers generally must not pose an "immediate hazard" upon where or when they cannot assure such distance ahead is clear, it follows that others may presume that no vehicle is posing an "immediate hazard" from beyond where they can see with proper lookout. Where there are cross roads or side roads with view obstructions, the assured clear distance terminates at the closest path of potential users of the roadway until there is such a view which assures the intersection will remain clear. In such situations, approach speed must be reduced in preparation for entering or crossing a road or intersection or the unmarked pedestrian crosswalks and bike paths they create because of potential hazards. This jurisprudence arises in-part because of the known difficulty in estimating the distance and velocity of an approaching vehicle, which is psychophysically explained by its small angular size and belated divergence from an asymptotically null rate of expansion, which is beyond the subtended angular velocity detection threshold  limits of visual acuity by way of the Stevens' power law and Weber–Fechner law, until the vehicle may be dangerously close; subjective constancy and the visual angle illusion may also play a role. Vehicles that are approaching an intersection from beyond the SAVT limit cannot be reliably distinguished between moving or parked, though they may be traveling at such an imprudent speed as to pose an immediate hazard. In this circumstance, it is impossible for the entering driver to have fair notice that his or her contemplated conduct is forbidden by such hazard, and any legal expectation to the contrary would implicate violating the vagueness doctrine of the US Constitution. It is the duty of the through-driver to decelerate and apply the ACDA principle specifically to the intersection.
+See Table of detection thresholds.
+
+When approaching an un-signalized intersection controlled by a stop sign, the assured clear distance ahead is:
+
+Normal acceleration "ai" for a passenger vehicle from a stop up to 20 mph is about 0.15g, with more than 0.3g being difficult to exceed. The distance "di" is the sum of the measured limit line setback distance—which is typically regulated by a Manual on Uniform Traffic Control Devices, at often between 4 and 30 feet in the United States—and the crosswalk, parking lane, and road shoulder width. A vehicle accelerating from a stop travels this distance in time  ti=√.mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect;clip-path:polygon;height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}2di⁄ai while through traffic travels a distance equal to their speed multiplied by that time. The time tpc, for the stopped motorist, is the sum of perception time and the time required to actuate an automatic transmission or shift to first gear which is usually between 1⁄2 to one second.
+
+Horizontal clearance is measured from the edge of the traveled way to the bottom of the nearest object, tree trunk or shrub foliage mass face, plant setback, or mature growth. Horizontal sight distance is not to be confused with the clear recovery zone which provides hazardous vegetation set-back to allow errant vehicles to regain control, and is exclusive to a mowed and limbed-up forest which can allow adequate sight distance, but unsafe recovery. The height and lateral distance of plants restrict the horizontal sight distance, at times obscuring wildlife which may be spooked by an approaching vehicle and run across the road to escape with their herd. This principle also applies to approaching vehicles and pedestrians at uncontrolled intersections and to a lesser degree by un-signalized intersections controlled by a yield sign. Horizontal sight distance "dhsd" affects the ACDA because the time ti=.mw-parser-output .sfrac{white-space:nowrap}.mw-parser-output .sfrac.tion,.mw-parser-output .sfrac .tion{display:inline-block;vertical-align:-0.5em;font-size:85%;text-align:center}.mw-parser-output .sfrac .num,.mw-parser-output .sfrac .den{display:block;line-height:1em;margin:0 0.1em}.mw-parser-output .sfrac .den{border-top:1px solid}.mw-parser-output .sr-only{border:0;clip:rect;height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}dhsd/Vi it takes for an intercepting object, animal, pedestrian, or vehicle with speed "Vi" to transverse this distance after emerging from the proximate edge of lateral visibility affords a vehicle with speed "V" a clear distance of "V*ti". Thus, the assured clear intercept distance "ACDAsi" is:
+
+The faster one drives, the farther down-road an interceptor must be in order to be able to transverse the horizontal sight distance in time to collide, however this says nothing of whether the vehicle can stop by the end of this type of assured clear distance. Equating this distance to the total stopping distance and solving for speed yields one's maximum safe speed as purely dictated by the horizontal sight distance.
+
+The ACDA may also be dynamic as to the moving distance past which a motorist can be assured to be able to stay clear of a foreseeable dynamic hazard—such as to maintain a distance as to be able to safely swerve around a bicyclist should he succumb to a fall—without requiring a full stop beforehand, if doing so could be exercised with due care towards surrounding traffic. Quantitatively this distance is a function of the appropriate time gap and the operating speed: dACDA=tgap⋅v. The assured clear distance ahead rule, rather than being subject to exceptions, is not really intended to apply beyond situations in which a vigilant ordinarily prudent person could or should anticipate. A common way to violate the dynamic ACDA is by tailgating.
+
+The most accurate way to determine the ACDA is to directly measure it. Whereas this is impractical, sight distance formulas can be used with less direct measurements as rough baseline estimates. The empirical assured clear distance ahead calculated with computer vision, range finding, traction control, and GIS, such as by properly programming computer hardware used in autonomous cars, can be recorded to later produce or color baseline ACDA and safe speed maps for accident investigation, traffic engineering, and show disparities between safe speed and 85th percentile "operating" speed. Self-driving cars may have a higher safe speed than human driven vehicles for a given ACDA where computer perception-reaction times are nearly instantaneous.
+
+The Assured Clear Distance Ahead can be subjective to the baseline estimate of a reasonable person or be predetermined by law. For example, whether one should have reasonably foreseen that a road was not assuredly clear past 75–100 meters because of tractors or livestock which commonly emerge from encroaching blinding vegetation is on occasion dependent on societal experience within the locale. In certain urban environments, a straight, traffic-less, through-street may not necessarily be assuredly clear past the entrance of the nearest visually obstructed intersection as law. Within the assured clear distance ahead, there is certainty that travel will be free from obstruction which is exclusive of a failure to appreciate a hazard. Collisions generally only occur within one's assured clear distance ahead which are "unavoidable" to them such that they have zero comparative negligence including legal acts of god and abrupt unforeseeably wanton negligence by another party. Hazards which penetrate one's proximate edge of clear visibility and compromise their ACDA generally require evasive action.
+
+Drivers need not and are not required to precisely determine the maximum safe speed from real-time mathematical calculations of sight distances and stopping distances for their particular vehicle. Motor vehicle operators of average intelligence are constantly required to utilize their kinesthetic memory in all sorts of driving tasks including every time they brake to a full stop at a stop line in a panoply of conditions. Like throwing a softball, one does not have to mathematically calculate a trajectory or firing solution in order to hit a target with repeated accuracy. During the earliest stages of learning how to drive, one develops a memory of when to start braking  from various speeds in order to stop at the limit line. While there may be a degree of variance of such skill in seasoned drivers, they generally do not have the discretion in engaging in a behavior such as driving a speed above which no reasonable minds might differ as to whether it is unsafe or that one could come to a stop within the full distance ahead.
+
+Drivers and law enforcement alike can apply elementary level arithmetic towards a rule of thumb to estimate minimal stopping distance in terms of how many seconds of travel ahead at their current speed. For speed "v" in miles per hour, this rule of thumb is as follows:
+
+If this distance is greater than the ACDA, they need to decelerate. While most experienced drivers develop a broad intuition required by everyday braking, this rule of thumb can still benefit some to recalibrate expectations for rare hard braking, particularly from high speeds. Additional simple corrections can be made to compensate for the environment and driving ability. Read more about the Seconds of Distance to Stop Rule.
+
+The ACDA distances are a principal component to be evaluated in the determination of the maximum safe speed  under the basic speed law, without which the maximum safe speed cannot be determined. As mathematical statements are more precise than verbal statements alone, the relation of the ACDA as a subset of the basic speed rule for land based vehicles may be objectively quantified as follows:
+
+The value of the variable "e" is the sine of the angle of inclination of the road's slope. For a level road this value is zero, and for small angles it approximates the road's percent grade divided by one hundred.
+
+The maximum velocity permitted by the Assured Clear Distance Ahead is controlling of safe speed  for only the top and two cases. Safe speed may be greater or less than the actual legal speed limit depending upon the conditions along the road.
+
+See reference VBSL derivations for basic physics explanation.
+
+For the top case, the maximum speed is governed by the assured clear "line-of-sight", as when the "following distance" aft of forward traffic and "steering control" are both adequate. Common examples include when there is no vehicle to be viewed, or when there is a haze or fog that would prevent visualizing a close vehicle in front. This maximum velocity is denoted by the case variable 
+
+
+
+
+V
+
+A
+C
+D
+
+A
+
+s
+
+
+
+
+
+
+{\displaystyle V_{ACDA_{s}}}
+
+, the friction coefficient is symbolized by 
+
+
+
+μ
+
+
+{\displaystyle \mu }
+
+—and itself a function of the tire type and road conditions, the distance 
+
+
+
+
+d
+
+A
+C
+D
+
+A
+
+s
+
+
+
+
+
+
+{\displaystyle d_{ACDA_{s}}}
+
+ is the static ACDA, the constant 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ is the acceleration of gravity, and interval 
+
+
+
+
+t
+
+p
+r
+t
+
+
+
+
+{\displaystyle t_{prt}}
+
+ is the perception-reaction time—usually between 1.0 and 2.5 seconds.
+
+See Table of safe speed versus forward line-of-sight
+
+The second case describes the relationship of horizontal sight distance on safe speed. It is the maximum speed at which a vehicle can come to a full stop before an object, with speed Vi, can intercept after having emerged and traveled across the horizontal sight distance "dhsd". Urban and residential areas have horizontal sight distances that tend to be closely obstructed by parked cars, utility poles, street furnishing, fencing, signage, and landscaping, but have slower intercepting speeds of children, pedestrians, backing cars, and domestic animals. These interceptors combined with dense usage results in collisions that are more probable and much more likely to inflict harm to an outside human life. In rural areas, swift-moving spooked wildlife such as deer, elk, moose, and antelope are more likely to intercept a roadway at over 30 mph . Wildlife will frequently transit across a road before a full stop is necessary, however collisions with large game are foreseeably lethal, and a driver generally has a duty not to harm his or her passengers. The foreseeable intercept speed or defectively designed horizontal sight distance may vary "reasonably" with judicial discretion.
+
+See Table of safe speed versus horizontal line-of-sight
+
+This third case regards safe speed around un-signalized intersections where a driver on an uncontrolled through street has a duty to slow down in crossing an intersection and permit controlled drivers to be able pass through the intersection without danger of collision. The driver on the through street must anticipate and hence not approach at an unsafe speed which would prevent another driver from being able to enter while traffic was some distance away, or would be unsafe to a driver who has already established control of the intersection under a prudent acceleration ai, from a stop at a limit line a distance dsl away.
+
+The pedantic fourth case applies when the dynamic ACDA "following distance"  is less than the static ACDA "line-of-sight" distance . A classic instance of this occurs when, from a visibility perspective, it would be safe to drive much faster were it not for a slower-moving vehicle ahead. As such, the dynamic ACDA is governing the basic speed rule, because in maintaining this distance, one cannot drive at a faster speed than that matching the forward vehicle. The "time gap" tg or "time cushion" is the time required to travel the dynamic ACDA or "following distance" at the operating speed. Circumstances depending, this cushion might be manifested as a two-second rule or three-second rule.
+
+See Table of 2-second following distances
+
+In the fifth case, critical speed Vcs applies when road curvature is the factor limiting safe speed. A vehicle which exceeds this speed will slide out of its lane. Critical speed is a function of curve radius r, superelevation or banking e, and friction coefficient μ; the constant g again is the acceleration of gravity. However, most motorists will not tolerate a lateral acceleration exceeding 0.3g  above which many will panic. Hence, critical speed may not resemble loss of control speed. Attenuated "side" friction coefficients are often used for computing critical speed. The formula is frequently approximated without the denominator for low angle banking which may be suitable for nearly all situations except the tightest radius of highway onramps. The principle of critical speed is often applied to the problem of traffic calming, where curvature is both used to govern maximum road speed, and used in traffic circles as a device to force drivers to obey their duty to slow down when approaching an intersection.
+
+See Table of curvatures and critical speeds
+
+The bottom case is invoked when the maximum velocity for surface control Vcl is otherwise reached. Steering control is independent from any concept of clear distance ahead. If a vehicle cannot be controlled so as to safely remain within its lane above a certain speed and circumstance, then it is irrelevant how assuredly clear the distance is ahead. Using the example of the previous case, the safe speed on a curve may be such that a driver experiences a lateral acceleration of less than 0.3g despite that the vehicle may not slide until it experiences 0.8g. Speed wobble, hydroplaning, roll center, fishtailing, jackknife tendencies, potholes, washboarding, frost heaving, and tire speed rating are other factors limiting Vcl.
+
+Safe speed is the maximum speed permitted by the basic speed law and negligence doctrine. Safe speed is not the same as the 85 percentile operating speed used by traffic engineers in establishing speed zones. Fog, snow, or ice can create conditions where most people drive too fast, and chain reaction accidents in such conditions are examples of where large groups of drivers collided because they failed to reduce speed for the conditions. The speeds at which most people drive can only be a very rough guide to safe speed, and an illegal or negligent custom or practice is not in itself excusable. Safe speed approximates the inferred design speed adjusted for environmental alterations and vehicle and person specific factors when VACDAs is the limiting factor. The Solomon curve concept can create an approach-avoidance conflict within the driver who wishes neither to drive faster than is lawful and the conditions allow nor have an unsafe speed discrepancy between other vehicles on the road; it is never legal to go faster than the speed limit, and unilaterally reducing the risk of the latter can lead to a mass crash caused by the former.
+
+Many people are challenged by the concept of unsafe speed because they find it vague and arbitrary. It is well known that people instead resolve such challenges by attribute substitution, which in this case can mean simply emulating the behaviors of others. In accord with the cultural theory of risk, indeed a substantial part of a driver's risk perception comes from comparing their contemplated conduct to the behavior of others; this includes the safeness of a given speed, notwithstanding the actual risk. As a result of this uncorrected vagueness, group behavior can often be in opposition to safe speed and still be governing a hazardous posted speed limit. By federal law, posted speed limits are generally within 5 mph of the 85th-percentile speed of free-flowing traffic. Functionality, this amounts to citizens "voting" a street's speed limit with their gas pedal from the influence of groupshift. As people generally follow explicit rules all the time of which they do not agree, it is often simply a jurisdiction's failure in their law to sufficiently quantify and disseminate fair notice of an explicit standard of care, such as the ACDA rule. Most DMV driver manuals teach the practice, but far fewer states explicitly back it up in their actual statutes and law enforcement. If drivers were mindful of the ACDA, the operating speed would by definition not exceed the inferred design speed. In some cases, police focused on driving while "influenced", pull over slower quartile sober night-time drivers moving no faster than they can stop within the radius of their headlights; this discourages adjusting speed downward from anything but the posted "maximum speed" permitted by law—which is determined as previously described. It is often unsafe or illegal to drive in excess of 40–50 mph at night.
+
+A general principle in liability doctrine is than an accident which would not have occurred except for the action or inaction of some person or entity contrary to a duty such as the exercise of proper care was the result of negligence. The liability space from which one can recover is typically, themselves, other parties, or nobody. Jurisdictional exceptions permitting one to legally take "assurance" that the distance will be clear beyond the proximate edge of clear visibility and choose such a speed accordingly, transfers classic common law liability from that driver for his or her "blind" actions. This duty to assure clear distance ahead is inevitably transferred, as an externality to everybody or thing else who must instead warn the driver, such as the government, its road engineers, and maintainers.
+
+As it is generally probable and foreseeable that, chance will permit, and at some point there will be an obstruction beyond some driver's line of sight, such an entitlement challenges centuries of precedent in negligence doctrine in addition to posing difficult policy and engineering challenges. It also violates the calculus of negligence because speed is an inherent factor in vehicular accidents which are a leading cause of priceless life loss and lawsuits, and the burden of a precautions speed is radically lower than the former.
+
+The assumption of risk resulting from the unsafe activity of driving faster than one can stop within one's vision, does not depend ex post facto on what you happened to hit, for which by nature you could not have known; it could have been a moose or a luxury car. Furthermore, modern times still provide no legal remedies for Darwinian misfortune upon the entire class of unwarnable accidents where drivers and their passengers would not have collided into the likes of a moose, livestock, fallen tree, rock, jetsam, horse-drawn vehicle, stalled vehicle, school bus, garbage truck, mail carrier, snowplow, washout, snow drift, or slid off the road, were it not for their decisions to drive faster than dictated by the assured clear distance ahead. Regardless of what behavior an authority might encourage by fabricating new rights, it remains timeless that constituents cannot sue the wind for causing a wreck when it inevitably violates a "modern right to drive faster than permitted by the ACDA" by failing to warn them it knocked down a tree in a forest with many trees which all eventually fell. In this specific regard, jurisdictions which grant drivers the liberty to be fools from their own folly, are also condoning the collateral damage and life loss which is expected to occur. Moreover, modern life-entrusting consumers of driving services and driverless cars who suffer such caused injury are left without legal remedy for foreseeable outcome of imprudent speed; this in-turn unnecessarily transfers a substantive portion of the ACDA liability space into act of god, government claims, strict liability, or other findings from legal fiction which the justice system generally abhors. What modern times are changing is that one may assure the distance is clear ahead virtually through the Internet of Things, as smart cars connect to get information from smart highways or pass what they see ahead or measure to traffic behind. A fundamental corollary of the ACDA rule is that technology, expectations, and desires may modernize, but the laws of physics can not and do not. The deceleration coefficients and reactions times may change from conveyance by chariot, horse and buggy, internal combustion engine, electric motor, and by driverless car, but the equations governing stopping distances are immutable. Finally, where it is the policy of the law not to fault well intending diligent citizens for innocent mistakes, human life reaps continued benefit from the ACDA duty of which instills the necessary room to survive uninjured from such foreseeable and excusable error while adding redundancy in the responsibility to avoid a collision; mere unilateral duties laid down to assure the safety of others tend to result in hazardous risk compensation by those unfettered parties resulting in a moral hazard.
+
+Allowing one to drive faster than their vision permits them to safely stop, results in there being no core standard of care regarding safe speed making unsafe speed laws void for vagueness. The ACDA minimum standard gives fair notice of what conduct is prohibited, and people of ordinary intelligence can apply their braking experience or the seconds of distance to stop rule to the distance they can see; once one is allowed to cruise-on without control beyond the edge of visibility, there is little consensus on what arbitrary speed is unsafe, or what to assume of the vague conditions there-past.
+
+To be able to guarantee "assurance" beyond proximate edge of clear visibility, in doing so exempting ACDA duty, a road must be designed and maintained such that there is not a chance of obstruction in one's lane beyond the proximate edge of clear visibility. A road's vertical profile must be assured to have such a curvature as not to hide hazards close behind its crests. Discretion for drivers and pedestrians to enter onto a potentially occupied lane from a side street must be assuredly eliminated such as with fences, merge lanes, or signalized access. There must also be an assurance of no opportunity for animals and debris to enter from side lots, and that there are continuous multi-hourly maintenance patrols performed. Furthermore, such road sections must be distinguished from other roads so that the driver could clearly and immediately know when he or she may or may not take such extended "assurance". Few roads might meet these requirements except some of the highest functional classification controlled-access highways such as freeways and autobahns.
+
+Even if such criteria are met, the law must also exempt driver liability for maintaining clear distance ahead. In most democracies, such liability for failures of the distance to remain clear beyond line of sight would ultimately be transferred to its taxpayers. This only generally occurs when governments have been tasked by constituents or their courts to take the responsibly to design and maintain roadways that "assure" the distance will be clear beyond the proximate edge of clear visibility. Pressures to make such changes may arise from cultural normalization of deviance and unnecessary risk, misunderstanding the purpose of the road functional classification system, underestimation of increased risk, and reclamation of commute time.
+
+One of the greatest difficulties created by such an extension of the ACDA is the frequency at which roads reduce their functional classification unbeknownst to drivers who continue unaware they have lost this extended "assurance" or do not understand the difference. Such nuance in applicable jurisdictions is a prolific source of accidents. In the United States, there is no explicit road marking promising clear distance beyond line of sight in the Manual on Uniform Traffic Control Devices, although there are signs communicating "limited sight distance", "hill blocks view", "crossroad ahead", and "freeway ends". A partial solution to this challenge is to remove driver discretion in determining whether the ACDA is extended beyond line of sight, by explicitly designating this law change to certain marked high functional classification roadways having meet strict engineering criteria.
+
+The ACDA rule is analogous to aviation visual flight rules, and its discussed exception—allowed only in a well regulated control zone—is analogous to instrument flight rules. Unlike both visual and instrumental flight rules, where federal and international administrative law applies seamlessly and uniformly across the states, the ACDA rule governing ground transportation is relatively variegated across states and judicial circuits. Primitive patchwork governance over a prominent interstate commercial subject, in a modern era where citizens quickly and more frequently travel father than ever before, creates problems for modern driverless cars which are programmed, distributed, sold, and traded at national levels. As opposed to a strict standard of care, delegation of such standard to a jury assumes the representativeness heuristic for twelve people to determine ordinary care representative of everyone while ignoring its insensitivity to sample size, which of course when applied to multiple cases involving identical situational circumstances results in many verdicts with opposing extreme views, which works against the utility of the law by making it arbitrarily vague. A national uniformity standard which either administratively lays down the ACDA law as has been done for aircraft, or requires states to legislatively enact in order to receive federal DOT funding as has been done for the national legal drinking age, is a subject of debate for those who argue far more people die in cars than in aircraft. While group polarization towards safety has shifted the criminal blood alcohol threshold below levels for which the risk is statistically marginal, the tolerance for speeding—of which each speed unit increment carries an equatable risk relative to BAC—remains relatively neglected. Speed is responsible for more crashes and economic loss than is alcohol. The discrepancy may be partly explained by powerful special interest groups that are lobbying against drunk driving and for loser speed regulation.
+
+Starting with Newton's Second Law of Motion and the Laws of Friction:
+
+Equating the net force to mass times acceleration:
+
+Invoking the equations of motion and substituting acceleration:
+
+Small-angle approximation:
+
+Substituting the small angle approximations, and exploiting that the product of a small angle squared, in radians, with the friction coefficient, θ2μ, is insignificant 2x0.8≈0.03):
+
+Now, the total stopping distance is the sum of the braking and perception-reaction distances:
+
+Isolating zero as preparation to solve for velocity:
+
+Completing the square or invoking the quadratic formula to find the solution:
+
+Use small-angle approximation to obtain a more field-able version of the above solution in terms of percent grade/100 "e" instead of an angle θ in radians:
+
+Substituting the angle as described produces the form of the formula of case 1 ():
+
+The Basic Speed Law constrains the assured clear distance ahead to the total stopping distance, and the small angle value of road grades approximates the superelevation "e."
+
+Many roadways are level, in which case the small angle approximations or superelevation may be dropped altogether:
+
+This model ignores the effects of air drag, rolling resistance, lift, and relativity as a vehicle's great momentum and weight dominate these factors; they increase the complexity of the formulas while insubstantially changing the outcomes in practically all driving situations except ultra-low-mass bicycles stopping from inherently dangerously high speeds; usability to the layman and conformance with current standard engineering assumptions is the objective and a vehicle's lift factor is often inaccessible. Learn a level ground model with most of those effects here or read about the automobile drag coefficient.
+
+The time required for an obstruction with speed vi to transect the horizontal sight distance di:
+
+The time required to travel down a road at speed v to said obstruction of distance d away:
+
+Equating the two times:
+
+Solving for this distance:
+
+Equating this to the total stopping distance, which is the sum of braking and perception-reaction distances:
+
+Isolating zero, and factoring out a v:
+
+Solving for the non-trivial case :
+
+The solution to the above equation, which provides the maximum safe speed as a function of horizontal sight distance, intercept velocity, and road-tire friction coefficient:
+
+The time required for a vehicle to enter a controlled intersection from a stop is the sum of the perception time , the time required to actuate an automatic transmission or shift to first gear , and the time to accelerate and enter or traverse the road . The sum of the first two quantities is tpc.
+
+The time required for a vehicle entering with acceleration ai to transect the sum of the setback and shoulder distances di under uniform acceleration ai from a stop via the equations of motion:
+
+The time required to travel down a road at speed v to said obstruction of distance d away:
+
+Equating the two times:
+
+Solving for this distance:
+
+Equating this to the total stopping distance, which is the sum of braking and perception-reaction distances:
+
+Isolating zero, and factoring out a v:
+
+Solving for the non-trivial case :
+
+The solution to the above equation, which provides the maximum safe speed as a function of horizontal setback, intercept acceleration, and road-tire friction coefficient:
+
+From the equations of motion:
+
+Isolating for speed:
+
+Starting with Newton's Laws of Motion, the Laws of Friction, and Centripetal force:
+
+Substituting formulas for Centripetal force, frictional force, and gravitational force:
+
+The normal force is equal and opposite to the sum of the gravitational and centripetal components:
+
+Isolate 
+
+
+
+v
+
+
+{\displaystyle v}
+
+ terms:
+
+Then solve for 
+
+
+
+v
+
+
+{\displaystyle v}
+
+:
+
+To obtain:
+
+This is the full solution, however most corners are banked at less than 15 degrees , so in such conditions, a fieldable small angle approximation may be used.
+
+Substituting small-angle approximations sin θ ≈ θ, cos ≈ 1 − θ2/2:
+
+Exploit that a small angle squared, in radians, is insignificant by substituting θ2≈0 which obtains the formula used in case 5 :
+
+The seconds-of-distance-to-stop rule is derived as follows.
+
+We first obtain the total stopping distance and then convert it into travel time, which is more easily applicable by the driver.
+
+Invoking the equations of motion,
+
+where
+
+The time it takes to casually traverse the stopping distance at the travel speed is
+
+Substituting the former into the latter,
+
+This can be simplified into the rule-of-thumb form
+
+by noting that
+
+Substituting 
+
+we have
+
+This results in a seconds-of-distance-to-stop rule  of
+
+The dry rule does allow one to travel faster in dry weather, but expect emergency deceleration to be a bit uncomfortable. If one desires to remember only one rule, use the wet one. However, because the difference between wet and dry is half-a-second at 30 MPH and one second at 60 MPH, and because dividing by two is easier than three, we can use a correctable rule of thumb:
+
+For example, a speed of 60 miles per hour  corresponds to stopping distance of 4 seconds' travel at 60 mph. Drivers that require additional perception-reaction time, such as novices, elderly, or those in complex or adverse environments, can benefit by adding additional seconds.
+
+The time to traverse your stopping distance at travel speed should not be confused with the braking time to come to a full stop, which is a number nearly twice this value . As one is continually slowing down while braking, it will naturally take longer to get to the stopping limit.
+
+A more correct perception-reaction time of one-and-a-half seconds is commonly used by the mathematically inclined. Doing so to obtain your "seconds-of-distance-to-stop" for dry pavement and then converting time to actual distance by multiplying it by the travel velocity and 22/15 to convert MPH to fps will yield results in close agreement with this table.
+
+Whereas most driving is done below 80 miles per hour , maintaining a blanket 5 or 6 seconds of travel time to the edge of visibility , will keep drivers in compliance with the ACDA rule in most simple highway driving conditions – day or night – with growing error towards safety at lower speeds.
+
+On final note, slope has an effect on stopping distance. An additional second or so will need to be added when stopping while traveling down a steep incline, and conversely driving uphill will improve breaking. This is accounting that a level road was assumed in the rule of thumb. See more general derivation here
+
+See also Tire friction and rolling resistance coefficients
+
+See Car specific accelerations
+
+See more animal intercept speeds. See article on speed.
+
+See article on tire codes.
+
+The speed values in this table are produced from the formula using an "average" coefficient of friction  of 0.7, and a perception-reaction time of 1.5 seconds. Speed values specific to a given circumstance can be obtained with the same formula using the appropriate reference constants specific to the circumstance.
+
+This table demonstrates why alleyways, parking lots, parks, and residential areas frequently set 5–15 mph speed limits when the side clearance from the road is less than 15 feet. An urban or residential street which permits a maximum speed limit of 25 mph under its very best conditions , may in practice be unsafe to drive at more than 10 mph within sections with utilized curbside parking. This table also suggests that the safe speed could be greater than a statutory 25 mph posted speed, where roadside clearance is sufficient such that no "foreseeable" object could emerge from the proximate edge of roadside visibility, transect the cleared area, and intercept the lane before the driver could come to a halt. However, wary road design engineers may have differing views of foreseeable intercept speeds than that reflected by the 85th percentile speed chosen by the public. This can have unfortunate consequences where a mass commuting public is unfamiliar with or does not appreciate specific local hazards. Narrow lane widths are purposely used for traffic calming, because careful drivers universally choose their speed depending on the roadway width. Standard horizontal clearances are commonly set by AASHTO guidelines or a jurisdiction's department of transportation.
+
+The speed values in these tables are produced from the formula using an "average" coefficient of friction  of 0.7, and a perception-reaction time of 1.5 seconds. Speed values specific to a given circumstance can be obtained with the same formula using the appropriate reference constants specific to the circumstance.
+
+Speed values specific to a given circumstance can be obtained with the same formula using the appropriate reference constants specific to the circumstance.
+
+The speed values in this table are produced from the formula using an "average" coefficient of friction  of 0.7 and zero superelevation. Speed values specific to a given circumstance can be obtained with the same formula using the appropriate reference constants specific to the circumstance.
+
+Most motorists will not tolerate a lateral acceleration exceeding 0.3g  above which many will panic.
+
+Speed values specific to a given circumstance can be obtained with the same formula using the appropriate reference constants specific to the circumstance.
+
+For a person with SAVT limit of 
+
+
+
+
+
+
+
+θ
+˙
+
+
+
+
+t
+
+
+
+
+{\displaystyle {\dot {\theta }}_{t}}
+
+, the looming motion of a directly approaching object of size S, moving at velocity v, is not detectable until its distance D is
+

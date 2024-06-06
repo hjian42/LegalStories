@@ -1,0 +1,5 @@
+In United States constitutional law, the good-faith exception (also good-faith doctrine) is a legal doctrine providing an exemption to the exclusionary rule. 
+The exemption allows evidence collected in violation of privacy rights as interpreted from the Fourth Amendment to be admitted at trial if police officers acting in good faith (bona fides) relied upon a defective search warrant — that is, they had reason to believe their actions were legal (measured under the reasonable person test). 
+The rule was established in the two companion cases decided by the U.S. Supreme Court in 1984: United States v. Leon, 468 U.S. 897 (1984), and Massachusetts v. Sheppard, 468 U.S. 981 (1984). The exception permits the courts to consider the mental state of the police officer.
+Not all states follow the good faith exception to the exclusionary rule, such as New York in People v. Bigelow, 488 N.E.2d 451 (N.Y. 1985).
+

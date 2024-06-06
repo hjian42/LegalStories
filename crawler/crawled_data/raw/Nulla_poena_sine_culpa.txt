@@ -1,0 +1,50 @@
+The Global Competitiveness Report  was a yearly report published by the World Economic Forum. Between 2004 and 2020, the Global Competitiveness Report ranked countries based on the Global Competitiveness Index, developed by Xavier Sala-i-Martin and Elsa V. Artadi. Before that, the macroeconomic ranks were based on Jeffrey Sachs's Growth Development Index and the microeconomic ranks were based on Michael Porter's Business Competitiveness Index. The Global Competitiveness Index integrates the macroeconomic and the micro/business aspects of competitiveness into a single index.
+
+The report "assesses the ability of countries to provide high levels of prosperity to their citizens". This in turn depends on how productively a country uses available resources. Therefore, the Global Competitiveness Index measures the set of institutions, policies, and factors that set the sustainable current and medium-term levels of economic prosperity."
+
+Since 2004, the report ranks the world's nations according to the Global Competitiveness Index, based on the latest theoretical and empirical research. It is made up of over 110 variables, of which two thirds come from the Executive Opinion Survey, and one third comes from publicly available sources such as the United Nations. The variables are organized into twelve pillars, with each pillar representing an area considered as an important determinant of competitiveness.
+
+One part of the report is the Executive Opinion Survey, which is a survey of a representative sample of business leaders in their respective countries. Respondent numbers have increased every year and is currently just over 13,500 in 142 countries .
+
+The report notes that as a nation develops, wages tend to increase, and that in order to sustain this higher income, labor productivity must improve for the nation to be competitive. In addition, what creates productivity in Sweden is necessarily different from what drives it in Ghana. Thus, the GCI separates countries into three specific stages: factor-driven, efficiency-driven, and innovation-driven, each implying a growing degree of complexity in the operation of the economy.
+
+The report has twelve pillars of competitiveness. These are:
+
+In the factor-driven stage countries compete based on their factor endowments, primarily unskilled labor and natural resources. Companies compete on the basis of prices and sell basic products or commodities, with their low productivity reflected in low wages. To maintain competitiveness at this stage of development, competitiveness hinges mainly on well-functioning public and private institutions , appropriate infrastructure , a stable macroeconomic framework , and good health and primary education .
+
+As wages rise with advancing development, countries move into the efficiency-driven stage of development, when they must begin to develop more efficient production processes and increase product quality. At this point, competitiveness becomes increasingly driven by higher education and training , efficient goods markets , efficient labor markets , developed financial markets , the ability to harness the benefits of existing technologies , and its market size, both domestic and international .
+
+Finally, as countries move into the innovation-driven stage, they are only able to sustain higher wages and a higher standard of living if their businesses are able to compete by providing new or unique products. At this stage, companies must compete by producing new and different goods using the most sophisticated production processes  and through innovation .
+
+Thus, the impact of each pillar on competitiveness varies across countries, in function of their stages of economic development. Therefore, in the calculation of the GCI, pillars are given different weights depending on the per capita income of the nation. The weights used are the values that best explain growth in recent years For example, the sophistication and innovation factors contribute 10% to the final score in factor and efficiency-driven economies, but 30% in innovation-driven economies. Intermediate values are used for economies in transition between stages.
+
+The Global Competitiveness Index's annual reports are somewhat similar to the Ease of Doing Business Index and the Indices of Economic Freedom, which also look at factors affecting economic growth . Data from the Global Competitiveness Index relating to the strength of auditing and reporting standards, institutions and judicial independence is used in the Basel AML Index, a money laundering risk assessment tool developed by the Basel Institute on Governance.
+
+In spite of the World Economic Forum's Global Risks Report which is increasingly identifying environmental pressures as the dominant risks to humanity, none of the indicators used to determine this report's competitiveness ranking reflect any of the countries' environmental dimensions such as energy, water, climate risks, resource or food security, etc. The Global Competitiveness Report 2018 and 2019 used the ecological footprint as a context indicator, but the footprint was not included in the scoring algorithm that determines the ranking.
+
+This is the full ranking of the 2019 report:
+
+This is the top 30 of the 2018 report:
+
+This is the top 30 of the 2017–2018 report:
+
+This is the top 30 of the 2016–2017 report:
+
+This is the top 30 of the 2015–2016 report:
+
+This is the top 30 of the 2014–2015 report:
+
+This is the top 30 of the 2013–2014 report:
+
+This is the top 30 of the 2012–2013 report:
+
+This is the top 30 of the 2011–2012 report:
+
+This is the top 30 of the 2010–2011 report:
+
+This is the top 30 of the 2009–2010 report:
+
+This is the top 30 of the 2008–2009 report:
+
+You can find the computation and structure of the GCI pp. 49–50 of the Global Competitiveness Report 2013–2014, Full Data Edition.
+

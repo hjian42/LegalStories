@@ -1,0 +1,24 @@
+The kiddie tax rule exists in the United States of America and can be found in Internal Revenue Code § 1, which "taxes certain unearned income of a child at the parent's marginal rate, no matter whether the child can be claimed as a dependent on the parent's return".
+
+The United States federal income tax system is progressive, meaning, the higher the income the higher percentage of that income is paid to the government in the form of a tax.  The progressivity of the income tax system encourages income redistribution, which is the shifting of income from individuals in high tax brackets to others in lower tax brackets.
+
+Taxpayers, however, will not likely shift the income to just any person, but may be willing to shift income to a close family member or friend.  Children are usually in a lower tax bracket than their parents and grandparents, which makes them the likely receiver of the shifted income.  The incentive, however, to shift income from the taxpayer to the taxpayer's child is reduced by §1 of the Internal Revenue Code.
+
+The kiddie tax was enacted as part of the Tax Reform Act of 1986, P.L. 99-514, §1411. It was first effective for tax years beginning after Dec. 31, 1986. The kiddie tax was originally enacted as Internal Revenue Code §1, but in 1990 it was redesignated as §1 by the Omnibus Budget Reconciliation Act, P.L. 101-508.
+
+Under §1, the kiddie tax applies to a child if either of the following two conditions are true:
+	the child has not reached age 18 by the end of the taxable year;
+	the child has not reached age 24, their earned income is not more than one-half of their support, and they must be a full-time student;
+The kiddie tax does not apply unless all three of the following conditions are true:
+	the child is required to file a return for the year;
+	the child has at least one parent alive at the close of the taxable year; and
+	the child will not file a joint return for the taxable year.
+
+It is also important to remember that the kiddie tax provision only applies to unearned income.  Earned income, defined in §911 , is exempt from the kiddie tax provision.
+
+Sec. 1 provides the formula for computing a child's "net unearned income," which is the child's unearned income minus either  two times the standard deduction allowed to dependents under §63 or  that deduction plus the itemized deductions directly connected with the production of the unearned income.
+
+Under §1, the tax rate applied to the net unearned income is the difference between the parent's applicable tax rate and the tax rate that would have applied had the child's unearned income been added to the parent's income.
+
+Starting in 2008 the kiddie tax provision will apply to dependents under 19 and dependent full-time students under 24.  To qualify, those ages 19 to 23 who are full-time students must have earned income that is less than 50 percent of their support.
+

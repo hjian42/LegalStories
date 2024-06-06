@@ -1,0 +1,4 @@
+This is a list of countries and dependencies ranked by population density, sorted by inhabitants per square kilometre or square mile. The list includes sovereign states and self-governing dependent territories based upon the ISO standard ISO 3166-1. The list also includes unrecognized but de facto independent countries. The figures in the table are based on areas including internal bodies of water such as bays, lakes, reservoirs and rivers. The list does not include entities not on ISO 3166-1, except for states with limited recognition. Thus constituent countries that are not included on ISO 3166-1, and other entities not on ISO 3166-1 like the European Union, are not included.
+
+Unless otherwise noted, areas and populations are sourced from the United Nations World Population Prospects, which uses the latest censuses and official figures, as well as figures from the United Nations Department of Economic and Social Affairs.
+

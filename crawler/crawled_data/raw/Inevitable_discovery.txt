@@ -1,0 +1,16 @@
+ISO 3166 is an ISO standard published by the International Organization for Standardization  that defines codes for the names of countries, dependent territories, special areas of geographical interest, and their principal subdivisions .  The official name of the standard is Codes for the representation of names of countries and their subdivisions.
+
+It consists of three parts:
+
+The first edition of ISO 3166, which included only alphabetic country codes, was published in 1974. The second edition, published in 1981, also included numeric country codes, with the third and fourth editions published in 1988 and 1993 respectively. The fifth edition, published between 1997 and 1999, was expanded into three parts to include codes for subdivisions and former countries.
+
+The ISO 3166 standard is maintained by the ISO 3166 Maintenance Agency , located at the ISO central office in Geneva. Originally it was located at the Deutsches Institut für Normung  in Berlin. Its principal tasks are:
+
+There are fifteen experts with voting rights on the ISO 3166/MA. Nine are representatives of national standards organizations:
+
+The other six are representatives of major United Nations agencies or other international organizations who are all users of ISO 3166-1:
+
+The ISO 3166/MA has further associated members who do not participate in the votes but who, through their expertise, have significant influence on the decision-taking procedure in the maintenance agency.
+
+Country codes beginning with "X" are used for private custom use , never for official codes. Despite the words "private custom", the use may include other public standards. ISO affirms that no country code beginning with X will ever be standardised.  Examples of X codes include:
+

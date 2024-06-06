@@ -1,0 +1,299 @@
+The Human Development Index  is a statistical composite index of life expectancy, education , and per capita income indicators, which is used to rank countries into four tiers of human development. A country scores a higher level of HDI when the lifespan is higher, the education level is higher, and the gross national income GNI  per capita is higher. It was developed by Pakistani economist Mahbub ul-Haq and was further used to measure a country's development by the United Nations Development Programme 's Human Development Report Office.
+
+The 2010 Human Development Report introduced an Inequality-adjusted Human Development Index . While the simple HDI remains useful, it stated that "the IHDI is the actual level of human development , while the HDI can be viewed as an index of 'potential' human development  that could be achieved if there were no inequality."
+
+The index is based on the human development approach, developed by Mahbub ul-Haq, anchored in Amartya Sen's work on human capabilities, and often framed in terms of whether people are able to "be" and "do" desirable things in life. Examples include – being: well fed, sheltered, and healthy; doing: work, education, voting, participating in community life. The freedom of choice is central – someone choosing to be hungry  is quite different from someone who is hungry because they cannot afford to buy food, or because the country is in a famine.
+
+The index does not take into account several factors, such as the net wealth per capita or the relative quality of goods in a country. This situation tends to lower the ranking of some of the most developed countries, such as the G7 members and others.
+
+The origins of the HDI are found in the annual Human Development Reports produced by the Human Development Report Office of the United Nations Development Programme . These were devised and launched by Pakistani economist Mahbub ul-Haq in 1990, and had the explicit purpose "to shift the focus of development economics from national income accounting to people-centered policies". Haq believed that a simple composite measure of human development was needed to convince the public, academics, and politicians that they can and should evaluate development not only by economic advances but also improvements in human well-being.
+
+Published on 4 November 2010 , the 2010 Human Development Report calculated the HDI combining three dimensions:
+
+In its 2010 Human Development Report, the UNDP began using a new method of calculating the HDI. The following three indices are used:
+
+1. Life Expectancy Index  
+
+
+
+=
+
+
+
+
+
+LE
+
+
+−
+20
+
+
+85
+−
+20
+
+
+
+
+
+{\displaystyle ={\frac {{\textrm {LE}}-20}{85-20}}}
+
+
+
+
+
+=
+
+
+
+
+
+LE
+
+
+−
+20
+
+65
+
+
+
+
+{\displaystyle ={\frac {{\textrm {LE}}-20}{65}}}
+
+2. Education Index  
+
+
+
+=
+
+
+
+
+
+MYSI
+
+
++
+
+
+EYSI
+
+
+
+2
+
+
+
+
+{\displaystyle ={\frac {{\textrm {MYSI}}+{\textrm {EYSI}}}{2}}}
+
+
+
+3. Income Index  
+
+
+
+=
+
+
+
+ln
+⁡
+(
+
+
+GNIpc
+
+
+)
+−
+ln
+⁡
+(
+100
+)
+
+
+ln
+⁡
+(
+75
+,
+000
+)
+−
+ln
+⁡
+(
+100
+)
+
+
+
+
+
+{\displaystyle ={\frac {\ln-\ln}{\ln-\ln}}}
+
+
+
+
+
+=
+
+
+
+ln
+⁡
+(
+
+
+GNIpc
+
+
+)
+−
+ln
+⁡
+(
+100
+)
+
+
+ln
+⁡
+(
+750
+)
+
+
+
+
+
+{\displaystyle ={\frac {\ln-\ln}{\ln}}}
+
+Finally, the HDI is the geometric mean of the previous three normalized indices:
+
+HDI
+
+
+=
+
+
+
+
+
+LEI
+
+
+⋅
+
+
+EI
+
+
+⋅
+
+
+II
+
+
+
+
+3
+
+
+
+.
+
+
+{\displaystyle {\textrm {HDI}}={\sqrt{{\textrm {LEI}}\cdot {\textrm {EI}}\cdot {\textrm {II}}}}.}
+
+LE: Life expectancy at birth
+MYS: Mean years of schooling 
+EYS: Expected years of schooling 
+GNIpc: Gross national income at purchasing power parity per capita
+
+The HDI combined three dimensions last used in its 2009 report:
+
+This methodology was used by the UNDP until their 2011 report.
+
+The formula defining the HDI is promulgated by the United Nations Development Programme . In general, to transform a raw variable, say 
+
+
+
+x
+
+
+{\displaystyle x}
+
+, into a unit-free index between 0 and 1 , the following formula is used:
+
+where 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ and 
+
+
+
+b
+
+
+{\displaystyle b}
+
+ are the lowest and highest values the variable 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ can attain, respectively.
+
+The Human Development Index  then represents the uniformly weighted sum with .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect;clip-path:polygon;height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}1⁄3 contributed by each of the following factor indices:
+
+The Human Development Report 2022 by the United Nations Development Programme was released on 8 September 2022 and calculates HDI values based on data collected in 2021.
+
+The following countries ranked from 1 to 66 in the year 2021 are considered to be of "very high human development":
+
+The list below displays the top-ranked country from each year of the Human Development Index. Norway has been ranked the highest sixteen times, Canada eight times, Japan and Iceland twice and Switzerland once.
+
+The year represents the time period from which the statistics for the index were derived. In parentheses is the year when the report was published.
+
+The HDI has extended its geographical coverage: David Hastings, of the United Nations Economic and Social Commission for Asia and the Pacific, published a report geographically extending the HDI to 230+ economies, whereas the UNDP HDI for 2009 enumerates 182 economies and coverage for the 2010 HDI dropped to 169 countries.
+
+The Human Development Index has been criticized on a number of grounds, including alleged lack of consideration of technological development or contributions to the human civilization, focusing exclusively on national performance and ranking, lack of attention to development from a global perspective, measurement error of the underlying statistics, and on the UNDP's changes in formula which can lead to severe misclassification in the categorisation of "low", "medium", "high" or "very high" human development countries.
+
+Economists Hendrik Wolff, Howard Chong and Maximilian Auffhammer discuss the HDI from the perspective of data error in the underlying health, education and income statistics used to construct the HDI. They identified three sources of data error which are due to  data updating,  formula revisions and  thresholds to classify a country's development status and conclude that 11%, 21% and 34% of all countries can be interpreted as currently misclassified in the development bins due to the three sources of data error, respectively. The authors suggest that the United Nations should discontinue the practice of classifying countries into development bins because: the cut-off values seem arbitrary, can provide incentives for strategic behavior in reporting official statistics, and have the potential to misguide politicians, investors, charity donors and the public who use the HDI at large.
+
+In 2010, the UNDP reacted to the criticism and updated the thresholds to classify nations as low, medium, and high human development countries. In a comment to The Economist in early January 2011, the Human Development Report Office responded to a 6 January 2011 article in the magazine which discusses the Wolff et al. paper. The Human Development Report Office states that they undertook a systematic revision of the methods used for the calculation of the HDI, and that the new methodology directly addresses the critique by Wolff et al. in that it generates a system for continuously updating the human-development categories whenever formula or data revisions take place.
+
+In 2013, Salvatore Monni and Alessandro Spaventa emphasized that in the debate of GDP versus HDI, it is often forgotten that these are both external indicators that prioritize different benchmarks upon which the quantification of societal welfare can be predicated. The larger question is whether it is possible to shift the focus of policy from a battle between competing paradigms to a mechanism for eliciting information on well-being directly from the population.
+
+The United Nations Development Programme  compiles the Human Development Index  of 191 nations in the annual Human Development Report. The index considers the health, education, income and living in a given country to provide a measure of human development which is comparable between countries and over time.
+
+The HDI is the most widely used indicator of human development and has changed how people view the concept. However, several aspects of the index have received criticism. Some scholars have criticized how the factors are weighed, in particular how an additional year of life expectancy is valued differently between countries; and the limited factors it considers, noting the omission of factors such as the levels of distributional and gender inequality. In response to the former, the UNDP introduced the inequality-adjusted Human Development Index  in its 2010 report, and in response to the latter the Gender Development Index  was introduced in the 1995 report. Others have criticized the perceived oversimplification of using a single number per country.
+
+To reflect developmental differences within countries, a subnational HDI  featuring data for more than 1,600 regions was introduced in 2018 by the Global Data Lab at Radboud University in the Netherlands. In 2020, the UNDP introduced another index, the planetary pressures–adjusted Human Development Index  , which decreases the scores of countries with a higher ecological footprint.
+
+The HDI was first published in 1990 with the goal of being a more comprehensive measure of human development than purely economic measures such as gross domestic product. The index incorporates three dimensions of human development: a long and healthy life, knowledge, and decent living standards. Various indicators are used to quantify how countries perform on each dimension. The indicators used in the 2022 report were life expectancy at birth; expected years of schooling for children; mean years of schooling for adults; and gross national income per capita. The indicators are used to create a health index, an education index and an income index, each with a value between 0 and 1. The geometric mean of the three indices—that is, the cube root of the product of the indices—is the human development index. A value above 0.800 is classified as very high, between 0.700 and 0.799 as high, 0.550 to 0.699 as medium, and below 0.550 as low.
+
+The data used to calculate HDI comes mostly from United Nations agencies and international institutions, such as United Nations Educational, Scientific and Cultural Organization , United Nations Department of Economic and Social Affairs, the World Bank, International Monetary Fund and Organisation for Economic Co-operation and Development . Rarely, when one of the indicators is missing, cross-country regression models are used. Due to improved data and methodology updates, HDI values are not comparable across human development reports; instead, each report recalculates the HDI for some previous years.
+
+The Human Development Report includes all 193 United Nations member states, as well as Palestine and Hong Kong SAR. However, the Human Development Index is not calculated for four of the UN member states: DPR Korea , Monaco, Nauru, and Somalia. Some components of the index may be calculated for these countries. The Holy See , the Cook Islands, and Niue are the only state parties within the United Nations System that are not included in the report. In total, the HDI is available for 191 nations.
+
+Global Data Lab also provides data on the HDI of Somalia, putting it at 0.361 , the lowest in the world.
+
+Countries ranked from 1 to 66 in 2021 are designated "very high" HDI; those ranked from 67 to 115 are designated "high" HDI; those ranked from 116 to 159 are denoted "medium" HDI; and those ranked from 160 to 191 are designated "low" HDI.
+
+The Human Development Report also reports the HDI for various groups of countries. These include regional groupings based on the UNDP regional classifications, HDI groups including the countries currently falling into a given HDI bracket, OECD members and various other UN groupings. The aggregate HDI values are calculated in the same way as for individual countries with the input data being the weighted average for all countries with available data in the group.
+

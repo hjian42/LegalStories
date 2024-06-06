@@ -1,0 +1,575 @@
+In economics, the Gini coefficient , also known as the Gini index or Gini ratio, is a measure of statistical dispersion intended to represent the income inequality, the wealth inequality, or the consumption inequality within a nation or a social group. It was developed by Italian statistician and sociologist Corrado Gini.
+
+The Gini coefficient measures the inequality among the values of a frequency distribution, such as levels of income. A Gini coefficient of 0 reflects perfect equality, where all income or wealth values are the same, while a Gini coefficient of 1  reflects maximal inequality among values, for example a single individual having all the income while all others have none.
+
+The Gini coefficient was proposed by Corrado Gini as a measure of inequality of income or wealth. For OECD countries in the late 20th century, considering the effect of taxes and transfer payments, the income Gini coefficient ranged between 0.24 and 0.49, with Slovenia being the lowest and Mexico the highest. African countries had the highest pre-tax Gini coefficients in 2008–2009, with South Africa having the world's highest, estimated to be 0.63 to 0.7. However, this figure drops to 0.52 after social assistance is taken into account, and drops again to 0.47 after taxation. The country with the lowest Gini coefficient is Slovenia, with a Gini coefficient of 0.232. The Gini coefficient of the global income in 2005 has been estimated to be between 0.61 and 0.68 by various sources.
+
+There are some issues in interpreting a Gini coefficient, as the same value may result from many different distribution curves. To mitigate this, the demographic structure should be taken into account. Countries with an aging population, or those with an increased birth rate, experience an increasing pre-tax Gini coefficient even if real income distribution for working adults remains constant. Many scholars have devised over a dozen variants of the Gini coefficient.
+
+The Gini coefficient was developed by the Italian statistician Corrado Gini and published in his 1912 paper Variabilità e mutabilità . Building on the work of American economist Max Lorenz, Gini proposed that the difference between the hypothetical straight line depicting perfect equality, and the actual line depicting people's incomes, be used as a measure of inequality.
+
+The Gini coefficient is an index for the degree of inequality in the distribution of income/wealth, used to estimate how far a country's wealth or income distribution deviates from an equal distribution.
+
+The Gini coefficient is usually defined mathematically based on the Lorenz curve, which plots the proportion of the total income of the population  that is cumulatively earned by the bottom x of the population . The line at 45 degrees thus represents perfect equality of incomes. The Gini coefficient can then be thought of as the ratio of the area that lies between the line of equality and the Lorenz curve  over the total area under the line of equality ; i.e., G = A/. If there are no negative incomes, it is also equal to 2A and 1 − 2B due to the fact that A + B = 0.5.
+
+Assuming non-negative income or wealth for all, the Gini coefficient's theoretical range is from 0  to 1 . This measure is often rendered as a percentage, spanning 0 to 100. However, if negative values are factored in, as in cases of debt, the Gini index could exceed 1. Typically, we presuppose a positive mean or total, precluding a Gini coefficient below zero. 
+
+An alternative approach is to define the Gini coefficient as half of the relative mean absolute difference, which is equivalent to the definition based on the Lorenz curve.  The mean absolute difference is the average absolute difference of all pairs of items of the population, and the relative mean absolute difference is the mean absolute difference divided by the average, 
+
+
+
+
+
+
+x
+¯
+
+
+
+
+
+{\displaystyle {\bar {x}}}
+
+, to normalize for scale. If xi is the wealth or income of person i, and there are n persons, then the Gini coefficient G is given by:
+
+When the income  distribution is given as a continuous probability density function p, the Gini coefficient is again half of the relative mean absolute difference:
+
+where 
+
+
+
+
+μ
+=
+
+∫
+
+−
+∞
+
+
+∞
+
+
+x
+p
+(
+x
+)
+
+d
+x
+
+
+
+{\displaystyle \textstyle \mu =\int _{-\infty }^{\infty }xp\,dx}
+
+ is the mean of the distribution, and the lower limits of integration may be replaced by zero when all incomes are positive.
+
+While the income distribution of any particular country will not correspond perfectly to the theoretical models,  these models can provide a qualitative explanation of the income distribution in a nation given the Gini coefficient.
+
+The extreme cases are represented by the most equal of society in which every person receives the same income  and the most unequal society  where a single person receives 100% of the total income and the remaining N − 1 people receive none .
+
+A simplified case distinguishes just two levels of income, low and high. If the high income group is a proportion u of the population and earns a proportion f of all income, then the Gini coefficient is f − u. A more graded distribution with these same values u and f will always have a higher Gini coefficient than f − u.
+
+An example case in which the wealthiest 20% of the population has 80% of all income  would lead to an income Gini coefficient of at least 60%.
+
+Another example case, in which 1% of the world's population owns 50% of all wealth, would result in a wealth Gini coefficient of at least 49%.
+
+In some cases, this equation can be applied to calculate the Gini coefficient without direct reference to the Lorenz curve. For example, :
+
+Since the Gini coefficient is half the relative mean absolute difference, it can also be calculated using formulas for the relative mean absolute difference. For a random sample S consisting of values yi, i = 1 to n, that are indexed in non-decreasing order , the statistic:
+
+is a consistent estimator of the population Gini coefficient, but is not, in general, unbiased. Like G, G has a simpler form:
+
+There does not exist a sample statistic that is, in general, an unbiased estimator of the population Gini coefficient, like the relative mean absolute difference.
+
+For a discrete probability distribution with probability mass function 
+
+
+
+f
+(
+
+y
+
+i
+
+
+)
+,
+
+
+{\displaystyle f,}
+
+ 
+
+
+
+i
+=
+1
+,
+…
+,
+n
+
+
+{\displaystyle i=1,\ldots ,n}
+
+, where  
+
+
+
+f
+(
+
+y
+
+i
+
+
+)
+
+
+{\displaystyle f}
+
+ is the fraction of the population with income or wealth 
+
+
+
+
+y
+
+i
+
+
+>
+0
+
+
+{\displaystyle y_{i}>0}
+
+, the Gini coefficient is:
+
+where
+
+If the points with non-zero probabilities are indexed in increasing order 
+
+
+
+(
+
+y
+
+i
+
+
+<
+
+y
+
+i
++
+1
+
+
+)
+
+
+{\displaystyle }
+
+, then:
+
+where
+
+When the population is large, the income distribution may be represented by a continuous probability density function f where f dx is the fraction of the population with wealth or income in the interval dx about x.  If F is the cumulative distribution function for f:
+
+and L is the Lorenz function:
+
+then the Lorenz curve L may then be represented as a function parametric in L and F and the value of B can be found by integration:
+
+The Gini coefficient can also be calculated directly from the cumulative distribution function of the distribution F. Defining μ as the mean of the distribution, and specifying that F is zero for all negative values, the Gini coefficient is given by:
+
+The latter result comes from integration by parts. 
+
+The Gini coefficient may be expressed in terms of the quantile function Q ) = x)
+
+Since the Gini coefficient is independent of scale, if the distribution function can be expressed in the form f where φ is a scale factor and a, b, c... are dimensionless parameters, then the Gini coefficient will be a function only of a, b, c.... For example, for the exponential distribution, which is a function of only x and a scale parameter, the Gini coefficient is a constant, equal to 1/2.
+
+For some functional forms, the Gini index can be calculated explicitly. For example, if y follows a log-normal distribution with the standard deviation of logs equal to 
+
+
+
+σ
+
+
+{\displaystyle \sigma }
+
+, then 
+
+
+
+G
+=
+erf
+⁡
+
+(
+
+
+σ
+2
+
+
+)
+
+
+
+{\displaystyle G=\operatorname {erf} \left}
+
+ where 
+
+
+
+erf
+
+
+{\displaystyle \operatorname {erf} }
+
+ is the error function ( since 
+
+
+
+G
+=
+2
+Φ
+
+(
+
+
+σ
+
+2
+
+
+
+)
+
+−
+1
+
+
+{\displaystyle G=2\Phi \left-1}
+
+, where  
+
+
+
+Φ
+
+
+{\displaystyle \Phi }
+
+ is the cumulative distribution function of a standard normal distribution).  In the table below, some examples for probability density functions with support on 
+
+
+
+[
+0
+,
+∞
+)
+
+
+{\displaystyle [0,\infty )}
+
+ are shown. The Dirac delta distribution represents the case where everyone has the same wealth ; it implies no variations between incomes.
+
+Sometimes the entire Lorenz curve is not known, and only values at certain intervals are given. In that case, the Gini coefficient can be approximated using various techniques for interpolating the missing values of the Lorenz curve. If  are the known points on the Lorenz curve, with the Xk indexed in increasing order , so that:
+
+If the Lorenz curve is approximated on each interval as a line between consecutive points, then the area B can be approximated with trapezoids and:
+
+is the resulting approximation for G. More accurate results can be obtained using other methods to approximate the area B, such as approximating the Lorenz curve with a quadratic function across pairs of intervals or building an appropriately smooth approximation to the underlying distribution function that matches the known data. If the population mean and boundary values for each interval are also known, these can also often be used to improve the accuracy of the approximation.
+
+The Gini coefficient calculated from a sample is a statistic, and its standard error, or confidence intervals for the population Gini coefficient, should be reported. These can be calculated using bootstrap techniques, mathematically complicated and computationally demanding even in an era of fast computers. Economist Tomson Ogwang made the process more efficient by setting up a "trick regression model" in which respective income variables in the sample are ranked, with the lowest income being allocated rank 1. The model then expresses the rank  as the sum of a constant A and a normal error term whose variance is inversely proportional to yk:
+
+Thus, G can be expressed as a function of the weighted least squares estimate of the constant A and that this can be used to speed up the calculation of the jackknife estimate for the standard error. Economist David Giles argued that the standard error of the estimate of A can be used to derive the estimate of G directly without using a jackknife. This method only requires using ordinary least squares regression after ordering the sample data. The results compare favorably with the estimates from the jackknife with agreement improving with increasing sample size.
+
+However, it has been argued that this depends on the model's assumptions about the error distributions and the independence of error terms. These assumptions are often not valid for real data sets. There is still ongoing debate surrounding this topic.
+
+Guillermina Jasso and Angus Deaton independently proposed the following formula for the Gini coefficient:
+
+where 
+
+
+
+μ
+
+
+{\displaystyle \mu }
+
+ is mean income of the population, Pi is the income rank P of person i, with income X, such that the richest person receives a rank of 1 and the poorest a rank of N. This effectively gives higher weight to poorer people in the income distribution, which allows the Gini to meet the Transfer Principle. Note that the Jasso-Deaton formula rescales the coefficient so that its value is one if all the 
+
+
+
+
+X
+
+i
+
+
+
+
+{\displaystyle X_{i}}
+
+ are zero except one. Note however Allison's reply on the need to divide by N² instead.
+
+FAO explains another version of the formula.
+
+The Gini coefficient and other standard inequality indices reduce to a common form. Perfect equality—the absence of inequality—exists when and only when the inequality ratio, 
+
+
+
+
+r
+
+j
+
+
+=
+
+x
+
+j
+
+
+
+/
+
+
+
+x
+¯
+
+
+
+
+{\displaystyle r_{j}=x_{j}/{\overline {x}}}
+
+, equals 1 for all j units in some population (for example, there is perfect income equality when everyone's income 
+
+
+
+
+x
+
+j
+
+
+
+
+{\displaystyle x_{j}}
+
+ equals the mean income 
+
+
+
+
+
+x
+¯
+
+
+
+
+{\displaystyle {\overline {x}}}
+
+, so that 
+
+
+
+
+r
+
+j
+
+
+=
+1
+
+
+{\displaystyle r_{j}=1}
+
+ for everyone). Measures of inequality, then, are measures of the average deviations of the 
+
+
+
+
+r
+
+j
+
+
+=
+1
+
+
+{\displaystyle r_{j}=1}
+
+ from 1; the greater the average deviation, the greater the inequality. Based on these observations the inequality indices have this common form:
+
+where pj weights the units by their population share, and f is a function of the deviation of each unit's rj from 1, the point of equality. The insight of this generalized inequality index is that inequality indices differ because they employ different functions of the distance of the inequality ratios  from 1.
+
+Gini coefficients of income are calculated on a market income and a disposable income basis. The Gini coefficient on market income—sometimes referred to as a pre-tax Gini coefficient—is calculated on income before taxes and transfers. It measures inequality in income without considering the effect of taxes and social spending already in place in a country. The Gini coefficient on disposable income—sometimes referred to as the after-tax Gini coefficient—is calculated on income after taxes and transfers. It measures inequality in income after considering the effect of taxes and social spending already in place in a country.
+
+For OECD countries over the 2008–2009 period, the Gini coefficient  for a total population ranged between 0.34 and 0.53, with South Korea the lowest and Italy the highest. The Gini coefficient  for a total population ranged between 0.25 and 0.48, with Denmark the lowest and Mexico the highest. For the United States, the country with the largest population among OECD countries, the pre-tax Gini index was 0.49, and the after-tax Gini index was 0.38 in 2008–2009. The OECD average for total populations in OECD countries was 0.46 for the pre-tax income Gini index and 0.31 for the after-tax income Gini index. Taxes and social spending that were in place in 2008–2009 period in OECD countries significantly lowered effective income inequality, and in general, "European countries—especially Nordic and Continental welfare states—achieve lower levels of income inequality than other countries."
+
+Using the Gini can help quantify differences in welfare and compensation policies and philosophies. However, it should be borne in mind that the Gini coefficient can be misleading when used to make political comparisons between large and small countries or those with different immigration policies .
+
+The Gini coefficient for the entire world has been estimated by various parties to be between 0.61 and 0.68. The graph shows the values expressed as a percentage in their historical development for a number of countries.
+
+According to UNICEF, Latin America and the Caribbean region had the highest net income Gini index in the world at 48.3, on an unweighted average basis in 2008. The remaining regional averages were: sub-Saharan Africa , Asia , Middle East and North Africa , Eastern Europe and Central Asia , and High-income Countries . Using the same method, the United States is claimed to have a Gini index of 36, while South Africa had the highest income Gini index score of 67.8.
+
+Taking income distribution of all human beings, worldwide income inequality has been constantly increasing since the early 19th century  . There was a steady increase in the global income inequality Gini score from 1820 to 2002, with a significant increase between 1980 and 2002. This trend appears to have peaked and begun a reversal with rapid economic growth in emerging economies, particularly in the large populations of BRIC countries.
+
+The table below presents the estimated world income Gini coefficients over the last 200 years, as calculated by Milanovic.
+
+More detailed data from similar sources plots a continuous decline since 1988.  This is attributed to globalization increasing incomes for billions of poor people, mostly in countries like China and India.  Developing countries like Brazil have also improved basic services like health care, education, and sanitation; others like Chile and Mexico have enacted more progressive tax policies.
+
+The Gini coefficient is widely used in fields as diverse as sociology, economics, health science, ecology, engineering, and agriculture. For example, in social sciences and economics, in addition to income Gini coefficients, scholars have published education Gini coefficients and opportunity Gini coefficients.
+
+Education Gini index estimates the inequality in education for a given population. It is used to discern trends in social development through educational attainment over time. A study across 85 countries by three World Bank economists, Vinod Thomas, Yan Wang, and Xibo Fan, estimated Mali had the highest education Gini index of 0.92 in 1990 , while the United States had the lowest education inequality Gini index of 0.14. Between 1960 and 1990, China, India and South Korea had the fastest drop in education inequality Gini Index. They also claim education Gini index for the United States slightly increased over the 1980–1990 period.
+
+Though India's education Gini Index has been falling from 1960 through 1990, most of the population still has not received any education, while 10 percent of the population received more than 40% of the total educational hours in the nation. This means that a large portion of capable children in the country are not receiving the support necessary to allow them to become positive contributors to society. This will lead to a deadweight loss to the national society because there are many people who are underdeveloped and underutilized.
+
+Similar in concept to the Gini income coefficient, the Gini opportunity coefficient measures inequality in opportunities. The concept builds on Amartya Sen's suggestion that inequality coefficients of social development should be premised on the process of enlarging people's choices and enhancing their capabilities, rather than on the process of reducing income inequality. Kovacevic, in a review of the Gini opportunity coefficient, explained that the coefficient estimates how well a society enables its citizens to achieve success in life where the success is based on a person's choices, efforts and talents, not their background defined by a set of predetermined circumstances at birth, such as gender, race, place of birth, parent's income and circumstances beyond the control of that individual.
+
+In 2003, Roemer reported Italy and Spain exhibited the largest opportunity inequality Gini index amongst advanced economies.
+
+In 1978, Anthony Shorrocks introduced a measure based on income Gini coefficients to estimate income mobility. This measure, generalized by Maasoumi and Zandvakili, is now generally referred to as Shorrocks index, sometimes as Shorrocks mobility index or Shorrocks rigidity index. It attempts to estimate whether the income inequality Gini coefficient is permanent or temporary and to what extent a country or region enables economic mobility to its people so that they can move from one  income quantile to another  over time. In other words, the Shorrocks index compares inequality of short-term earnings, such as the annual income of households, to inequality of long-term earnings, such as 5-year or 10-year total income for the same households.
+
+Shorrocks index is calculated in several different ways, a common approach being from the ratio of income Gini coefficients between short-term and long-term for the same region or country.
+
+A 2010 study using social security income data for the United States since 1937 and Gini-based Shorrock's indices concludes that income mobility in the United States has had a complicated history, primarily due to the mass influx of women into the American labor force after World War II. Income inequality and income mobility trends have been different for men and women workers between 1937 and the 2000s. When men and women are considered together, the Gini coefficient-based Shorrocks index trends imply long-term income inequality has been substantially reduced among all workers, in recent decades for the United States. Other scholars, using just 1990s data or other short periods have come to different conclusions. For example, Sastre and Ayala conclude from their study of income Gini coefficient data between 1993 and 1998 for six developed economies that France had the least income mobility, Italy the highest, and the United States and Germany intermediate levels of income mobility over those five years.
+
+The Gini coefficient has features that make it useful as a measure of dispersion in a population, and inequalities in particular. The coefficient ranges from 0, for perfect equality, to 1, indicating perfect inequality. The Gini is based on the comparison of cumulative proportions of the population against cumulative proportions of income they receive.
+
+The Gini coefficient is a relative measure. The Gini coefficient of a developing country can rise  even when the number of people in absolute poverty decreases. This is because the Gini coefficient measures relative, not absolute, wealth. Changing income inequality, measured by Gini coefficients, can be due to structural changes in a society such as growing population  and income mobility. Gini coefficients are simple, and this simplicity can lead to oversights and can confuse the comparison of different populations; for example, while both Bangladesh  and the Netherlands  had an income Gini coefficient of 0.31 in 2010, the quality of life, economic opportunity and absolute income in these countries are very different, i.e. countries may have identical Gini coefficients, but differ greatly in wealth. Basic necessities may be available to all in a developed economy, while in an undeveloped economy with the same Gini coefficient, basic necessities may be unavailable to most or unequally available due to lower absolute wealth.
+
+Even when the total income of a population is the same, in certain situations two countries with different income distributions can have the same Gini index . Table A illustrates one such situation. Both countries have a Gini coefficient of 0.2, but the average income distributions for household groups are different. As another example, in a population where the lowest 50% of individuals have no income, and the other 50% have equal income, the Gini coefficient is 0.5; whereas for another population where the lowest 75% of people have 25% of income and the top 25% have 75% of the income, the Gini index is also 0.5. Economies with similar incomes and Gini coefficients can have very different income distributions. Bellù and Liberati claim that ranking income inequality between two populations is not always possible based on their Gini indices. Similarly, computational social scientist Fabian Stephany illustrates that income inequality within the population, e.g., in specific socioeconomic groups of same age and education, also remains undetected by conventional Gini indices.
+
+A Gini index does not contain information about absolute national or personal incomes. Populations can simultaneously have very low-income Gini indices and very high wealth Gini indexes. By measuring inequality in income, the Gini ignores the differential efficiency of the use of household income. By ignoring wealth , the Gini can create the appearance of inequality when the people compared are at different stages in their life. Wealthy countries such as Sweden can show a low Gini coefficient for the disposable income of 0.31, thereby appearing equal, yet have a very high Gini coefficient for wealth of 0.79 to 0.86, suggesting an extremely unequal wealth distribution in its society. These factors are not assessed in income-based Gini.
+
+Gini index has a downward-bias for small populations. Counties or states or countries with small populations and less diverse economies will tend to report small Gini coefficients. For economically diverse large population groups, a much higher coefficient is expected than for each of its regions. For example, taking the world economy as a whole and income distribution for all human beings, different scholars estimate the global Gini index to range between 0.61 and 0.68.
+As with other inequality coefficients, the Gini coefficient is influenced by the granularity of the measurements. For example, five 20% quantiles  will usually yield a lower Gini coefficient than twenty 5% quantiles  for the same distribution. Philippe Monfort has shown that using inconsistent or unspecified granularity limits the usefulness of Gini coefficient measurements.
+
+The Gini coefficient measure gives different results when applied to individuals instead of households, for the same economy and same income distributions. If household data is used, the measured value of income Gini depends on how the household is defined. The comparison is not meaningful when different populations are not measured with consistent definitions.
+
+Deininger and Squire  show that the income Gini coefficient based on individual income rather than household income is different. For example, for the United States, they found that the individual income-based Gini index was 0.35, while for France, 0.43. According to their individual-focused method, in the 108 countries they studied, South Africa had the world's highest Gini coefficient at 0.62, Malaysia had Asia's highest Gini coefficient at 0.5, Brazil the highest at 0.57 in Latin America and the Caribbean region, and Turkey the highest at 0.5 in OECD countries.
+
+Expanding on the importance of life-span measures, the Gini coefficient as a point-estimate of equality at a certain time ignores life-span changes in income. Typically, increases in the proportion of young or old members of a society will drive apparent changes in equality simply because people generally have lower incomes and wealth when they are young than when they are old. Because of this, factors such as age distribution within a population and mobility within income classes can create the appearance of inequality when none exist, taking into account demographic effects. Thus a given economy may have a higher Gini coefficient at any timepoint compared to another, while the Gini coefficient calculated over individuals' lifetime income is lower than the apparently more equal  economy's. Essentially, what matters is not just inequality in any particular year but the distribution composition over time.
+
+Billionaire Thomas Kwok claimed the income Gini coefficient for Hong Kong has been high , in part because of structural changes in its population. Over recent decades, Hong Kong has witnessed increasing numbers of small households, elderly households, and elderly living alone. The combined income is now split into more households. Many older people live separately from their children in Hong Kong. These social changes have caused substantial changes in household income distribution. The income Gini coefficient, claims Kwok, does not discern these structural changes in its society. Household money income distribution for the United States, summarized in Table C of this section, confirms that this issue is not limited to just Hong Kong. According to the US Census Bureau, between 1979 and 2010, the population of the United States experienced structural changes in overall households; the income for all income brackets increased in inflation-adjusted terms, household income distributions shifted into higher income brackets over time, while the income Gini coefficient increased.
+
+Another limitation of the Gini coefficient is that it is not a proper measure of egalitarianism, as it only measures income dispersion. For example, suppose two equally egalitarian countries pursue different immigration policies. In that case, the country accepting a higher proportion of low-income or impoverished migrants will report a higher Gini coefficient and, therefore, may exhibit more income inequality.
+
+Some countries distribute benefits that are difficult to value. Countries that provide subsidized housing, medical care, education or other such services are difficult to value objectively, as it depends on the quality and extent of the benefit. In absence of a free market, valuing these income transfers as household income is subjective. The theoretical model of the Gini coefficient is limited to accepting correct or incorrect subjective assumptions.
+
+In subsistence-driven and informal economies, people may have significant income in other forms than money, for example, through subsistence farming or bartering. These income tend to accrue to the segment of population below the poverty line or very poor in emerging and transitional economy countries such as those in sub-Saharan Africa, Latin America, Asia, and Eastern Europe. Informal economy accounts for over half of global employment and as much as 90 per cent of employment in some of the poorer sub-Saharan countries with high official Gini inequality coefficients. Schneider et al., in their 2010 study of 162 countries, report about 31.2%, or about $20 trillion, of world's GDP is informal. In developing countries, the informal economy predominates for all income brackets except the richer, urban upper-income bracket populations. Even in developed economies, 8%  to 27%  of each nation's GDP is informal. The resulting informal income predominates as a livelihood activity for those in the lowest income brackets. The value and distribution of the incomes from informal or underground economy is difficult to quantify, making true income Gini coefficients estimates difficult. Different assumptions and quantifications of these incomes will yield different Gini coefficients.
+
+Gini has some mathematical limitations as well. It is not additive and different sets of people cannot be averaged to obtain the Gini coefficient of all the people in the sets.
+
+Given the limitations of the Gini coefficient, other statistical methods are used in combination or as an alternative measure of population dispersity. For example, entropy measures are frequently used . These measures attempt to compare the distribution of resources by intelligent agents in the market with a maximum entropy random distribution, which would occur if these agents acted like non-interacting particles in a closed system following the laws of statistical physics.
+
+There is a summary measure of the diagnostic ability of a binary classifier system that is also called the Gini coefficient, which is defined as twice the area between the receiver operating characteristic  curve and its diagonal.  It is related to the AUC  measure of performance given by 
+
+
+
+A
+U
+C
+=
+(
+G
++
+1
+)
+
+/
+
+2
+
+
+{\displaystyle AUC=/2}
+
+   and to Mann–Whitney U.  Although both Gini coefficients are defined as areas between certain curves and share certain properties, there is no simple direct relationship between the Gini coefficient of statistical dispersion and the Gini coefficient of a classifier.
+
+The Gini index is also related to the Pietra index — both of which measure statistical heterogeneity and are derived from the Lorenz curve and the diagonal line.
+
+In certain fields such as ecology, inverse Simpson's index 
+
+
+
+1
+
+/
+
+λ
+
+
+{\displaystyle 1/\lambda }
+
+ is used to quantify diversity, and this should not be confused with the Simpson index 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+. These indicators are related to Gini. The inverse Simpson index increases with diversity, unlike the Simpson index and Gini coefficient, which decrease with diversity. The Simpson index is in the range , where 0 means maximum and 1 means minimum diversity . Since diversity indices typically increase with increasing heterogeneity, the Simpson index is often transformed into inverse Simpson, or using the complement 
+
+
+
+1
+−
+λ
+
+
+{\displaystyle 1-\lambda }
+
+, known as the Gini-Simpson Index.
+
+In recent decades, researchers have attempted to estimate Gini coefficients for pre-20th century societies. In the absence of household income surveys and income taxes, scholars have relied on proxy variables. These include wealth taxes in medieval European city states, patterns of landownership in Roman Egypt, variation of the size of houses in societies from ancient Greece to Aztec Mexico, and inheritance and dowries in Babylonian society. Other data does not directly document variations in wealth or income but are known to reflect inequality, such as the ratio of rents to wages or of labor to capital.
+
+Although the Gini coefficient is most popular in economics, it can, in theory, be applied in any field of science that studies a distribution. For example, in ecology, the Gini coefficient has been used as a measure of biodiversity, where the cumulative proportion of species is plotted against the cumulative proportion of individuals. In health, it has been used as a measure of the inequality of health-related quality of life in a population. In education, it has been used as a measure of the inequality of universities. In chemistry it has been used to express the selectivity of protein kinase inhibitors against a panel of kinases. In engineering, it has been used to evaluate the fairness achieved by Internet routers in scheduling packet transmissions from different flows of traffic.
+
+The Gini coefficient is sometimes used for the measurement of the discriminatory power of rating systems in credit risk management.
+
+A 2005 study accessed US census data to measure home computer ownership and used the Gini coefficient to measure inequalities amongst whites and African Americans. Results indicated that although decreasing overall, home computer ownership inequality was substantially smaller among white households.
+
+A 2016 peer-reviewed study titled Employing the Gini coefficient to measure participation inequality in treatment-focused Digital Health Social Networks illustrated that the Gini coefficient was helpful and accurate in measuring shifts in inequality, however as a standalone metric it failed to incorporate overall network size.
+
+Discriminatory power refers to a credit risk model's ability to differentiate between defaulting and non-defaulting clients. The formula 
+
+
+
+
+G
+
+1
+
+
+
+
+{\displaystyle G_{1}}
+
+, in the calculation section above, may be used for the final model and at the individual model factor level to quantify the discriminatory power of individual factors. It is related to the accuracy ratio in population assessment models.
+
+The Gini coefficient has also been applied to analyze inequality in dating apps.
+
+Kaminskiy and Krivtsov extended the concept of the Gini coefficient from economics to reliability theory and proposed a Gini–type coefficient that helps to assess the degree of aging of non−repairable systems or aging and rejuvenation of repairable systems.  The coefficient is defined between -1 and 1 and can be used in both empirical and parametric life distributions. It takes negative values for the class of decreasing failure rate distributions and point processes with decreasing failure intensity rate and is positive for the increasing failure rate distributions and point processes with increasing failure intensity rate. The value of zero corresponds to the exponential life distribution or the Homogeneous Poisson Process.
+

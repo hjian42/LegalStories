@@ -1,0 +1,5 @@
+In law, the doctrine of chances is a rule of evidence that allows evidence to show that it is unlikely a defendant would be repeatedly, innocently involved in similar, suspicious circumstances.
+Normally, under Federal Rule of Evidence 404, evidence of other crimes, wrongs, or acts is not admissible to prove the character of a person in order to show action in conformity therewith.
+Using the doctrine of chances allows a prosecutor to admit evidence of prior "accidents" that can persuade a jury that prior incidents are so similar that it is very improbable that the case at bar is actually accidental.
+The doctrine of chances was first developed by English courts in the case Rex v. Smith, 11 Cr. App. R. 229, 84 L.J.K.B. 2153 (1915), better known as the "brides in the bath murder". In this case the defendant was accused of murdering his wife by drowning her in a bath. The defendant claimed that his wife had fainted in the bath. The prosecutor sought to include evidence in the trial that the defendant's two previous wives had both died in the same way. The evidence was allowed.
+

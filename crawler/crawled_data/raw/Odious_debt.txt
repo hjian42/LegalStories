@@ -1,0 +1,43 @@
+The Corruption Perceptions Index  is an index which ranks countries "by their perceived levels of public sector corruption, as determined by expert assessments and opinion surveys." The CPI generally defines corruption as an "abuse of entrusted power for private gain". The index is published annually by the non-governmental organisation Transparency International since 1995.
+
+The 2022 CPI, published in January 2023, currently ranks 180 countries "on a scale from 100  to 0 " based on the situation between 1 May 2021 and 30 April 2022. Denmark, Finland, New Zealand, Norway, Singapore, and Sweden are perceived as the least corrupt nations in the world, ranking consistently high among international financial transparency, while the most apparently corrupt are Somalia , Syria and South Sudan .
+
+Since 2012 CPI takes into account 13 different surveys and assessments from 12 different institutions. The institutions are:
+
+Countries need to be evaluated by at least three sources to appear in the CPI. The CPI measures perception of corruption due to the difficulty of measuring absolute levels of corruption.
+Transparency International commissioned the University of Passau's Johann Graf Lambsdorff to produce the CPI. Early CPIs used public opinion surveys.
+
+A study published in 2002 found a "very strong significant correlation" between the Corruption Perceptions Index and two other proxies for corruption: black market activity and an overabundance of regulation.
+
+All three metrics also had a highly significant correlation with the real gross domestic product per capita ; the Corruption Perceptions Index correlation with RGDP/Cap was the strongest, explaining over three-quarters of the variance. 
+
+Alex Cobham of the Center for Global Development reported in 2013 that "many of the staff and chapters" at Transparency International, the publisher of the Corruption Perceptions Index, "protest internally" over concerns about the index. The original creator of the index, Johann Graf Lambsdorff, withdrew from work on the index in 2009, stating "In 1995 I invented the Corruption Perceptions Index and have orchestrated it ever since, putting TI on the spotlight of international attention. In August 2009 I have informed Cobus de Swardt, managing director of TI, that I am no longer available for doing the Corruption Perceptions Index."
+
+Research papers published in 2007 and 2008 examined the economic consequences of corruption perception, as defined by the CPI.  The researchers found a correlation between a higher CPI and higher long-term economic growth, as well as an increase in GDP growth of 1.7% for every unit increase in a country's CPI score. Also shown was a power-law dependence linking higher CPI score to higher rates of foreign investment in a country.
+
+The Index was methodologically criticized in the past, i.e. questioned based on its methodology.
+
+According to political scientist Dan Hough, three flaws in the Index include:
+
+Media outlets frequently use the raw numbers as a yardstick for government performance, without clarifying what the numbers mean. The local Transparency International chapter in Bangladesh disowned the index results after a change in methodology caused the country's scores to increase; media reported it as an "improvement".
+
+In a 2013 article in Foreign Policy, Alex Cobham suggested that CPI should be dropped for the good of Transparency International. It argues that the CPI embeds a powerful and misleading elite bias in popular perceptions of corruption, potentially contributing to a vicious cycle and at the same time incentivizing inappropriate policy responses. Cobham writes, "the index corrupts perceptions to the extent that it's hard to see a justification for its continuing publication."
+
+Recent econometric analyses that have exploited the existence of natural experiments on the level of corruption and compared the CPI with other subjective indicators have found that, while not perfect, the CPI is argued to be broadly consistent with one-dimensional measures of corruption.
+
+In the United States, many lawyers advise international businesses to consult the CPI when attempting to measure the risk of Foreign Corrupt Practices Act violations in different nations. This practice has been criticized by the Minnesota Journal of International Law, which wrote that since the CPI may be subject to perceptual biases it therefore should not be considered by lawyers to be a measure of actual national corruption risk.
+
+Transparency International also publishes the Global Corruption Barometer, which ranks countries by corruption levels using direct surveys instead of perceived expert opinions, which has been under criticism for substantial bias from the powerful elite.
+
+Transparency International has warned that a country with a clean CPI score may still be linked to corruption internationally. For example, while Sweden had the 3rd best CPI score in 2015, one of its state-owned companies, TeliaSonera, was facing allegations of bribery in Uzbekistan.
+
+Legend:
+
+Corruption Perceptions Index table:
+
+Corruption Perceptions Index table:
+
+Corruption Perceptions Index table:
+
+Corruption Perceptions Index table:
+

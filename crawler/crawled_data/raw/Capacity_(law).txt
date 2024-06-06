@@ -1,0 +1,16 @@
+A law is a universal principle that describes the fundamental nature of something, the universal properties and the relationships between things, or a description that purports to explain these principles and relationships.
+
+For example, physical laws such as the law of gravity or scientific laws attempt to describe the fundamental nature of the universe itself. Laws of mathematics and logic describe the nature of rational thought and inference .
+
+Within most fields of study, and in science in particular, the elevation of some principle of that field to the status of law usually takes place after a very long time during which the principle is used and tested and verified; though in some fields of study such laws are simply postulated as a foundation and assumed. Mathematical laws are somewhere in between: they are often arbitrary and unproven in themselves, but they are sometimes judged by how useful they are in making predictions about the real world. However, they ultimately rely on arbitrary axioms.
+
+Laws of economics are an attempt in modelization of economic behavior. Marxism criticized the belief in eternal laws of economics, which it considered a product of the dominant ideology. It claimed that in fact, those so-called laws of economics were only the historical laws of capitalism, that is of a particular historical social formation. With the advent, in the 20th century, of the application of mathematical, statistical, and experimental techniques to economics, economic theory matured into a corpus of knowledge rooted in the scientific method rather than in philosophical argument.
+
+Finally, the term is sometimes applied to less rigorous ideas that may be interesting observations or relationships, practical or ethical guidelines , and even humorous parodies of such laws.
+
+Examples of scientific laws include Boyle's law of gases, conservation laws, Ohm's law, and others. Laws of other fields of study include Occam's razor as a principle of philosophy and Say's law in economics. Examples of observed phenomena often described as laws include the Titius-Bode law of planetary positions, Zipf's law of linguistics, Thomas Malthus's Principle of Population or Malthusian Growth Model, Moore's law of technological growth. Other laws are pragmatic and observational, such as the law of unintended consequences.
+
+Some humorous parodies of such laws include adages such as Murphy's law and its many variants, and Godwin's Law of Internet conversations.
+
+This philosophy of science-related article is a stub. You can help Wikipedia by expanding it.
+

@@ -1,0 +1,3 @@
+In English law, remoteness between a cause of action and the loss or damage sustained as a result is addressed through a set of rules in both tort and contract, which limit the amount of compensatory damages available for a wrong.
+In negligence, the test of causation not only requires that the defendant was the cause in fact, but also requires that the loss or damage sustained by the claimant was not too remote. As with the policy issues in establishing that there was a duty of care and that that duty was breached, remoteness is designed as a further limit on a cause of action to ensure that the liability to pay damages placed on the defendant is done fairly.
+
