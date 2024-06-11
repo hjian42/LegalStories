@@ -1,0 +1,11 @@
+Read the concept explanation and story below. Please generate a multiple choice question with four candidates (only one correct answer) to test if a reader understands the concept: what is a potential limitation or exception of the rule "{CONCEPT}"?
+
+Start your response with "Question:". Candidates are ordered by (A), (B), (C), (D). In the end, give the right answer in the end with its explanation starting with "The right answer is".
+
+Concept: ```
+{TEXT}
+```
+
+Story: ```
+{STORY}
+```

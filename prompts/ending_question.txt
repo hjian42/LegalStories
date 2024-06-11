@@ -1,0 +1,12 @@
+Read the concept explanation and story below. Please generate a multiple choice question with four candidates (only one correct answer) to test if a reader understands the concept: come up with a hypothetical scenario where the concept "{CONCEPT}" is used and ask the reader to guess the ending of the story.
+Please ensure the hypothetical scenario is more challenging than the story below. 
+
+Start your response with "Question:". Candidates are ordered by (A), (B), (C), (D). In the end, give the right answer in the end with its explanation starting with "The right answer is".
+
+Concept: ```
+{TEXT}
+```
+
+Story: ```
+{STORY}
+```

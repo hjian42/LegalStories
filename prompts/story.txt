@@ -1,0 +1,7 @@
+Tell a story within 500 words to simplify the concept explanation below for "{CONCEPT}".
+
+Start your answer with "Concept Simplified:".
+
+Concept: ```
+{TEXT}
+```

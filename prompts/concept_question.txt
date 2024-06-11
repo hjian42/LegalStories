@@ -1,0 +1,11 @@
+Read the concept explanation and story below. Please generate a multiple choice question with four candidates (only one correct answer) to test if a reader understands the concept: which of the following answers is an accurate description of the concept "{CONCEPT}"?
+
+Start your response with "Question:". Candidates are ordered by (A), (B), (C), (D). In the end, give the right answer with its explanation starting with "The right answer is".
+
+Concept: ```
+{TEXT}
+```
+
+Story: ```
+{STORY}
+```
