@@ -9,7 +9,7 @@ Official Code for "Leveraging Large Language Models for Learning Complex Legal C
 1. Copy-paste the doctrine list from the [wikipedia page](https://en.wikipedia.org/wiki/Category:Legal_doctrines_and_principles). Saved as `cralwer/complex-law-doctrine-list.csv`.
 2. Crawl and preprocess these doctrines with their definitions from Wikipedia.
     - Downloaded 294 valid doctrine pages from wikipedia, saved as `data/294-doctrines/legal_doctrines_294.csv`.
-    - Sampled 101 doctrines out of 294 whose definition length is between 100 and 200 words, saved as `data/101-doctrines/legal_doctrines_102.csv`.
+    - Sampled 101 doctrines out of 294 whose definition length is between 100 and 200 words, saved as `data/101-doctrines/legal_doctrines_101.csv`.
     - Sampled 20 doctrines out of 101 for detailed evaluation, saved as `data/20-doctrines/legal_doctrines_20.csv`.
 
 ## Generate Stories
