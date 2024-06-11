@@ -72,7 +72,7 @@ def generate_story(text, concept, prompt_file, model):
 def main():
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input_file", type=str, default="./data/295-doctrines/legal_doctrines_295.tsv")
+    parser.add_argument("--input_file", type=str, default="./data/294-doctrines/legal_doctrines_294.tsv")
     parser.add_argument("--prompt_file_path", default="./prompts/story.txt", type=str)
     parser.add_argument("--output_folder", type=str, default="./outputs/295-doctrines/")
     parser.add_argument("--model", default="gpt-3.5-turbo-0613", type=str)
