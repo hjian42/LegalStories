@@ -2,9 +2,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![arXiv](https://img.shields.io/badge/arXiv-2201.07281-b31b1b.svg)](https://arxiv.org/abs/2402.17019)
 
-Official Code for "Leveraging Large Language Models for Learning Complex Legal Concepts through Storytelling"
+Official Code for our ACL 2024 Paper "Leveraging Large Language Models for Learning Complex Legal Concepts through Storytelling"
 
-## Crawl definitions from Wikipedia
+## Crawl Definitions from Wikipedia
 
 1. Copy-paste the doctrine list from the [wikipedia page](https://en.wikipedia.org/wiki/Category:Legal_doctrines_and_principles). Saved as `cralwer/complex-law-doctrine-list.csv`.
 2. Crawl and preprocess these doctrines with their definitions from Wikipedia.
@@ -41,6 +41,11 @@ python generate_question.py --input_file ./outputs/294-doctrines-gpt4/294_doctri
 python generate_question.py --input_file ./outputs/294-doctrines-gpt4/294_doctrine_stories.tsv --output_folder ./outputs/294-doctrines-gpt4 --question_type ending_question --model gpt-4-0613
 python generate_question.py --input_file ./outputs/294-doctrines-gpt4/294_doctrine_stories.tsv --output_folder ./outputs/294-doctrines-gpt4 --question_type limitation_question --model gpt-4-0613
 ```
+
+## Evaluation & Analysis
+
+1. Automatic evaluation with complexity metrics: `analysis/1_complexity_measure.ipynb`
+2. Human evaluation: `analysis/2_analyze_human_ratings_and_errors.ipynb` 
 
 ## References
 
