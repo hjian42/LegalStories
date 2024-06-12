@@ -49,6 +49,7 @@ python generate_question.py --input_file ./outputs/294-doctrines-gpt4/294_doctri
 3. Expert annotations: `analysis/3_expert_annotation.ipynb`
 - the final 20 stories with their questions for RCT: `analysis/expert_annotations/Final_regenerated_questions_20.tsv`
 - the final expert-annotated answers for the 20 stories: `analysis/expert_annotations/Final_answer_annotations.tsv`
+4. (upcoming) RCT analysis code and data
 
 ## References
 
