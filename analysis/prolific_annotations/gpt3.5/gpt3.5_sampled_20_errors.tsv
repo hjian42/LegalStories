@@ -1,0 +1,61 @@
+	concept	q_id	story-comments	q1-issues	q2-issues	q3-issues
+0	Abstention_doctrine	0	nan	There is no issue.	There is no issue.	The question is confusing.
+1	Abstention_doctrine	0	nan	There is no issue.	There is no issue.	Other issues not covered above,There is no issue.
+2	Abstention_doctrine	0	nan	There is no issue.	There is no issue.	There is no issue.
+3	Brady_disclosure	1	nan	The question is confusing.	There is no issue.	The question cannot be derived from the definition or story above.,The question is confusing.
+4	Brady_disclosure	1	nan	There is no issue.	There are more than one right answers in the 4 candidates.	Other issues not covered above
+5	Brady_disclosure	1	nan	There is no issue.	There is no issue.	There is no issue.
+6	Commanding_precedent	2	nan	There is no issue.	The question cannot be derived from the definition or story above.,Other issues not covered above	The question is confusing.,There are more than one right answers in the 4 candidates.
+7	Commanding_precedent	2	nan	There is no issue.	There is no issue.	There are more than one right answers in the 4 candidates.
+8	Commanding_precedent	2	nan	There is no issue.	There is no issue.	There is no issue.
+9	Constitutional_convention_(political_custom)	3	nan	The question is too easy and simple.	There is no issue.	The question is too easy and simple.
+10	Constitutional_convention_(political_custom)	3	nan	There is no issue.	There is no issue.	Other issues not covered above
+11	Constitutional_convention_(political_custom)	3	nan	There is no issue.	There is no issue.	There is no issue.
+12	Doctrine_of_foreign_equivalents	4	nan	There is no issue.	There is no issue.	The question is too easy and simple.
+13	Doctrine_of_foreign_equivalents	4	nan	There are more than one right answers in the 4 candidates.	There is no issue.	There are more than one right answers in the 4 candidates.
+14	Doctrine_of_foreign_equivalents	4	nan	There is no issue.	There is no issue.	There is no issue.
+15	FTC_v._Dean_Foods_Co.	5	was easy to follow	There is no issue.	There is no issue.	There is no issue.
+16	FTC_v._Dean_Foods_Co.	5	A lot easier to understand the definition 	There is no issue.	There is no issue.	The question cannot be derived from the definition or story above.
+17	FTC_v._Dean_Foods_Co.	5	The story was very straight forward and easy to understand.	There is no issue.	There is no issue.	The reasoning given in the suggested answer is wrong or flawed.
+18	Learned_intermediary	6	nan	There are more than one right answers in the 4 candidates.	There is no issue.	There are more than one right answers in the 4 candidates.
+19	Learned_intermediary	6	It was a little long winded	There is no issue.	There is no issue.	The question is confusing.
+20	Learned_intermediary	6	The story explains a law in the Netherlands versus the U.S.	Other issues not covered above,There is no issue.	The question cannot be derived from the definition or story above.	The question is confusing.
+21	Maxwellisation	7	it's a good story with lots of detail.	There are more than one right answers in the 4 candidates.	There is no issue.	There is no issue.
+22	Maxwellisation	7	A lot easier to understand, but the initial description is also good 	There is no issue.	The question is confusing.,Other issues not covered above	There is no issue.
+23	Maxwellisation	7	The defintion was explained well during the story.	There is no issue.	There is no issue.	The question is confusing.
+24	Pacta_sunt_servanda	8	shows evidence to support claims which is good	There is no issue.	There are more than one right answers in the 4 candidates.,There is no issue.	There are more than one right answers in the 4 candidates.
+25	Pacta_sunt_servanda	8	Much easier to understand as a story 	There is no issue.	There is no issue.	There is no issue.
+26	Pacta_sunt_servanda	8	The story was told well	There is no issue.	The question is confusing.	There is no issue.
+27	Plain_meaning_rule	9	nan	There is no right answer in the 4 candidates.	There is no issue.	The question is confusing.
+28	Plain_meaning_rule	9	Easy to understand the terms and jargon with the story 	There is no issue.	There is no issue.	There is no issue.
+29	Plain_meaning_rule	9	the example used in the definition was used for the story.	There is no issue.	The question is confusing.	There is no issue.
+30	Presumption_(Catholic_canon_law)	10	nan	There is no issue.	There is no issue.	There is no issue.
+31	Presumption_(Catholic_canon_law)	10	nan	There is no issue.	There is no issue.	The question cannot be derived from the definition or story above.
+32	Presumption_(Catholic_canon_law)	10	The 'no vehicles in the park' example feels a little overly simplistic, given that that rule is often used in law school 101 settings to discuss how interpretation can actually be more complicated than we would think (is a skateboard a vehicle? etc.), but overall it is useful for the story/explanation of the plain meaning rule. 	There is no issue.	The reasoning given in the suggested answer is wrong or flawed.,Other issues not covered above	There are more than one right answers in the 4 candidates.,The reasoning given in the suggested answer is wrong or flawed.
+33	Prosecutorial_discretion	11	nan	There is no issue.	The question is too easy and simple.	There is no issue.
+34	Prosecutorial_discretion	11	this was a very clear example of a complicated rule	There is no issue.	The question is confusing.	The question cannot be derived from the definition or story above.
+35	Prosecutorial_discretion	11	"I think it mostly works, but I have some doubts about the language of the principle ""ensuring fairness,"" and the way the story compares what is clearly one football team trying to gain an unfair advantage with the party trying to change election laws. I don't know how this has been applied in practice, but I can imagine situations in which those trying to change election laws at the 'last minute' are those attempting to address racially biased gerrymandering or COVID-unsafe voting regulations. In those cases, the principle would not be 'ensuring fairness' (and might even be hindering it), but the story doesn't seem to allow for that circumstance. "	There is no issue.	There is no issue.	The question cannot be derived from the definition or story above.,The reasoning given in the suggested answer is wrong or flawed.
+36	Purcell_principle	12	nan	There is no issue.	The question cannot be derived from the definition or story above.	There is no issue.
+37	Purcell_principle	12	this was extremely helpful, but might not be good for someone who wasn't familiar with the game Clue	There is no issue.	The question is confusing.	The question is too easy and simple.
+38	Purcell_principle	12	"1. Isn't the expression ""possession is nine-TENTHS of the law"", not ""nine points""? 2. I'm a bit unclear on whether the canon of construction's full name is ""presumption in the canon law of the Catholic church"" or if it's only part of that? How exactly is the 'Catholic Church' part relevant?"	There is no issue.	There is no issue.	There is no issue.
+39	Remoteness_in_English_law	13	nan	The question is too easy and simple.	There is no issue.	The question is too easy and simple.
+40	Remoteness_in_English_law	13	boring compared to other stories 	There is no issue.	There is no issue.	There is no issue.
+41	Remoteness_in_English_law	13	The example provided feels a little unnecessary. The story presents a metaphor of a town's 'rules' as a metaphor for laws. The metaphor doesn't really add anything, it just describes the same concepts using a slightly different word. It's fine, just not particularly worth the effort of the metaphor. 	There is no issue.	There is no issue.	There is no issue.
+42	Safe_harbor_(law)	14	nan	The question is too easy and simple.	There is no issue.	There is no issue.
+43	Safe_harbor_(law)	14	too long for a simple concept	The question is confusing.,Other issues not covered above	The question cannot be derived from the definition or story above.	The question is confusing.,Other issues not covered above
+44	Safe_harbor_(law)	14	"Mostly I think it is good. I don't like the part where it asks whether you can be held responsible for the broken window and then says ""The law says not necessarily. This is because the broken window is considered too remote."" If the broken window is too remote, then the answer to whether you can be held liable for the broken window isn't 'not necessarily,' the answer is 'no.' I think these few lines together just constitute poor writing and could be clarified. "	There is no issue.	There is no issue.	There is no issue.
+45	Substantial_certainty_doctrine	15	It was incredibly easy to read and follow.	There are more than one right answers in the 4 candidates.	There is no issue.	The question cannot be derived from the definition or story above.
+46	Substantial_certainty_doctrine	15	nan	The question is too easy and simple.	There is no issue.	Other issues not covered above
+47	Substantial_certainty_doctrine	15	nan	There are more than one right answers in the 4 candidates.	The question is too easy and simple.	The question cannot be derived from the definition or story above.
+48	Unaccompanied_minor	16	A report card is not the same as something being put out publicly about you.	There is no issue.	There is no issue.	There is no issue.
+49	Unaccompanied_minor	16	nan	The question is too easy and simple.	There is no issue.	There is no issue.
+50	Unaccompanied_minor	16	nan	There is no issue.	There is no issue.	The question is too easy and simple.
+51	Undue_hardship	17	Its all good!	The question is too easy and simple.	There is no issue.	The question cannot be derived from the definition or story above.,There are more than one right answers in the 4 candidates.
+52	Undue_hardship	17	nan	There is no issue.	The question cannot be derived from the definition or story above.	There is no issue.
+53	Undue_hardship	17	nan	There is no issue.	There is no issue.	The question is confusing.,The reasoning given in the suggested answer is wrong or flawed.
+54	Volenti_non_fit_injuria	18	All makes sense!	There is no issue.	There is no issue.	There is no issue.
+55	Volenti_non_fit_injuria	18	nan	There is no issue.	There is no issue.	The question is too easy and simple.
+56	Volenti_non_fit_injuria	18	nan	There are more than one right answers in the 4 candidates.	There is no issue.	The question cannot be derived from the definition or story above.
+57	Wrongdoing	19	It still reads as a bit confusing.	There is no issue.	The question cannot be derived from the definition or story above.	There is no issue.
+58	Wrongdoing	19	nan	There is no issue.	There is no issue.	The question is too easy and simple.
+59	Wrongdoing	19	nan	There are more than one right answers in the 4 candidates.	There are more than one right answers in the 4 candidates.	The question is too easy and simple.

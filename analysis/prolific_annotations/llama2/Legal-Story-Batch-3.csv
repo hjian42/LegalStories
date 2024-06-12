@@ -1,0 +1,916 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-is-story,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-is-story,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-is-story,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-is-story,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-is-story,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following accurately describes the ""plain meaning rule""?
+
+
+
+A) A method of statutory interpretation that involves reading the law's words and giving them their normal meaning, without adding or changing anything, while also considering common sense and the intent of the law's authors.
+
+B) A method of statutory interpretation that involves looking at the purpose of the law and the intent of the legislature, rather than just the literal meaning of the words.
+
+C) A method of statutory interpretation that involves using technical meanings for technical terms and local, cultural terms for local, cultural concepts.
+
+D) A method of statutory interpretation that involves allowing judges to take sides in legislative or political issues.
+
+
+
+The right answer is (A): A method of statutory interpretation that involves reading the law's words and giving them their normal meaning, without adding or changing anything, while also considering common sense and the intent of the law's authors.
+
+
+
+Explanation: The plain meaning rule is a method of statutory interpretation that emphasizes the ordinary meaning of the language used in the statute. Judges are expected to read the law's words and give them their normal meaning, without adding or changing anything, unless the statute explicitly defines some of its terms otherwise or unless the result would be cruel or absurd. This approach is based on the idea that the language of the statute should be given its ordinary meaning, and that technical terms should be given their technical meaning, and local, cultural terms should be recognized as applicable. By following this approach, judges can avoid taking sides in legislative or political issues and focus on interpreting the law based on its written text and the intent of its authors.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: A judge is faced with a case where an individual is charged with a crime for not following a specific provision of a statute. The defendant argues that the statute is unclear and should be interpreted in a particular way that would render the provision unconstitutional. The prosecution, on the other hand, argues that the statute is clear and should be interpreted according to its plain meaning. How should the judge decide the case?
+
+
+
+A) The judge should interpret the statute according to its plain meaning, even if it results in an unconstitutional application.
+
+B) The judge should interpret the statute in a way that avoids constitutional questions, even if it means deviating from the plain meaning of the text.
+
+C) The judge should consider extrinsic evidence, such as legislative history, to determine the intent of the legislature and interpret the statute accordingly.
+
+D) The judge should apply the mischief rule, which looks at the purpose of the statute and the problem it was meant to address, rather than its plain meaning.
+
+
+
+The right answer is A) The judge should interpret the statute according to its plain meaning, even if it results in an unconstitutional application.
+
+
+
+Explanation: Under the plain meaning rule, the judge should give effect to the ordinary meaning of the language used in the statute, unless doing so would result in an absurd or cruel outcome. If the statute is clear and unambiguous, the judge should apply it according to its plain meaning, regardless of any potential constitutional issues. In this scenario, the judge should interpret the statute according to its plain meaning, even if it may be deemed unconstitutional by some standards. It's important to note that the plain meaning rule doesn't allow judges to disregard the Constitution or create new laws; instead, it serves as a starting point for interpreting statutes and ensures that judges don't impose their own beliefs onto the law.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the plain meaning rule?
+
+
+
+A) The rule does not account for technical terms or local cultural references.
+
+B) The rule may lead to absurd results if applied too literally.
+
+C) The rule only applies to statutes and not to case law or common law.
+
+D) The rule requires judges to take sides in legislative or political issues.
+
+
+
+The right answer is B) The rule may lead to absurd results if applied too literally.
+
+
+
+Explanation: While the plain meaning rule dictates that statutes are to be interpreted using the ordinary meaning of the language, there may be situations where applying the rule too literally would result in an absurd outcome. In such cases, judges may need to look beyond the literal meaning of the words to ensure that the interpretation aligns with the purpose and intent of the law. This illustrates that while the plain meaning rule is a useful tool for interpreting laws, it is not always the only consideration that courts must take into account.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following accurately describes the Purcell principle?
+
+
+
+A) A rule that courts should always side with the state's preferred voting requirements, maps, and other rules.
+
+B) A doctrine that prohibits courts from changing election rules within a certain time period before an election.
+
+C) A legal requirement that all voters must be registered to vote at least 30 days before an election.
+
+D) A principle that allows judges to modify election rules without considering the potential impact on voters.
+
+
+
+The right answer is B) A doctrine that prohibits courts from changing election rules within a certain time period before an election.
+
+
+
+Explanation: The Purcell principle is a doctrine that advises courts against altering election rules too close to an election, as this could cause confusion among voters and potentially disenfranchise certain groups. It does not mandate that courts always side with the state's preferred voting requirements (Option A), nor does it establish a specific time period for voter registration (Option C). Option D is incorrect because the principle aims to protect voters from confusion, rather than giving judges free rein to modify election rules without consideration for the impact on voters.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+Question: Suppose a state legislature passes a new law requiring all voters to show a government-issued ID at the polls, and the law is scheduled to take effect just a week before an important national election. A group of citizens files a lawsuit challenging the law, arguing that it disproportionately affects certain groups of people and violates their constitutional right to vote. A lower court agrees with the plaintiffs and issues an injunction against the law, but the state appeals to the Supreme Court. How should the Supreme Court apply the Purcell principle in this scenario?
+
+
+
+A) The Supreme Court should uphold the lower court's injunction and block the law from taking effect, citing the Purcell principle and the potential for confusion and disenfranchisement if the law were to be implemented so close to the election.
+
+B) The Supreme Court should overturn the lower court's injunction and allow the law to take effect, citing the importance of maintaining the integrity of the electoral process and preventing voter fraud.
+
+C) The Supreme Court should delay its decision until after the election, allowing the law to take effect in the meantime and potentially causing confusion among voters.
+
+D) The Supreme Court should hold a special hearing on the case and ask for additional briefings from both parties before making a decision, while also considering the Purcell principle and other relevant factors.
+
+
+
+The right answer is (A). In this scenario, the Supreme Court should apply the Purcell principle by upholding the lower court's injunction and blocking the law from taking effect, given the short notice and potential for confusion among voters. This would ensure that the election proceeds smoothly under established rules, consistent with the principles of fairness and orderliness that underlie the Purcell principle.
+
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: What is a potential limitation or exception of the Purcell principle?
+
+
+
+A) The principle only applies to federal elections, not local or state elections.
+
+B) The principle does not apply in cases where there is evidence of voter fraud or tampering.
+
+C) The principle only applies to changes made by courts, not changes made by legislatures or executive branches.
+
+D) The principle does not apply in cases where the change in election rules is minor or trivial.
+
+
+
+The right answer is C) The principle only applies to changes made by courts, not changes made by legislatures or executive branches.
+
+
+
+Explanation: The Purcell principle, as articulated in the story, only applies to changes made by courts, not changes made by legislatures or executive branches. This means that if a legislature or executive branch makes a change to election rules, the Purcell principle would not prohibit the change from taking effect, even if it is close to an election. However, if a court were to make a change to election rules close to an election, the Purcell principle would likely apply, and the change might be blocked or delayed until after the election. Therefore, option C is the correct answer.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: Which of the following accurately describes the concept of ""Presumption"" in Catholic Canon Law?
+
+
+
+A) A strong assumption or conclusion based on concrete evidence.
+
+B) A reasonable conjecture drawn from arguments and appearances when positive proofs are lacking.
+
+C) An absolute proof that leaves no room for doubt.
+
+D) A guess or opinion formed by a prudent person or judge when the law is silent.
+
+
+
+The right answer is B) A reasonable conjecture drawn from arguments and appearances when positive proofs are lacking.
+
+
+
+Explanation: The concept of Presumption in Catholic Canon Law refers to a logical assumption or conclusion based on available evidence or circumstances, when there is no concrete proof. It's a way of making an educated guess when you don't have all the facts. This is different from an absolute proof, which leaves no room for doubt, and from a guess or opinion formed by a prudent person or judge when the law is silent, which is not necessarily based on evidence or appearances.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: In the following hypothetical scenario, how would you apply the concept of presumption in Catholic canon law?
+
+
+
+A man named John has been missing for several years, and his wife has since remarried. One day, John reappears and demands that his wife divorce her new husband and reunite with him. The wife is torn between her loyalty to her current husband and her obligation to John, whom she still loves. Canon law applies to this situation because the couple were married in a Catholic church. How should the court decide this case?
+
+
+
+A) The court should grant John's request and order the wife to divorce her current husband and remarry John, based on the presumption of law (juris) that a marriage is valid until proven otherwise.
+
+B) The court should deny John's request and uphold the wife's current marriage, based on the presumption of a judge or person (judicis or hominis) that the wife has moved on and has a new family.
+
+C) The court should order DNA testing to confirm whether John is truly the missing husband, before making any decisions about the marriage.
+
+D) The court should consult Church authorities to determine the appropriate course of action under Catholic canon law.
+
+
+
+The right answer is B) The court should deny John's request and uphold the wife's current marriage, based on the presumption of a judge or person (judicis or hominis) that the wife has moved on and has a new family.
+
+
+
+Explanation: In this scenario, there is no direct evidence that the woman's current marriage is invalid, and John's claim to be her husband is based solely on their previous marriage. Since the couple were married in a Catholic church, the court must apply Catholic canon law. Given the circumstances, it would be reasonable for the court to assume that the wife has moved on and formed a new family, and therefore, the presumption of a judge or person (judicis or hominis) would apply. This presumption is not absolute proof, but it can guide the court's decision-making in an uncertain situation.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Presumption"" in Catholic canon law?
+
+
+
+A) Presumptions can only be made by judges or experts in the field.
+
+B) Presumptions are always based on objective and unbiased evidence.
+
+C) Presumptions can be overturned by new evidence or arguments.
+
+D) Presumptions are absolute proofs that cannot be challenged.
+
+
+
+The right answer is C) Presumptions can be overturned by new evidence or arguments.
+
+
+
+Explanation: A presumption in Catholic canon law is a logical assumption or conclusion based on available evidence or circumstances, when there is no concrete proof. While presumptions can be useful in guiding decision-making, they are not absolute proofs and can be overturned if new evidence or arguments arise that challenge the initial presumption. Therefore, option C is the correct answer. Option A is incorrect because presumptions can be made by anyone, not just judges or experts. Option B is also incorrect because presumptions are not always based on objective and unbiased evidence, as they can be influenced by personal opinions and biases. Finally, option D is incorrect because presumptions are never absolute proofs that cannot be challenged.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following accurately describes the concept ""wrongdoing""?
+
+
+
+A) Any act that goes against the law, regardless of whether it is morally wrong.
+
+B) Any act that is considered morally wrong, regardless of whether it is illegal.
+
+C) Any act that goes against the law and is also considered morally wrong.
+
+D) Any act that is neither illegal nor morally wrong.
+
+
+
+The right answer is C) Any act that goes against the law and is also considered morally wrong.
+
+
+
+Explanation: Wrongdoing refers to acts that are either illegal or morally incorrect. This means that an act can be considered a wrongdoing even if it is not illegal, as long as it goes against what society considers to be right or wrong. At the same time, not all illegal acts are necessarily moral wrongs. Therefore, option C, which states that a wrongdoing is any act that goes against the law and is also considered morally wrong, is the most accurate description of the concept.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: A person is caught shoplifting from a local store. They admit to the crime and express remorse for their actions. The store owner decides not to press charges, but instead, wants the person to perform community service as punishment. In this scenario, what is the best description of the person's action?
+
+
+
+A) A legal wrong, as shoplifting is against the law.
+
+B) A moral wrong, as taking something without permission is considered unethical.
+
+C) Both a legal and moral wrong, as shoplifting is against the law and goes against societal norms of honesty and respect for others' property.
+
+D) Neither a legal nor moral wrong, as the person has expressed remorse and the store owner has chosen not to pursue legal action.
+
+
+
+The right answer is C) Both a legal and moral wrong. Shoplifting is illegal and goes against societal norms of honesty and respect for others' property, making it both a legal and moral wrong. Even though the store owner has chosen not to press charges, the act of shoplifting remains a violation of the law and ethical standards.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Wrongdoing""?
+
+
+
+A) The definition of wrongdoing varies across different cultures and societies.
+
+B) Some legal wrongs may not be considered moral wrongs.
+
+C) Laws can change over time, making something that was once illegal become legal.
+
+D) All moral wrongs are also illegal.
+
+
+
+The right answer is B) Some legal wrongs may not be considered moral wrongs.
+
+
+
+Explanation: While many legal wrongs are also moral wrongs, such as murder or theft, not all legal wrongs are necessarily moral wrongs. For example, parking in a no-parking zone may be illegal, but it does not involve harming anyone else and therefore may not be considered a moral wrong. Similarly, some acts that are considered moral wrongs, such as adultery or gambling, may not be illegal in all jurisdictions. This highlights the complexity of the concept of wrongdoing and the need to consider both legal and moral perspectives when evaluating whether an act is wrong.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: Which of the following accurately describes the concept of ""Remoteness"" in English law?
+
+
+
+A) The degree to which a defendant's actions or omissions directly caused the harm or injury suffered by a claimant.
+
+B) The extent to which a claimant's loss or damage was a direct result of a breach of duty of care owed by the defendant.
+
+C) The policy issues surrounding the establishment of a duty of care and breach thereof.
+
+D) The relationship between the action or omission of a party and the resulting harm or injury suffered by another party.
+
+
+
+The right answer is D) The relationship between the action or omission of a party and the resulting harm or injury suffered by another party.
+
+
+
+Explanation: The concept of remoteness in English law refers to the relationship between the action or omission of a party (the defendant) and the resulting harm or injury suffered by another party (the claimant). The law sets limits on the amount of compensation that can be awarded to the claimant if the harm they suffered was too indirect or remote from the defendant's actions. This rule applies in both tort and contract cases, and its purpose is to ensure fairness in assigning liability for damages and to prevent unreasonable burdens on defendants. Therefore, option D is the correct answer.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: In a hypothetical scenario, a worker (John) is employed by a company (ABC Inc.) to work on a construction site. One day, while John is working, he accidentally knocks over a candle that he had brought to the site, starting a fire that spreads quickly throughout the building. As a result, the building is severely damaged, and several people, including Jane, who was visiting the building at the time, suffer injuries. ABC Inc. admits that they failed to provide adequate fire safety measures, which contributed to the spread of the fire. However, they argue that the injuries sustained by Jane were too remote from their failure to provide fire safety measures, and thus should not be fully compensated. How would the court likely rule in this case?
+
+
+
+A) The court would likely find that Jane's injuries were directly caused by ABC Inc.'s failure to provide fire safety measures, and therefore award her full compensation.
+
+B) The court would likely find that Jane's injuries were only indirectly related to ABC Inc.'s failure to provide fire safety measures, and therefore limit her compensation due to remoteness.
+
+C) The court would likely find that Jane's injuries were not caused by ABC Inc.'s failure to provide fire safety measures at all, but rather by other factors such as the actions of John or other parties, and therefore would not award her any compensation.
+
+D) The court would likely find that ABC Inc. was not negligent in their duty to provide fire safety measures, and therefore would not award any compensation to Jane.
+
+
+
+The right answer is B: The court would likely find that Jane's injuries were only indirectly related to ABC Inc.'s failure to provide fire safety measures, and therefore limit her compensation due to remoteness.
+
+
+
+Explanation: In this scenario, while ABC Inc.'s failure to provide adequate fire safety measures did contribute to the spread of the fire, the direct cause of Jane's injuries was the action of John knocking over the candle. The failure to provide fire safety measures can be seen as an indirect cause of the injury, as it increased the risk of a fire occurring, but it was still a separate step away from the direct cause of the injury. Therefore, the court may consider Jane's injuries to be too remote from ABC Inc.'s actions, and limit her compensation accordingly.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Remoteness_in_English_law""?
+
+
+
+A) The rule does not apply in cases where the defendant's actions were intentional.
+
+B) The rule only applies in cases where the claimant has suffered physical harm.
+
+C) The rule does not apply if the claimant can prove that the defendant's actions were the direct cause of their harm.
+
+D) The rule does not apply in cases where the claimant has suffered economic loss.
+
+
+
+The right answer is C) The rule does not apply if the claimant can prove that the defendant's actions were the direct cause of their harm.
+
+
+
+Explanation: According to the story, the rule of remoteness does not apply if the claimant can prove that the defendant's actions were the direct cause of their harm. In other words, if the claimant can demonstrate a direct causal link between the defendant's actions and their injuries, then the rule of remoteness will not be a barrier to them receiving full compensation for their losses. This means that even if the harm suffered by the claimant was indirect or remote from the defendant's actions, they may still be able to recover damages if they can establish a direct causal connection.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2205""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2209""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2208""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2207""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2206""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+10/30/23 22:59,10/30/23 23:33,IP Address,*******,100,2041,TRUE,10/30/23 23:33,R_33gmkcQBVCxpVUo,*******,*******,*******,*******,*******,*******,anonymous,EN,0.8999999761581421,60fec3441bfba411416b4925,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Healthcare, medical science, biology, life science, and pharmaceutical translations",,Full professional,18-24 years old,Female,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,5,3,4,4,4,4,3,4,4,4,Simple and easy to understand.,"Other issues not covered above,There is no issue.",4,There is no issue.,5,There is no issue.,5,4,5,5,5,5,5,5,5,5,5,The story explains the legal term further.,There is no issue.,5,There is no issue.,5,There is no issue.,5,1,5,5,5,5,5,5,5,5,5,The illustration further explains the unclear words in the definition.,"Other issues not covered above,There is no issue.",4,"Other issues not covered above,There is no issue.",5,There is no issue.,4,5,2,5,5,4,5,5,3,5,5,No comment.,There is no issue.,5,There is no issue.,5,There is no issue.,5,2,5,5,5,5,5,5,5,5,5,"The back up story is clear and concise, easy to understand.",There is no issue.,5,"Other issues not covered above,There is no issue.",4,There is no issue.,5,No comment,No comment.,60fec3441bfba411416b4925,6540620255e0325830f3cda3,6540898ebc8d3ab82a87051c
+10/31/23 1:33,10/31/23 1:54,IP Address,*******,100,1227,TRUE,10/31/23 1:54,R_3GxnIVrUoCmVEbK,*******,*******,*******,*******,*******,*******,anonymous,EN,0.8999999761581421,63ea41da5bd5ed0111145ffb,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Professional working,25-34 years old,Male,,"Master’s Degree (for example: MA, MS, and MEng)",,e h l l o,4,5,5,5,4,4,4,5,5,5,Simple and easy to read,There is no issue.,5,There is no issue.,4,The question is too easy and simple.,4,3,5,4,4,5,5,5,5,5,5,Complete and comprehensive ,There is no issue.,5,There is no issue.,5,There is no issue.,5,2,5,5,5,5,5,5,4,5,5,Enjoyable to read,There is no issue.,5,The question is confusing.,3,There is no issue.,5,2,5,5,5,5,5,5,5,5,5,Highly Comprehensive,There is no issue.,5,There is no issue.,5,There is no issue.,5,2,5,5,5,5,5,5,5,5,5,Easy to understand ,There is no issue.,5,There is no issue.,5,There is no issue.,5,Maybe add more interesting narratives to explain the concepts ,Beautify task. Thank you for inviting me.,63ea41da5bd5ed0111145ffb,6540620255e0325830f3cda3,6540added74a926bfdee9cd7
+10/31/23 1:15,10/31/23 1:53,IP Address,*******,98,2280,FALSE,10/31/23 7:56,R_6zDskHmtAUmPgZP,*******,*******,*******,*******,*******,*******,anonymous,EN,0.8999999761581421,6128a3db67305ef94021fcd7,Some knowledge – I have some experience in law,Somewhat disagree,"Business, finance, accounting, marketing, economics",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Male,,"Professional Degree (for example: MD, DDS, JD)",,e h l l o,5,2,4,4,3,3,1,4,2,4,"The story hardly felt like a story, and more like.a sort of continuation of the attempt at a definition, ",There are more than one right answers in the 4 candidates.,2,The question is confusing.,4,There is no issue.,5,5,5,5,5,4,5,5,5,5,5,"This was a great story. Compared to the first one it actually gives a chain of events that are relevant, ",There is no issue.,5,There is no issue.,5,There is no issue.,5,2,4,4,4,3,3,3,3,3,3,"I would guess that if written by a person, that they were confused and simp0y regurgitated the definition text rather than actually understanding the concept.  ",There are more than one right answers in the 4 candidates.,2,There is no issue.,4,There is no issue.,4,4,4,4,4,3,4,4,4,4,4,Simple and effective reference to key moral legal issues. ,The reasoning given in the suggested answer is wrong or flawed.,1,There is no issue.,4,There is no issue.,5,3,5,5,5,4,5,5,5,3,4,,There is no issue.,4,"The question is too easy and simple.,The question is confusing.,There are more than one right answers in the 4 candidates.",2,There is no issue.,4,Perhaps key definitions or terms such as ‘Tort’ for example. ,None thank you. ,6128a3db67305ef94021fcd7,6540620255e0325830f3cda3,6540a997bffd93c1f2d85c26

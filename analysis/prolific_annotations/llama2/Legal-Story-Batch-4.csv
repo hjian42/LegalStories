@@ -1,0 +1,927 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-is-story,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-is-story,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-is-story,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-is-story,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-is-story,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following accurately describes the concept ""Pacta_sunt_servanda""?
+
+
+
+A) A principle that only applies to verbal agreements made between two or more parties.
+
+B) A brocard that highlights the significance of maintaining promises and fulfilling contractual obligations.
+
+C) A rule that requires all parties involved in a contract to fulfill their respective duties.
+
+D) A provision that permits parties to breach a contract if it is deemed unfair.
+
+
+
+The right answer is B) A brocard that highlights the significance of maintaining promises and fulfilling contractual obligations.
+
+
+
+Explanation: Pacta sunt servanda is a fundamental principle of law that emphasizes the importance of keeping promises and honoring agreements. It applies to both written and verbal contracts, and it is not limited to private contracts but also includes public contracts and international treaties. The principle serves as a reminder that when individuals or organizations make a promise or agreement, they are expected to keep it, regardless of any circumstances that may arise later. Therefore, option B accurately describes the concept of Pacta sunt servanda.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: A company hires an employee under a signed contract with a non-compete clause. After a year, the employee leaves the company and starts a competing business. The company sues the employee for violating the non-compete clause. How does the principle of ""Pacta sunt servanda"" apply in this scenario?
+
+
+
+A) The employee is not bound by the non-compete clause since it is unfair to restrict their ability to work in their field.
+
+B) The employee is bound by the non-compete clause since it was agreed upon in the contract they signed.
+
+C) The company has no right to sue the employee since they did not fulfill their obligations under the contract.
+
+D) The court should consider the best interests of both parties and decide on a case-by-case basis.
+
+
+
+The right answer is B) The employee is bound by the non-compete clause since it was agreed upon in the contract they signed.
+
+
+
+Explanation: The principle of ""Pacta sunt servanda"" states that agreements must be kept, and contractual provisions are law between the parties. When the employee signed the contract with the non-compete clause, they agreed to abide by its terms. Leaving the company and starting a competing business violates the non-compete clause, which means the employee failed to keep their end of the agreement. Therefore, the company has the right to take legal action against the employee for breaching the contract.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Pacta_sunt_servanda""?
+
+
+
+A) The rule does not apply to verbal agreements, only written contracts.
+
+B) The rule does not apply to agreements made under duress or coercion.
+
+C) The rule does not apply to agreements that are against public policy or illegal.
+
+D) The rule does not apply to agreements made between minors or individuals with mental incapacity.
+
+
+
+The right answer is B) The rule does not apply to agreements made under duress or coercion.
+
+
+
+Explanation: While the principle of ""Pacta sunt servanda"" generally applies to all agreements, there are some exceptions. One such exception is when an agreement is made under duress or coercion. If one party is forced to enter into an agreement against their will, the agreement may not be enforceable. This is because the party did not truly consent to the terms of the agreement, and therefore, the agreement is not binding.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following is an accurate description of the concept ""Maxwellisation""?
+
+
+
+A) A legal practice that allows individuals to respond to criticisms made against them in official reports after those reports are published.
+
+B) A legal practice that allows individuals to respond to criticisms made against them in official reports before those reports are published.
+
+C) A legal practice that requires government agencies to seek approval from individuals or organizations before publishing reports that may contain criticism of them.
+
+D) A legal practice that prohibits government agencies from publishing reports that contain criticism of individuals or organizations without first providing them with an opportunity to respond.
+
+
+
+The right answer is B) A legal practice that allows individuals to respond to criticisms made against them in official reports before those reports are published.
+
+
+
+Explanation: Maxwellisation is a legal practice that allows individuals or organizations to respond to criticisms made against them in official reports before those reports are published. This practice was established in response to a case involving Robert Maxwell, who was criticized in a government report in 1969. The court ruled that Maxwell had been unfairly treated, and as a result, the government changed its policies to allow individuals to see and respond to criticisms made against them in official reports before they are made public. Therefore, option B is the correct answer.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+Question: A well-known corporation is investigated for financial irregularities. The investigation's findings are included in an official report that strongly condemns the company's management practices. Before the report is made public, the corporation learns about the criticism through the Maxwellisation procedure. What happens next?
+
+
+
+A) The corporation files a lawsuit against the government, claiming that the report's conclusions harm their reputation and violate their rights.
+
+B) The business makes a public statement denying the allegations and outlining its side of the story.
+
+C) The corporation requests permission from the authorities to review and amend the report's sections relating to them.
+
+D) The corporation accepts the report's conclusions and decides not to take any further action.
+
+
+
+The right answer is B. In this scenario, the corporation chooses to make a public statement denying the allegations and presenting its side of the story. This is a common response when an organization faces public scrutiny due to critical findings in an official report. By using the Maxwellisation process, the corporation can prepare its response in advance, addressing the criticisms and minimizing potential reputational damage.
+
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Maxwellisation""?
+
+
+
+A) The rule does not apply to individuals who are not public figures.
+
+B) The rule only applies to reports written by government agencies.
+
+C) The rule does not apply to criticisms that are deemed to be in the public interest.
+
+D) The rule only applies to reports that are written in a negative light.
+
+
+
+The right answer is C) The rule does not apply to criticisms that are deemed to be in the public interest.
+
+
+
+Explanation: While the rule of Maxwellisation provides individuals with the opportunity to respond to criticisms made against them in official reports, it is important to note that this right is not absolute. If the criticism is deemed to be in the public interest, then the individual or organization being criticized may not be entitled to see the criticism in advance or respond to it prior to publication. This exception is intended to ensure that the public has access to information that is necessary for the proper functioning of society, even if that information might harm the reputation of an individual or organization.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+Question: Which of the following accurately describes the concept of ""Brady disclosure""?
+
+
+
+A) A legal principle requiring prosecutors to disclose all evidence to defendants, including exculpatory and impeaching information.
+
+B) A Supreme Court case that established the requirement for prosecutors to disclose evidence favorable to the defense.
+
+C) A rule that allows defendants to request evidence from the prosecution to prove their innocence.
+
+D) A law that prohibits prosecutorial misconduct in withholding evidence from the defense.
+
+
+
+The right answer is (B): A Supreme Court case that established the requirement for prosecutors to disclose evidence favorable to the defense.
+
+
+
+Explanation: The Brady v. Maryland case established the principle of Brady disclosure, which requires prosecutors to disclose all evidence that could be material to the guilt or innocence or punishment of a defendant. This includes exculpatory and impeaching information that could help the defense. While the other options are related to the concept of Brady disclosure, they do not accurately describe the core idea behind it.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: In a hypothetical scenario where the defendant is charged with a crime they did not commit, and the prosecution has evidence that could prove their innocence, what should the prosecution do according to Brady disclosure?
+
+
+
+A) The prosecution should hide the evidence and hope the defense doesn't find out about it.
+
+B) The prosecution should disclose the evidence to the defense, even if it means losing the case.
+
+C) The prosecution should only disclose part of the evidence, enough to make it seem like they're following Brady disclosure, but still keep some information hidden.
+
+D) The prosecution should ignore Brady disclosure and use the evidence to secure a conviction.
+
+
+
+The right answer is B) The prosecution should disclose the evidence to the defense, even if it means losing the case. According to Brady disclosure, the prosecution has an obligation to provide the defense with any exculpatory or impeaching evidence, regardless of whether it will harm their case. Hiding evidence or only partially disclosing it would violate the defendant's rights and undermine the principle of a fair trial.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the Brady disclosure rule?
+
+
+
+A) The prosecution can withhold evidence if they believe it would not significantly impact the outcome of the trial.
+
+B) The prosecution is not required to disclose evidence that is not directly related to the defendant's guilt or innocence.
+
+C) The prosecution can delay disclosing evidence until after the trial has begun.
+
+D) The prosecution is not responsible for disclosing evidence that was not in their possession at the time of the trial.
+
+
+
+The right answer is B) The prosecution is not required to disclose evidence that is not directly related to the defendant's guilt or innocence.
+
+
+
+Explanation: While the Brady disclosure rule requires prosecutors to disclose evidence that could prove a defendant's innocence or impeach government witnesses, there are certain limitations and exceptions to this rule. One such exception is that the prosecution is not required to disclose evidence that is not directly related to the defendant's guilt or innocence. This means that if the evidence in question does not have a direct bearing on the defendant's guilt or innocence, the prosecution may not be required to disclose it. However, it is important to note that this exception is subject to interpretation and may vary depending on the specific circumstances of the case.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following accurately describes the concept of ""undue hardship""?
+
+
+
+A) A situation where fulfilling a legal obligation would create a minor inconvenience for an individual or organization.
+
+B) A situation where fulfilling a legal obligation would create a significant financial burden or obstacle for an individual or organization.
+
+C) A situation where fulfilling a legal obligation would require a slight adjustment to an individual's or organization's existing policies or procedures.
+
+D) A situation where fulfilling a legal obligation would be impossible due to unforeseen circumstances.
+
+
+
+The right answer is B: A situation where fulfilling a legal obligation would create a significant financial burden or obstacle for an individual or organization.
+
+
+
+Explanation: The concept of undue hardship refers to a situation where complying with a legal requirement would impose a disproportionate or excessive burden on an individual or organization. This could include financial burdens, such as having to make expensive modifications to a workplace to accommodate a disabled employee, or operational burdens, such as having to significantly alter business practices to comply with a new regulation. The idea behind the concept of undue hardship is to balance the need to protect individuals' rights with the need to avoid placing unreasonable demands on organizations.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Suppose a small town church with limited resources is required by law to install a wheelchair ramp to ensure accessibility for people with disabilities. The cost of installation would be $50,000, which would significantly strain the church's finances. The church argues that installing the ramp would cause an undue hardship. How would you rule in this case?
+
+
+
+A) The church must install the wheelchair ramp because it is a legal requirement and it is not an undue hardship.
+
+B) The church is exempt from installing the wheelchair ramp due to the undue hardship exemption.
+
+C) The church must provide an alternative solution, such as a portable ramp, to avoid an undue hardship.
+
+D) The church must install the wheelchair ramp, but can seek financial assistance from the government or other organizations to mitigate the cost.
+
+
+
+The right answer is B) The church is exempt from installing the wheelchair ramp due to the undue hardship exemption.
+
+
+
+Explanation: In this scenario, the cost of installing the wheelchair ramp ($50,000) would be a significant burden for the small town church with limited resources. The church has met its legal obligation to provide reasonable accommodations for people with disabilities, but the cost of this particular accommodation would cause an undue hardship. Therefore, the church would be exempt from installing the wheelchair ramp under the undue hardship exemption.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following is a potential limitation or exception of the rule ""Undue Hardship""?
+
+
+
+A) The cost of the accommodation is too high for the employer.
+
+B) The accommodation would fundamentally alter the nature of the employer's business.
+
+C) The employee cannot perform the essential functions of the job even with a reasonable accommodation.
+
+D) The employer has a legitimate reason for not wanting to hire someone with a disability.
+
+
+
+The right answer is A) The cost of the accommodation is too high for the employer.
+
+
+
+Explanation: One potential limitation or exception of the rule ""Undue Hardship"" is when the cost of the accommodation is too high for the employer. If the cost of providing a reasonable accommodation would cause an undue hardship for the employer, then they may not be required to provide it. This is because the employer's financial resources are taken into consideration when determining whether an undue hardship exists. However, it's important to note that simply having a high cost alone does not automatically qualify as an undue hardship; the cost must be proportionate to the size and resources of the organization.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+Question: Which of the following accurately describes the concept of ""commanding precedent""?
+
+
+
+A) A precedent that establishes a new legal rule or principle.
+
+B) A precedent that closely matches the facts and issues of a current case.
+
+C) A precedent that is no longer relevant or applicable due to changes in the law.
+
+D) A precedent that is used to justify an unreasonable or unjust outcome.
+
+
+
+The right answer is B) A precedent that closely matches the facts and issues of a current case.
+
+
+
+Explanation: A commanding precedent is a previous case that has almost identical facts and issues to the case at hand. It is a powerful tool for supporting a legal argument because the principles and rules from the previous case can be applied directly to the current case. While other types of precedents may also be relevant, a commanding precedent is particularly useful because it provides a clear and direct application of the law to the specific circumstances of the case.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: In the scenario described below, what is the most likely outcome in court?
+
+
+
+A) The court will find that the officer's actions were lawful because there wasn't a commanding precedent showing that the officer's conduct was unlawful.
+
+B) The court will rule that the officer's actions were unlawful based on a commanding precedent that shares almost identical facts and issues with the case at hand.
+
+C) The court will determine that the officer's actions were unreasonable under the circumstances, even though there isn't a commanding precedent, because the law was already well-established and should have been apparent to a reasonably competent official.
+
+D) The court will dismiss the case due to lack of jurisdiction or standing.
+
+
+
+The right answer is C) The court will determine that the officer's actions were unreasonable under the circumstances, even though there isn't a commanding precedent, because the law was already well-established and should have been apparent to a reasonably competent official.
+
+
+
+Explanation: In this hypothetical scenario, there isn't a commanding precedent that exactly matches the officer's situation. However, the law regarding police arrests without proper cause is well-established, and any reasonably competent official would have known that the officer's actions were unlawful. Therefore, the court would likely rule that the officer's actions were unreasonable under the circumstances, even in the absence of a commanding precedent. This illustrates the concept of ""clearly established"" law, which can guide the court's decision even when there isn't a perfect precedent match.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Commanding Precedent""?
+
+
+
+A) The fact that a case lacks a commanding precedent does not necessarily mean that the defendant will lose.
+
+B) A commanding precedent is always required for a legal rule to be considered clearly established.
+
+C) A commanding precedent can be overruled by a higher court.
+
+D) A commanding precedent only applies to cases with identical facts and issues.
+
+
+
+The right answer is A) The fact that a case lacks a commanding precedent does not necessarily mean that the defendant will lose.
+
+
+
+Explanation: While a commanding precedent can provide strong support for a legal argument, its absence does not automatically result in a loss for the defendant. The legal system recognizes that clear guidance may still exist even without a commanding precedent, and a legal rule can still be considered clearly established even in the absence of such a precedent. In other words, just because there isn't a perfect puzzle piece (commanding precedent), it doesn't mean the puzzle can't be solved (the legal issue can still be resolved).
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2205""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2209""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2208""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2207""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2206""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+10/30/23 23:33,10/31/23 0:04,IP Address,*******,100,1852,TRUE,10/31/23 0:04,R_2EzWhXjhHnDeiKN,*******,*******,*******,*******,*******,*******,anonymous,EN,1,60fec3441bfba411416b4925,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Healthcare, medical science, biology, life science, and pharmaceutical translations",,Full professional,18-24 years old,Female,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,4,2,3,5,5,5,5,5,4,5,The story does not have a straightforward narrative.,There is no issue.,5,There is no issue.,5,"Other issues not covered above,There is no issue.",5,5,1,4,4,4,5,4,4,4,4,No comments.,There is no issue.,5,There is no issue.,5,"The question is too easy and simple.,There is no issue.",5,5,4,5,5,5,5,5,5,5,5,Clear and easy to understand example.,There are more than one right answers in the 4 candidates.,5,There is no issue.,5,"Other issues not covered above,There is no issue.",5,5,5,5,5,5,5,4,5,5,5,No comment.,There is no issue.,5,"There are more than one right answers in the 4 candidates.,Other issues not covered above",5,There is no issue.,5,3,5,5,5,5,5,5,5,5,4,No comment.,There is no issue.,5,There is no issue.,5,There is no issue.,5,None.,No comment.,60fec3441bfba411416b4925,65406528bffd93c1f2d85589,6540918d1a2e4b15f857429a
+10/30/23 21:25,10/30/23 21:39,IP Address,*******,98,842,FALSE,10/31/23 7:55,R_1Q3KJkC4Voue7cg,*******,*******,*******,*******,*******,*******,anonymous,EN,0.8999999761581421,60903d8d7b7cd7027d556ebb,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Female,,Other:,Some Professional Degree (Law Student),e h l l o,2,4,5,5,4,2,4,5,5,5,,Other issues not covered above,4,There is no issue.,5,There are more than one right answers in the 4 candidates.,2,3,2,2,3,4,2,2,3,2,3,,"The reasoning given in the suggested answer is wrong or flawed.,Other issues not covered above",2,There is no issue.,4,"The question is too easy and simple.,The question cannot be derived from the definition or story above.",3,4,5,5,5,5,5,5,5,5,5,,There are more than one right answers in the 4 candidates.,3,There is no issue.,5,The reasoning given in the suggested answer is wrong or flawed.,3,3,3,5,2,4,3,2,4,2,2,,There is no issue.,5,"There are more than one right answers in the 4 candidates.,The reasoning given in the suggested answer is wrong or flawed.",2,The reasoning given in the suggested answer is wrong or flawed.,2,2,5,5,5,5,5,5,5,5,5,,The question is too easy and simple.,4,"The question cannot be derived from the definition or story above.,There is no right answer in the 4 candidates.",1,The question is confusing.,3,I would provide more hypos to allow the students answering to apply the theme to the hypo and see what fits best,,60903d8d7b7cd7027d556ebb,65406528bffd93c1f2d85589,6540739af11cd1b1e3d853bf
+10/31/23 1:06,10/31/23 1:37,IP Address,*******,98,1862,FALSE,10/31/23 7:58,R_1DtWFoxNIvKI4f2,*******,*******,*******,*******,*******,*******,anonymous,EN,1,595bb42745265c000166d399,Some knowledge – I have some experience in law,Somewhat disagree,Other:,sales,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Female,,"Some college, but no degree",,e h l l o,3,4,4,4,1,4,3,4,4,4,It is well worded so that it would be easy to explain to someone who did not have any legal knowledge ,There is no issue.,4,There is no issue.,3,There are more than one right answers in the 4 candidates.,4,3,2,3,4,1,3,1,4,3,4,it is written well so that it can be easily understood ,There is no issue.,4,The question is confusing.,2,There is no issue.,3,5,2,4,4,1,4,3,4,4,4,no comment,The reasoning given in the suggested answer is wrong or flawed.,3,The question is confusing.,1,There is no issue.,3,4,1,3,3,3,2,2,3,3,2,,There are more than one right answers in the 4 candidates.,3,There are more than one right answers in the 4 candidates.,3,There is no issue.,3,2,3,2,2,1,2,2,3,2,2,,There is no issue.,4,There is no issue.,4,There are more than one right answers in the 4 candidates.,3,I am unsure ,,595bb42745265c000166d399,65406528bffd93c1f2d85589,6540a71ede4a37cde68a4b4a

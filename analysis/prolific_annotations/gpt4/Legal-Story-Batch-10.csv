@@ -1,0 +1,702 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+Question: Which of the following best describes a constitutional convention in the context of political custom?
+
+
+
+(A) It is a formal written constitution that strictly guides the institutions of a state.
+
+(B) It is an informal and uncodified tradition that guides the institutions of a state.
+
+(C) It is a process of turning unwritten traditions into official laws, known as codification.
+
+(D) It is a system where the head of state exercises all their powers without the advice of the head of government.
+
+
+
+The right answer is (B). A constitutional convention, in the context of political custom, refers to an informal and uncodified tradition that guides the institutions of a state. It is not a formal written constitution (A), but rather an unwritten rule or tradition. While it is true that many of these unwritten traditions can be turned into official laws through a process called codification (C), this process itself is not a constitutional convention. Lastly, while the head of state may have wide discretionary powers according to the formal constitution, in practice, these powers are often used only on the advice of the head of government (D), which is a result of constitutional conventions, not a definition of them.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+Question: In the fictional country of Veridia, the written constitution grants the President, as the head of state, the power to declare war. However, by constitutional convention, the President has always sought the approval of the Prime Minister before making such a declaration. In a recent conflict, the President, without consulting the Prime Minister, declares war on a neighboring country. What is the most likely outcome of this situation?
+
+
+
+(A) The President's declaration of war is invalid because it violates the constitutional convention.
+
+(B) The Prime Minister will be forced to resign for not being consulted.
+
+(C) The President's declaration of war is valid, but it may cause political controversy due to the break from convention.
+
+(D) The constitutional convention will automatically become a written law, making the President's declaration of war invalid.
+
+
+
+The right answer is (C). The President's declaration of war is valid, but it may cause political controversy due to the break from convention. This is because constitutional conventions, while influential, are not legally binding. They are traditions that guide the functioning of the state, but they do not have the force of law. Therefore, while the President's action is legal as per the written constitution, it breaks from the established tradition, which could lead to political controversy or conflict.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Constitutional_convention_(political_custom)""?
+
+
+
+(A) Constitutional conventions are only applicable in countries with a written constitution.
+
+(B) Constitutional conventions can never be turned into official laws.
+
+(C) Constitutional conventions are always followed strictly and cannot be deviated from.
+
+(D) Constitutional conventions may not accurately reflect the actual distribution of power as they can be markedly different from what the formal constitutional documents describe.
+
+
+
+The right answer is (D). Constitutional conventions may not accurately reflect the actual distribution of power as they can be markedly different from what the formal constitutional documents describe. This is because, in practice, the distribution of power may be influenced by unwritten traditions or conventions, which can differ from the formal rules outlined in the constitution.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+Question: Which of the following best describes the Doctrine of Cash Equivalence?
+
+
+
+(A) It is a rule that states all non-cash payments are exempt from federal income tax.
+
+(B) It is a rule that states certain non-cash payments are treated like cash payments for federal income tax purposes.
+
+(C) It is a rule that states all cash payments are treated as non-cash payments for federal income tax purposes.
+
+(D) It is a rule that states only cash payments are subject to federal income tax.
+
+
+
+The right answer is (B). The Doctrine of Cash Equivalence is a rule in U.S. Federal income tax law that treats certain non-cash payments like cash payments for tax purposes. This is often used to decide when people who use the cash method of accounting should include certain non-cash income items. The other options are incorrect as they misrepresent the concept of the Doctrine of Cash Equivalence.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+Question: John is a freelance graphic designer who uses the cash method of accounting. He usually gets paid in cash for his services. However, one of his clients, a startup company, offers to pay him in company shares instead of cash for a project. John accepts the offer and receives the shares. According to the Doctrine of Cash Equivalence, how should John treat this transaction for tax purposes?
+
+
+
+(A) John should not include the value of the shares as income because they are not cash.
+
+(B) John should include the value of the shares as income in the year he sells them.
+
+(C) John should include the value of the shares as income in the year he receives them.
+
+(D) John should not include the value of the shares as income because they are not a form of payment.
+
+
+
+The right answer is (C). According to the Doctrine of Cash Equivalence, certain non-cash payments are treated like cash payments for tax purposes. This means that even though John was paid in company shares instead of cash, he should still include the value of the shares as income in the year he received them, just as he would if he had received cash.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the Doctrine of Cash Equivalence?
+
+
+
+(A) The doctrine does not apply to cash method taxpayers.
+
+(B) The doctrine does not apply to non-cash payments like gift cards, stocks, or property.
+
+(C) The doctrine does not allow for the deferral of taxation.
+
+(D) The doctrine may not apply if the non-cash payment is not readily convertible into cash.
+
+
+
+The right answer is (D). The Doctrine of Cash Equivalence applies to non-cash payments that are readily convertible into cash. If the non-cash payment is not easily convertible into cash, the doctrine may not apply. This is a potential limitation or exception of the rule.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+Question: What is the primary purpose of a Brady disclosure in the U.S. legal system?
+
+
+
+(A) It allows the prosecution to withhold evidence that could prove the defendant's innocence.
+
+(B) It requires the prosecution to share any evidence that could prove the defendant's innocence, impeach the credibility of government witnesses, or lead to a lesser punishment.
+
+(C) It mandates the defense to share any evidence that could prove the defendant's guilt.
+
+(D) It allows the defense to withhold evidence that could prove the defendant's guilt.
+
+
+
+The right answer is (B). A Brady disclosure requires the prosecution to share any evidence that could prove the defendant's innocence, impeach the credibility of government witnesses, or lead to a lesser punishment. This rule is designed to ensure a fair trial by preventing the prosecution from withholding evidence that could be favorable to the defendant.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+Question: In a high-profile murder case, the defendant, Mr. Smith, is accused of killing a prominent businessman. The prosecution has a key witness, a security guard who claims to have seen Mr. Smith at the scene of the crime. However, the prosecution also has in its possession a security camera footage that shows the security guard was asleep at the time he claimed to have seen Mr. Smith. The prosecution decides not to disclose this footage to the defense. What is likely to happen next in this scenario?
+
+
+
+(A) The prosecution will win the case because the security guard's testimony is strong.
+
+(B) The defense will request a Brady disclosure, and if the prosecution fails to comply, it could lead to a mistrial.
+
+(C) The judge will dismiss the case because the prosecution has withheld evidence.
+
+(D) The defense will be unaware of the footage and the trial will proceed as normal.
+
+
+
+The right answer is (B). The defense will request a Brady disclosure, and if the prosecution fails to comply, it could lead to a mistrial. According to the Brady v. Maryland ruling, the prosecution is required to disclose any evidence that could prove the defendant's innocence or that could make the government's witnesses seem less believable. In this case, the security camera footage could potentially impeach the credibility of the security guard, the government's key witness. If the prosecution fails to disclose this evidence, it could be a violation of the Brady disclosure, potentially leading to a mistrial.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the Brady disclosure rule?
+
+
+
+(A) The prosecution is not required to disclose evidence that could lead to a lesser punishment for the defendant.
+
+(B) The prosecution is not required to disclose evidence that could make the government's witnesses seem less believable.
+
+(C) The prosecution is not required to disclose evidence that could prove the defendant's innocence.
+
+(D) Enforcing the Brady disclosure rule can be challenging, and some states have created their own laws to try to ensure compliance.
+
+
+
+The right answer is (D). Enforcing the Brady disclosure rule can be challenging, and some states have created their own laws to try to ensure compliance. The Brady disclosure rule requires the prosecution to disclose any evidence that could prove the defendant's innocence, make the government's witnesses seem less believable, or lead to a lesser punishment for the defendant. However, enforcing this rule can be difficult, which is why some states have created their own laws to strengthen enforcement.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+ 
+
+
+
+
+
+
+
+Question: What is the best description of the ""discovery doctrine""?
+
+
+
+(A) It is a rule that allows any nation to claim ownership of any land they discover, regardless of who was living there before.
+
+(B) It is a law introduced by the Vatican that allows European nations to claim ownership of lands they discover, as long as they take possession of it.
+
+(C) It is a concept introduced into United States law by Supreme Court Justice John Marshall, stating that discovery of territory previously unknown to Europeans gave the discovering nation title to that territory against all other European nations, and this title could be perfected by possession.
+
+(D) It is a rule that allows indigenous people to claim ownership of lands they discover, regardless of who was living there before.
+
+
+
+The right answer is (C). The ""discovery doctrine"" is a concept introduced into United States law by Supreme Court Justice John Marshall during the case Johnson v. McIntosh in 1823. According to this doctrine, if a European nation discovered a territory that was previously unknown to them, they could claim ownership of that territory against all other European nations, as long as they took possession of it. This doctrine has been criticized by many legal scholars and advocates for Indigenous rights, and was formally repudiated by the Vatican in 2023.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+Question: In a hypothetical scenario, a group of explorers from a small European nation, Nation X, discover an uninhabited island in the Pacific Ocean in 1825. They claim the island for their nation and establish a small settlement there. However, a few years later, a larger European nation, Nation Y, also discovers the island and attempts to claim it for themselves, arguing that Nation X's claim is invalid because they are a smaller, less powerful nation. According to the discovery doctrine as interpreted by John Marshall, what would be the likely outcome of this dispute?
+
+
+
+(A) Nation Y would be able to claim the island because they are a larger, more powerful nation.
+
+(B) Nation X would retain their claim to the island because they discovered it first and established a settlement there.
+
+(C) Both Nation X and Nation Y would share ownership of the island.
+
+(D) Neither Nation X nor Nation Y would be able to claim the island because it was uninhabited.
+
+
+
+The right answer is (B). According to the discovery doctrine as interpreted by John Marshall, discovery of territory previously unknown to Europeans gave the discovering nation title to that territory against all other European nations, and this title could be perfected by possession. In this scenario, Nation X discovered the island first and established a settlement there, perfecting their claim. Therefore, according to the discovery doctrine, Nation X would retain their claim to the island, regardless of the size or power of Nation Y.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Discovery Doctrine""?
+
+
+
+(A) The doctrine only applies to territories discovered by European nations.
+
+(B) The doctrine has been universally accepted without any criticism.
+
+(C) The doctrine disregards the rights of indigenous people who were living on the ""discovered"" lands.
+
+(D) The doctrine was never formally rejected by any significant institution.
+
+
+
+The right answer is (C) The doctrine disregards the rights of indigenous people who were living on the ""discovered"" lands. The story mentions that advocates for Indigenous rights have protested against the doctrine, arguing that it overlooks the rights of the indigenous people who were already living on these lands before they were ""discovered"" by Europeans. This is a significant limitation or exception of the rule ""Discovery Doctrine"".
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: What is the best description of the Double Aspect Doctrine in Canadian constitutional law?
+
+
+
+(A) It is a rule that allows only the federal government to create laws on any subject matter.
+
+(B) It is a rule that allows only the provincial government to create laws on any subject matter.
+
+(C) It is a rule that allows both the provincial and federal governments to create laws on the same subject matter, but for different reasons.
+
+(D) It is a rule that prevents both the provincial and federal governments from creating laws on the same subject matter.
+
+
+
+The right answer is (C). The Double Aspect Doctrine allows both the provincial and federal governments to create laws on the same subject matter, but for different reasons. This is because certain matters have multiple dimensions to them, and depending on the purpose, the matter will fall to one head of power or the other. For example, highway traffic laws can be a provincial matter under property and civil rights, but can also be a federal matter under criminal law.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+Question: In a hypothetical scenario, there is a large forest in Canada that is home to a rare species of bird. The provincial government, Team Province, wants to pass laws to protect the bird's habitat, as they are in charge of natural resources and wildlife within their jurisdiction. At the same time, the federal government, Team Federal, wants to pass laws to protect the bird as it is a species at risk, which falls under their jurisdiction of environmental protection and biodiversity. How would the Double Aspect Doctrine apply in this situation?
+
+
+
+(A) Only Team Province can pass laws to protect the bird's habitat, as it falls under their jurisdiction of natural resources and wildlife.
+
+(B) Only Team Federal can pass laws to protect the bird, as it falls under their jurisdiction of environmental protection and biodiversity.
+
+(C) Neither Team Province nor Team Federal can pass laws related to the bird, as it falls under a shared jurisdiction.
+
+(D) Both Team Province and Team Federal can pass laws related to the bird and its habitat, but for different reasons.
+
+
+
+The right answer is (D) Both Team Province and Team Federal can pass laws related to the bird and its habitat, but for different reasons. According to the Double Aspect Doctrine, both the provincial and federal governments can create laws on the same subject matter, but for different purposes. In this case, Team Province can pass laws to protect the bird's habitat as it falls under their jurisdiction of natural resources and wildlife, while Team Federal can pass laws to protect the bird as a species at risk, which falls under their jurisdiction of environmental protection and biodiversity.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+Question: What could be a potential limitation or exception to the Double Aspect Doctrine in Canadian constitutional law?
+
+
+
+(A) The doctrine only applies to criminal law matters.
+
+(B) The doctrine cannot be applied if both provincial and federal governments want to legislate on the same subject matter for the same reason.
+
+(C) The doctrine only allows the federal government to create laws.
+
+(D) The doctrine only applies to civil rights matters.
+
+
+
+The right answer is (B). The Double Aspect Doctrine allows both provincial and federal governments to legislate on the same subject matter, but for different reasons. If both levels of government want to legislate on the same subject matter for the same reason, this could potentially be a limitation or exception to the doctrine.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+10/26/23 18:38,10/26/23 18:48,IP Address,*******,100,587,TRUE,10/26/23 18:48,R_T72ZXKwsTPkdI6B,*******,*******,*******,*******,*******,*******,anonymous,EN,1,63cdf894c118ad4f84489c1a,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Business, finance, accounting, marketing, economics",,"Business, finance, accounting, marketing, economics",,Native/bilingual,45-54 years old,Male,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,5,5,5,5,5,5,5,5,5,this is an engaging story. it keeps the readers interest throughout.,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,5,5,5,5,5,5,this story is exciting and properly executed.,There is no issue.,5,There is no issue.,5,There is no issue.,5,4,4,4,4,4,5,4,4,4,this story is interesting but lacks little bit of cutting edge.,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,5,5,4,5,5,5,this story is simple and interesting. quite exciting too,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,5,5,5,5,5,5,this is a well executed example of a story to explain the double aspect doctrine ,There is no issue.,5,There is no issue.,4,There is no issue.,5,a feature of relatability will be a good feature.,this is a good survey,63cdf894c118ad4f84489c1a,653ad41d0c9def342695aa7b,653b067e0c9def342695b46d
+10/26/23 17:57,10/26/23 19:27,IP Address,*******,100,5387,TRUE,10/26/23 19:27,R_pi59XRAOziG80Uh,*******,*******,*******,*******,*******,*******,anonymous,EN,1,615993153e17441c2e8d6c92,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,Other:,"represented/ representing myself proper in multiple civil actions , attending law school , related licenses ","Laws, legal services and policies",,Native/bilingual,35-44 years old,Female,,"Associates Degree (for example: AA, AS)",,e h l l o,2,4,5,3,5,5,3,4,5,The story should be restructured: The last paragraph should come after the first and follow with the remaining two paragraphs that outline the definition and examples ,There is no issue.,3,There is no issue.,5,"The question cannot be derived from the definition or story above.,The question is confusing.,There is no right answer in the 4 candidates.",1,2,5,5,5,5,5,5,4,5,,There is no issue.,4,"Other issues not covered above,There is no issue.",4,"There are more than one right answers in the 4 candidates.,There is no issue.",4,3,5,3,5,5,5,4,3,3,The 'dealer' concept isn't the most fitting in this scenario,There is no issue.,5,There is no issue.,5,"Other issues not covered above,There is no issue.",5,5,3,3,4,5,4,4,4,4,,"There are more than one right answers in the 4 candidates.,Other issues not covered above,There is no issue.",4,There is no issue.,4,"There are more than one right answers in the 4 candidates.,Other issues not covered above,There is no issue.",4,3,4,5,5,5,5,5,4,5,,There is no issue.,5,There is no issue.,5,There is no issue.,5,,,615993153e17441c2e8d6c92,653ad41d0c9def342695aa7b,653afce3b0deae582f4eb8e7
+10/27/23 9:41,10/27/23 10:18,IP Address,*******,98,2246,FALSE,10/30/23 16:10,R_3Kr4274q1pTJQTe,*******,*******,*******,*******,*******,*******,anonymous,EN,0.800000012,63ea41da5bd5ed0111145ffb,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Full professional,25-34 years old,Male,,"Master’s Degree (for example: MA, MS, and MEng)",,e h l l o,3,5,5,2,5,4,5,5,5,The story is comprehensive and understandable.,"The question is too easy and simple.,There is no issue.",4,There is no issue.,5,There is no issue.,5,3,5,4,1,4,4,4,5,4,the story is comprehensive,There is no issue.,5,There is no issue.,4,The question is too easy and simple.,4,4,5,5,4,4,4,5,5,4,comprehensive,There is no issue.,4,There is no issue.,4,There is no issue.,4,4,5,4,4,5,5,4,5,5,Comprehensive,There is no issue.,5,The question is too easy and simple.,4,There is no issue.,4,3,5,5,4,5,4,5,5,5,Comprehensive ,There is no issue.,5,The question is confusing.,3,There is no issue.,4,That would be an additional examples and story explaining the concept we are trying to learn.,Thank you. There was no issue.,63ea41da5bd5ed0111145ffb,653ad41d0c9def342695aa7b,653bda06d3eeffe0b8d6f0a8
+10/26/23 18:34,10/26/23 19:02,IP Address,*******,98,1664,FALSE,10/30/23 16:10,R_2BnCy0I8ivzLe5m,*******,*******,*******,*******,*******,*******,anonymous,EN,1,60d075b6af3d46debaf3cfd8,Some knowledge – I have some experience in law,Somewhat disagree,Other:,Hospitality and management,Other:,History and policy,Native/bilingual,18-24 years old,Female,,"Associates Degree (for example: AA, AS)",,e h l l o,5,5,5,3,5,5,5,5,5,,There is no issue.,5,There is no issue.,3,There is no issue.,4,4,5,5,4,5,5,5,5,5,,There is no issue.,4,There is no issue.,5,There is no issue.,5,5,5,5,4,5,5,5,4,5,,There are more than one right answers in the 4 candidates.,3,There is no issue.,4,There is no issue.,4,5,5,4,1,5,5,5,4,5,,There is no issue.,3,The question is too easy and simple.,3,The question is too easy and simple.,3,4,5,5,3,5,3,5,5,3,,There is no issue.,4,There is no issue.,5,There is no issue.,4,none,,60d075b6af3d46debaf3cfd8,653ad41d0c9def342695aa7b,653b05945d2bcf08ea9046db

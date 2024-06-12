@@ -1,0 +1,792 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What does the concept of Transnational Child Protection entail?
+
+
+
+(A) It refers to the protection of children only within their home country.
+
+(B) It refers to the protection of children from violence, exploitation, abuse, and neglect in an international setting, regardless of their national origin or status.
+
+(C) It refers to the protection of children only when they are accompanied by their parents or legal guardians.
+
+(D) It refers to the protection of children only when they are in their country of origin.
+
+
+
+The right answer is (B). Transnational Child Protection refers to the protection of children from violence, exploitation, abuse, and neglect in an international setting, regardless of their national origin or status. This concept is guided by the UN Convention on the Rights of the Child, which ensures that every child has the right to protection, whether they are in their home country, a country they reside in, or a third country. It also ensures that this protection is provided regardless of the national origin or status of the child or his or her parents or legal guardians.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: In a hypothetical scenario, a child named Maria, born to Mexican parents, is living in the United States. Her parents are deported back to Mexico, leaving Maria alone in the U.S. She comes into contact with public authorities who start a series of checks and assessments. What is the likely next step in Maria's situation under the concept of Transnational Child Protection?
+
+
+
+(A) Maria will be immediately deported to Mexico to join her parents without any further assessments.
+
+(B) Maria will be left alone in the U.S. as her parents are no longer there.
+
+(C) Maria will be placed under the protection of the U.S. authorities who will assess her situation and take necessary measures to ensure her safety and well-being.
+
+(D) Maria's situation will be ignored as she is not a U.S. citizen.
+
+
+
+The right answer is (C). According to the concept of Transnational Child Protection, when a child comes into contact with public authorities, a series of checks, assessments, and immediate measures are set in to identify the child and to assess her or his situation. This is to ensure the child's protection from violence, exploitation, abuse, and neglect. Maria's nationality or the status of her parents does not affect her right to protection.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Transnational Child Protection""?
+
+
+
+(A) Children who are traveling for vacation are not protected under this rule.
+
+(B) Children who are unaccompanied or separated from their parents face particular challenges in receiving protection.
+
+(C) Children who are born to parents with different nationalities are not protected under this rule.
+
+(D) Children who are born in a country different from their parents' homeland are not protected under this rule.
+
+
+
+The right answer is (B). Children who are unaccompanied or separated from their parents face particular challenges in receiving protection. The story and concept explanation highlight that while the Transnational Child Protection aims to protect all children, those who are unaccompanied or separated from their parents can face unique difficulties in receiving this protection.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following best describes a peremptory norm (jus cogens) in international law?
+
+
+
+(A) It is a fundamental principle that all states can choose to follow or not.
+
+(B) It is a fundamental principle that all states must follow, with no exceptions allowed.
+
+(C) It is a fundamental principle that only applies to states with a clear separation of powers.
+
+(D) It is a fundamental principle that bans only genocide and maritime piracy.
+
+
+
+The right answer is (B). A peremptory norm (jus cogens) is a fundamental principle of international law that all states must follow, with no exceptions allowed. It is not optional (as in A), does not only apply to certain states (as in C), and bans more than just genocide and maritime piracy (as in D). It includes universally accepted prohibitions against actions like genocide, slavery, wars of aggression, and torture.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: In a hypothetical scenario, Country X has been accused of engaging in acts of maritime piracy, which is generally accepted as a violation of peremptory norms. Country Y, a powerful nation, has been turning a blind eye to these actions due to their strategic alliance with Country X. However, international pressure is mounting. What is the most likely outcome of this situation?
+
+
+
+(A) Country Y continues to ignore the actions of Country X without any repercussions.
+
+(B) Country Y is forced to take action against Country X due to the violation of peremptory norms.
+
+(C) Country X is allowed to continue its actions as it is a sovereign state.
+
+(D) The international community disregards the violation as maritime piracy is not a universally accepted peremptory norm.
+
+
+
+The right answer is (B). Peremptory norms, or jus cogens, are fundamental principles of international law that all countries must follow, with no exceptions allowed. Maritime piracy is generally accepted as a violation of these norms. Despite their strategic alliance, Country Y would be forced to take action against Country X due to the violation of these norms, especially under mounting international pressure. Ignoring such a violation could lead to serious consequences for Country Y as well.
+
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Peremptory norm"" or jus cogens?
+
+
+
+(A) All countries universally agree on what constitutes a peremptory norm.
+
+(B) There is no debate or controversy regarding the definition of torture in relation to peremptory norms.
+
+(C) The concept of refoulement is universally accepted and clearly defined.
+
+(D) There is no universal agreement on precisely which norms are jus cogens and how a norm reaches that status.
+
+
+
+The right answer is (D). The concept explanation and story both highlight that there is no universal agreement on precisely which norms are jus cogens and how a norm reaches that status. This is a potential limitation or exception of the rule ""Peremptory norm"". Options (A), (B), and (C) are incorrect as they contradict the information provided in the concept explanation and story.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is the primary purpose of the Doctrine of Chances in law?
+
+
+
+(A) It allows a prosecutor to use evidence of a defendant's past crimes to prove their character.
+
+(B) It allows a prosecutor to use evidence of a defendant's past crimes to predict their current actions.
+
+(C) It allows a prosecutor to use evidence of similar past incidents to argue that it is improbable for the current case to be accidental.
+
+(D) It allows a prosecutor to use evidence of a defendant's past crimes to predict their future actions.
+
+
+
+The right answer is (C). The Doctrine of Chances allows a prosecutor to use evidence of similar past incidents to argue that it is improbable for the current case to be accidental. This doctrine provides an exception to the Federal Rule of Evidence 404, which normally prohibits the use of past actions or crimes as evidence to prove someone's character or predict their current actions.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+Question: In a hypothetical scenario, a man named John is on trial for the suspicious death of his business partner, who died from a rare, poisonous snake bite. The prosecutor discovers that John had two previous business partners who also died from the same rare, poisonous snake bite. John claims that all three incidents were unfortunate accidents. How might the Doctrine of Chances be used in this case?
+
+
+
+(A) The prosecutor could use the Doctrine of Chances to argue that it's highly unlikely that all three deaths were accidents, and bring up the deaths of John's previous partners as evidence.
+
+(B) The prosecutor could use the Doctrine of Chances to argue that John has a history of criminal behavior, and bring up the deaths of John's previous partners as evidence.
+
+(C) The prosecutor could use the Doctrine of Chances to argue that John has a fear of snakes, and bring up the deaths of John's previous partners as evidence.
+
+(D) The prosecutor could use the Doctrine of Chances to argue that John is innocent, and bring up the deaths of John's previous partners as evidence.
+
+
+
+The right answer is (A). The Doctrine of Chances could be used by the prosecutor to argue that it's highly unlikely that all three deaths were accidents. This doctrine allows for the inclusion of evidence about the similar, suspicious circumstances surrounding the deaths of John's previous business partners. It's not used to prove John's character or predict his actions, but to show the improbability of the same rare, unfortunate accident happening three times.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Doctrine of Chances""?
+
+
+
+(A) The doctrine of chances cannot be used if the defendant has no prior similar incidents.
+
+(B) The doctrine of chances can only be used in murder cases.
+
+(C) The doctrine of chances can only be used in cases where the defendant is a repeat offender.
+
+(D) The doctrine of chances cannot be used if the defendant's previous incidents were proven to be accidents.
+
+
+
+The right answer is (A) The doctrine of chances cannot be used if the defendant has no prior similar incidents. The doctrine of chances relies on the existence of prior similar incidents to argue that it is improbable for the current incident to be accidental. If there are no prior similar incidents, the doctrine of chances cannot be applied.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following statements accurately describes the ""First-sale doctrine""?
+
+
+
+(A) The first-sale doctrine allows the original intellectual property owner to control the resale of their products indefinitely.
+
+(B) The first-sale doctrine applies to patented processes and allows for their resale without control from the patent holder.
+
+(C) The first-sale doctrine prohibits the distribution chain of copyrighted products, library lending, and secondary markets for copyrighted works.
+
+(D) The first-sale doctrine limits the rights of an intellectual property owner to control resale of products embodying its intellectual property, enabling the distribution chain of copyrighted products, library lending, and secondary markets for copyrighted works.
+
+
+
+The right answer is (D). The first-sale doctrine limits the rights of an intellectual property owner to control resale of products embodying its intellectual property, enabling the distribution chain of copyrighted products, library lending, and secondary markets for copyrighted works. This doctrine allows individuals to sell or give away a copyrighted product that they've legally bought, like a book, a CD, or even a trademarked product. However, it does not apply to patented processes, which are governed by the patent exhaustion doctrine.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Imagine you're a software developer who has created a unique patented process for data encryption. You sell this software to a company, who then decides to sell it to another company. The second company, after purchasing the software, decides to reverse engineer it and sell the patented process to other companies. According to the first-sale doctrine, what is the likely outcome of this scenario?
+
+
+
+(A) The second company can sell the patented process to other companies without any legal repercussions.
+
+(B) The original software developer can sue the second company for selling the patented process.
+
+(C) The first company can sue the second company for selling the patented process.
+
+(D) The second company can only sell the software but not the patented process.
+
+
+
+The right answer is (D) The second company can only sell the software but not the patented process. The first-sale doctrine allows the resale of patented products, but it does not apply to patented processes. In this scenario, the second company can resell the software they bought, but they cannot sell the patented process that the software uses. This is governed by a different rule called the patent exhaustion doctrine.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+Question: According to the first-sale doctrine, which of the following is NOT allowed?
+
+
+
+(A) Selling a copyrighted book that you've legally purchased
+
+(B) Lending a legally purchased CD to a friend
+
+(C) Reselling a trademarked product after the trademark holder puts the products on the market
+
+(D) Reselling a product that uses a patented process
+
+
+
+The right answer is (D). The first-sale doctrine allows for the resale of copyrighted and trademarked products, but it does not apply to patented processes. These are governed by a different rule called the patent exhaustion doctrine.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+Question: What is the correct description of the legal concept ""Beneficium inventarii""?
+
+
+
+(A) It is a legal doctrine that requires heirs to pay off all debts of the deceased, regardless of the value of the inherited estate.
+
+(B) It is a legal principle that allows heirs to inherit the estate without any liabilities or debts.
+
+(C) It is a legal doctrine that limits the liability of heirs to the value of the inherited estate as determined by an inventory, protecting them from the financial risks of inheriting an insolvent estate.
+
+(D) It is a legal principle that requires heirs to sell off the inherited estate to pay off the deceased's debts.
+
+
+
+The right answer is (C). ""Beneficium inventarii"" is a legal doctrine that limits the liability of heirs to the value of the inherited estate as determined by an inventory. This means that heirs are not responsible for paying off the debts of the deceased beyond the value of the estate they have inherited. This principle protects heirs from the financial risks of inheriting an insolvent estate.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Imagine you are the only child of a famous artist, who unfortunately passed away. In her will, she left you all her artwork, which is worth millions. However, she also left behind a significant amount of debt due to her extravagant lifestyle and poor financial management. The debt is more than the value of the artwork. As her heir, you are worried about the debt. What would happen next under the principle of ""Beneficium inventarii""?
+
+
+
+(A) You would have to sell the artwork and use your personal savings to pay off the remaining debt.
+
+(B) You would have to sell the artwork and pay off as much debt as possible, but you would not be responsible for the remaining debt.
+
+(C) You would inherit both the artwork and the debt, and would be responsible for paying off the entire debt.
+
+(D) You would inherit the artwork but would not be responsible for any of the debt.
+
+
+
+The right answer is (B). Under the principle of ""Beneficium inventarii"", an heir is only responsible for paying off the debts of the deceased up to the value of the inherited estate, as determined by an inventory. In this case, you would have to sell the artwork and use the proceeds to pay off as much of the debt as possible. However, you would not be responsible for any remaining debt that exceeds the value of the artwork.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Beneficium inventarii""?
+
+
+
+(A) The heir is responsible for paying off the deceased's debts beyond the value of the inherited items.
+
+(B) The rule only applies to wills, not intestate successions.
+
+(C) The rule does not apply if the heir is a direct family member of the deceased.
+
+(D) The rule does not protect the heir from claims of legatees beyond the estate's value as previously determined by inventory.
+
+
+
+The right answer is (D). The rule ""Beneficium inventarii"" limits the liability of heirs to the value of the estate as determined by an inventory. However, it does not protect the heir from claims of legatees beyond the estate's value as previously determined by inventory. This means that if the deceased had made promises to legatees that exceed the value of the estate, the heir could potentially be liable for these claims.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+10/28/23 12:21,10/28/23 12:54,IP Address,*******,98,1944,FALSE,10/30/23 16:25,R_2cBJ0y3S9CsCbgY,*******,*******,*******,*******,*******,*******,anonymous,EN,1,640cbae3e88be609f5011050,Some knowledge – I have some experience in law,Somewhat disagree,"Business, finance, accounting, marketing, economics",,"Laws, legal services and policies",,Native/bilingual,18-24 years old,Male,,"Some college, but no degree",,e h l l o,2,5,5,4,4,5,4,5,2,"Flows well, topic includes fictional ideas but overall good.",There is no issue.,4,There is no issue.,4,The question cannot be derived from the definition or story above.,2,2,5,5,5,5,5,5,4,5,I like how the conclusion of the story wraps the text up well and relates the topic back to football. It ties the opening and conclusion together perfectly.,There is no right answer in the 4 candidates.,5,There is no issue.,5,There is no issue.,4,4,4,4,4,5,5,5,4,4,Simple and well explained story.,There is no issue.,5,There is no issue.,5,There is no issue.,4,5,5,5,5,5,5,5,5,5,Good all round.,There is no issue.,4,There is no issue.,5,There is no issue.,5,3,5,5,5,5,5,5,5,5,-,There is no issue.,5,"The question is confusing.,There is no issue.",4,There is no issue.,4,Highlight key terms/useful information so they don't go unnoticed ,-,640cbae3e88be609f5011050,653d31e3aff52492a157ea81,653d5110fc15c790691221a1
+10/28/23 12:46,10/28/23 14:01,IP Address,*******,98,4505,FALSE,10/30/23 16:25,R_6fjbjv7TkXJhFLj,*******,*******,*******,*******,*******,*******,anonymous,EN,1,615993153e17441c2e8d6c92,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,Other:,"Pro Per Civil Litigant, Law Student, Related Professional Licenses","Laws, legal services and policies",,Native/bilingual,35-44 years old,Female,,"Associates Degree (for example: AA, AS)",,e h l l o,5,5,3,3,4,4,3,3,3,The 'superhero' analogy does not work for this concept analogy. ,There is no issue.,5,There is no issue.,4,"The question is confusing.,There is no right answer in the 4 candidates.,The reasoning given in the suggested answer is wrong or flawed.",1,4,5,4,5,4,5,5,5,5,,There is no issue.,5,There is no issue.,5,The question is confusing.,4,5,4,5,2,4,5,5,4,5,"When coming back to Bob the story needs to note the third wife died in the same way, not just that hes on trial for his wife The analogy is the same as the actual story that established the doctrine and is not original, therefore redundant. ",There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,4,4,5,5,4,4,5,The story goes off topic slightly when talking about 'patented' products and the 'patented exhaustion doctrine.',There is no issue.,5,There are more than one right answers in the 4 candidates.,4,There is no issue.,5,4,4,5,5,5,5,5,5,5,,There is no issue.,5,There is no issue.,5,"The question is confusing.,There is no right answer in the 4 candidates.,The reasoning given in the suggested answer is wrong or flawed.,Other issues not covered above",1,,,615993153e17441c2e8d6c92,653d31e3aff52492a157ea81,653d563747329489fed3cbdf
+10/28/23 12:13,10/28/23 12:32,IP Address,*******,98,1090,FALSE,10/30/23 16:25,R_phjQRyTyq45hiqB,*******,*******,*******,*******,*******,*******,anonymous,EN,1,652fe805e19cd8c9d83c1456,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Computer software, computer hardware, information technology, telecommunications",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Female,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,4,4,4,4,4,4,4,4,4,The scenario helps to illustrate the definition of transnational child protection in a cohesive way.,There is no issue.,4,There is no issue.,4,There is no issue.,4,4,4,5,5,4,4,4,4,4,The story helps to contextualise the definition of 'peremptory norm'.,There is no issue.,4,There is no issue.,4,There is no issue.,4,4,4,5,4,4,4,4,5,4,The story is helpful and believable in providing context for the definition at hand.,There is no issue.,4,There is no issue.,4,There is no issue.,4,4,5,5,5,4,4,5,4,4,The scenario provides context for the definition at hand. ,There is no issue.,4,There is no issue.,4,There is no issue.,4,5,4,5,4,4,5,4,4,4,The story is well-written and structured so that it could be read easily by the average person.,There is no issue.,4,There is no issue.,4,There is no issue.,4,"Changing the font colours of the scenarios to black, or making them bold. It would be easier to read.",,652fe805e19cd8c9d83c1456,653d31e3aff52492a157ea81,653d4ee82728b331980c7606

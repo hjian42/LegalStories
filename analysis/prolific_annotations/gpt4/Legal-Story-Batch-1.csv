@@ -1,0 +1,663 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+Question: What is the primary purpose of the Doctrine of Foreign Equivalents in United States trademark law?
+
+
+(A) To ensure that all trademarks are in English.
+
+(B) To prevent brands from using foreign languages to avoid trademark rules.
+
+(C) To translate all foreign words into English for trademark registration.
+
+(D) To encourage the use of foreign languages in branding.
+
+
+The right answer is (B) To prevent brands from using foreign languages to avoid trademark rules. The Doctrine of Foreign Equivalents is a rule in U.S. trademark law that requires the translation of foreign words to determine if they can be registered as trademarks or if they are too similar to existing ones. Its main purpose is to protect consumers from confusion or deception caused by brands using words from different languages that may be generic, merely descriptive of the product, or share the same meaning as an existing brand to speakers of that language.
+
+Look at the quality of this question and question by checking if (1) , (2) the reasoning given in the suggested answer is valid, (3) the suggested answer can be derived from either the definition or the story, (4) the question tests the reader’s understanding.
+
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: A new company wants to launch a line of luxury watches in the United States. They decide to name their brand ""Lujo,"" which is Spanish for ""Luxury."" However, there is already a well-established brand of luxury watches in the U.S. market named ""Luxury."" How would the Doctrine of Foreign Equivalents likely affect the new company's attempt to trademark ""Lujo""?
+
+
+
+(A) The Doctrine of Foreign Equivalents would not apply because ""Lujo"" and ""Luxury"" are in different languages.
+
+(B) The Doctrine of Foreign Equivalents would allow the new company to trademark ""Lujo"" because it is not an English word.
+
+(C) The Doctrine of Foreign Equivalents would likely prevent the new company from trademarking ""Lujo"" because it is the Spanish equivalent of the already trademarked ""Luxury.""
+
+(D) The Doctrine of Foreign Equivalents would require the new company to change the name of their brand to an English word.
+
+
+
+The right answer is (C). The Doctrine of Foreign Equivalents would likely prevent the new company from trademarking ""Lujo"" because it is the Spanish equivalent of the already trademarked ""Luxury."" This doctrine is used in U.S. trademark law to prevent confusion or deception caused by the use of terms in different languages that share the same meaning. In this case, ""Lujo"" and ""Luxury"" mean the same thing, so the doctrine would likely prevent the new company from using ""Lujo"" as their trademark to avoid confusion with the existing ""Luxury"" brand.
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: What could be a potential limitation or exception to the application of the Doctrine of Foreign Equivalents in U.S. trademark law?
+
+
+
+(A) The doctrine does not apply if the foreign word is in a language not commonly spoken in the United States.
+
+(B) The doctrine does not apply if the foreign word is a proper noun.
+
+(C) The doctrine does not apply if the foreign word is used in a different industry.
+
+(D) The doctrine does not apply if the foreign word is a slang term.
+
+
+
+The right answer is (A). The Doctrine of Foreign Equivalents may not be applied if the foreign word is in a language not commonly spoken in the United States. This is because the doctrine is intended to prevent confusion among consumers, and if a language is not commonly spoken, it is less likely that consumers would be confused or deceived by a foreign word that is similar to an existing trademark.
+
+ 
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+ 
+Question: Which of the following scenarios best describes an ""Emergency""?
+
+
+
+(A) A planned power outage in your neighborhood for maintenance work.
+
+(B) A scheduled visit to the doctor for a regular check-up.
+
+(C) A sudden fire outbreak in your kitchen.
+
+(D) A pre-arranged fire drill at your workplace.
+
+
+
+The right answer is (C). An emergency is an urgent, unexpected, and usually dangerous situation that poses an immediate risk to health, life, property, or environment and requires immediate action. A sudden fire outbreak in your kitchen fits this description as it is unexpected, dangerous, poses a risk to life and property, and requires immediate action. The other options are either planned or scheduled events, which do not qualify as emergencies.
+
+ 
+Look at the quality of this question and question by checking if (1) , (2) the reasoning given in the suggested answer is valid, (3) the suggested answer can be derived from either the definition or the story, (4) the question tests the reader’s understanding.
+
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: Imagine you are a park ranger working in a large national park. One day, you receive a distress call from a group of hikers who have lost their way. They are not injured, but they are out of food and water, and it's getting dark. They have a map and a compass, but they are not familiar with the area. They are scared and unsure of what to do next. What would be the most appropriate action for you to take in this situation?
+
+
+
+(A) Ignore the call, as the hikers are not in immediate danger.
+
+(B) Advise the hikers to wait until daylight and then try to find their way out.
+
+(C) Immediately dispatch a search and rescue team to locate and assist the hikers.
+
+(D) Tell the hikers to split up and try to find their way out individually.
+
+
+
+The right answer is (C). This situation qualifies as an emergency because the hikers are in an unexpected and potentially dangerous situation. They are lost, out of food and water, and darkness is falling. While they are not currently injured, their situation could quickly worsen without intervention. As a park ranger, it would be your responsibility to take immediate action to prevent the situation from getting worse. This would involve dispatching a search and rescue team to locate and assist the hikers, ensuring their safety and well-being.
+
+ 
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+ 
+
+
+Question: Which of the following scenarios is a potential limitation or exception to the rule ""Emergency""?
+
+
+
+(A) A fire breaks out in your kitchen and you use a fire extinguisher to put it out.
+
+(B) You see a person lying on the ground and you're unsure if they need medical help.
+
+(C) A power outage occurs in your area, but it's not considered an emergency by the local government.
+
+(D) You call the fire department to prevent a fire from spreading to the rest of your house.
+
+
+
+The right answer is (C). A power outage occurs in your area, but it's not considered an emergency by the local government. This is an example of a potential limitation or exception to the rule ""Emergency"". The definition of an emergency can vary by jurisdiction, and what is considered an emergency in one area may not be considered an emergency in another. In this case, even though a power outage could be seen as an urgent and unexpected situation, if the local government does not classify it as an emergency, it would not be treated as such.
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: Which of the following scenarios best illustrates the concept of 'Substance over form' in accounting?
+
+
+
+(A) A company records a sale of machinery on its financial statements, even though it still retains the right to use the machinery whenever it wants.
+
+(B) A company records a sale of machinery on its financial statements, and the machinery is physically transferred to the buyer.
+
+(C) A company records a purchase of machinery on its financial statements, and the machinery is physically received from the seller.
+
+(D) A company does not record a sale of machinery on its financial statements, even though it has sold the machinery to another company.
+
+
+
+The right answer is (A). This scenario best illustrates the concept of 'Substance over form' because, although the machinery has been sold on paper (form), the reality (substance) is that the first company still has control over the machinery. According to the 'Substance over form' principle, the transaction should be recorded in a way that reflects this reality, rather than just noting down that a sale took place.
+
+ 
+Look at the quality of this question and question by checking if (1) , (2) the reasoning given in the suggested answer is valid, (3) the suggested answer can be derived from either the definition or the story, (4) the question tests the reader’s understanding.
+
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: A company, Company A, leases a building to another company, Company B, for a period of 20 years. The lease agreement states that at the end of the lease period, the ownership of the building will be transferred to Company B. However, Company A continues to pay property taxes and maintenance costs for the building throughout the lease period. According to the 'Substance over form' principle, how should this transaction be recorded in the financial statements?
+
+
+
+(A) As a lease agreement, because that's what the legal document states.
+
+(B) As a sale of property, because Company B will eventually own the building.
+
+(C) As a loan from Company B to Company A, because Company A is paying the costs.
+
+(D) As a financing agreement, because Company A retains the economic benefits and burdens of the property.
+
+
+
+The right answer is (D). According to the 'Substance over form' principle, the transaction should be recorded based on its economic reality rather than its legal form. Even though the legal document states it's a lease, the economic reality is that Company A retains the economic benefits and burdens of the property (paying property taxes and maintenance costs), and Company B is essentially financing the property for Company A. Therefore, the transaction should be recorded as a financing agreement.
+
+ 
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+ 
+
+
+Question: What could be a potential limitation or exception to the 'Substance over form' principle in accounting?
+
+
+
+(A) The principle can be applied to all business transactions without any exceptions.
+
+(B) The principle may not fully capture the economic reality if the legal form of a transaction significantly differs from its economic substance.
+
+(C) The principle is only applicable to revenue recognition and sale and purchase agreements.
+
+(D) The principle is not relevant for reliable financial reporting.
+
+
+
+The right answer is (B). The 'Substance over form' principle aims to capture the economic reality of a transaction rather than its legal form. However, if the legal form of a transaction significantly differs from its economic substance, the principle may not fully capture the economic reality. This could potentially mislead the readers of a company's financial statements.
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: Which of the following scenarios accurately represents a breach of the 'boulevard rule'?
+
+
+
+(A) A driver on a highway yields to a car entering from a smaller road.
+
+(B) A driver on a smaller road waits for the highway traffic to clear before entering.
+
+(C) A driver on a smaller road enters the highway without yielding to the traffic.
+
+(D) A driver on a highway stops to let a car from a smaller road enter.
+
+
+
+The right answer is (C). According to the 'boulevard rule', a driver entering a highway from a smaller road (the unfavored driver) must yield to all highway traffic (the favored drivers). If the driver from the smaller road enters the highway without yielding to the traffic, it is considered a breach of the 'boulevard rule'.
+
+ 
+Look at the quality of this question and question by checking if (1) , (2) the reasoning given in the suggested answer is valid, (3) the suggested answer can be derived from either the definition or the story, (4) the question tests the reader’s understanding.
+
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: Imagine you're driving in Maryland and you're about to enter a highway from a smaller road. There's a lot of traffic on the highway. You see a gap in the traffic and decide to merge onto the highway. However, a car coming from your left on the highway speeds up and you end up colliding with it. Who would most likely be considered negligent in this situation according to the 'boulevard rule'?
+
+
+
+(A) The driver on the highway, because they sped up.
+
+(B) You, because you were entering the highway from a smaller road.
+
+(C) Both you and the driver on the highway, because you both contributed to the accident.
+
+(D) Neither you nor the driver on the highway, because accidents happen.
+
+
+
+The right answer is (B). According to the 'boulevard rule', the driver entering the highway from a smaller road (you, in this case) must yield the right of way to all highway traffic. Even though the other driver sped up, you were supposed to wait until it was safe to merge onto the highway. Therefore, you would most likely be considered negligent for not following the 'boulevard rule'.
+
+ 
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: What is a potential limitation or exception of the ""Boulevard rule""?
+
+
+
+(A) The rule does not apply to drivers entering a highway from a smaller road.
+
+(B) The rule does not apply to drivers who are already on the highway.
+
+(C) The rule does not apply where public roads intersect in some states like New York.
+
+(D) The rule does not apply to drivers entering a highway from a private driveway.
+
+
+
+The right answer is (C) The rule does not apply where public roads intersect in some states like New York. The concept explanation and story both highlight that while the boulevard rule generally requires drivers entering a highway from a smaller road or entrance to yield to highway traffic, there are exceptions. In New York, for example, the rule applies to traffic entering public roads from private driveways or alleys, but not where public roads intersect.
+
+ 
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: Which of the following best describes the concept of ""Equity"" in law?
+
+
+
+(A) Equity is a set of rules that are strictly followed in every legal case.
+
+(B) Equity is a separate body of law developed in the English Court of Chancery to provide fair resolutions when the usual law is not flexible enough.
+
+(C) Equity is a modern concept that was recently introduced to the legal system.
+
+(D) Equity is a system that replaces the common law system in England.
+
+
+
+The right answer is (B). Equity is a separate body of law that was developed in the English Court of Chancery. Its purpose is to provide a remedy for situations where the law is not flexible enough for the usual court system to deliver a fair resolution to a case. It is not a set of rules that are strictly followed in every legal case (A), nor is it a modern concept (C). While it is a separate system, it does not replace the common law system in England, but rather complements it (D).
+
+ 
+Look at the quality of this question and question by checking if (1) , (2) the reasoning given in the suggested answer is valid, (3) the suggested answer can be derived from either the definition or the story, (4) the question tests the reader’s understanding.
+
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: Imagine you are a business owner who entered into a contract with a supplier. The contract clearly states that the supplier will deliver goods to your business every month. However, due to an unforeseen natural disaster, the supplier is unable to fulfill the contract for a month. The contract does not have a clause for such a situation. You decide to take the matter to court. What is the most likely outcome of this case, considering the concept of equity in law?
+
+
+
+(A) The court will strictly enforce the contract and the supplier will be penalized for breach of contract.
+
+(B) The court will disregard the contract and the supplier will not face any consequences.
+
+(C) The court will apply the concept of equity and may provide a fair solution that may not strictly adhere to the contract.
+
+(D) The court will nullify the contract and ask both parties to draft a new one.
+
+
+
+The right answer is (C). The court will apply the concept of equity and may provide a fair solution that may not strictly adhere to the contract. This is because equity in law is designed to provide a remedy in situations where the law is not flexible enough to deliver a fair resolution. In this case, the unforeseen natural disaster is an exceptional circumstance that the contract did not account for, and equity allows the court to consider this in its decision.
+
+ 
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Equity"" in law?
+
+
+
+(A) Equity can only be applied in domestic law, not in international law.
+
+(B) Equity is only applicable in the common law system used in England.
+
+(C) Equity can only be used when the usual laws are flexible enough to provide a fair solution.
+
+(D) Equity may not always be applicable if the usual laws can provide a fair solution.
+
+
+
+The right answer is (D). Equity is a body of law that steps in when the usual rules of law can't provide a fair solution. However, if the usual laws can provide a fair solution, then there may not be a need for equity to be applied. This is a potential limitation or exception of the rule ""Equity"".
+
+ 
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+10/17/23 18:14,10/17/23 19:23,IP Address,*******,100,4109,TRUE,10/17/23 19:23,R_1eE58HsBc7ZbnB7,*******,*******,*******,*******,*******,*******,anonymous,EN,0.899999976,5fc00a11268eb941e7d8b066,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Business, finance, accounting, marketing, economics",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Male,,"Master’s Degree (for example: MA, MS, and MEng)",,e h l l o,3,5,5,4,4,4,5,5,5,,There is no issue.,5,There is no issue.,5,The question cannot be derived from the definition or story above.,4,5,4,5,3,4,4,5,4,4,,There is no issue.,5,The reasoning given in the suggested answer is wrong or flawed.,3,The question is confusing.,2,3,5,5,4,4,4,5,5,5,,The question is confusing.,3,There is no issue.,4,"The question cannot be derived from the definition or story above.,Other issues not covered above",3,5,5,5,4,4,3,4,4,4,,The question is too easy and simple.,3,The reasoning given in the suggested answer is wrong or flawed.,4,There is no right answer in the 4 candidates.,4,4,5,5,3,4,5,5,4,4,,There is no issue.,5,There is no issue.,4,The question is too easy and simple.,3,,,5fc00a11268eb941e7d8b066,652d700c352b1f0ab3e0353c,652f237eb0df248263b0fc0a
+10/17/23 18:15,10/17/23 18:57,IP Address,*******,98,2573,FALSE,10/18/23 7:50,R_yNEQG3orLwyj0Qx,*******,*******,*******,*******,*******,*******,anonymous,EN,1,5f19675f002f9a01e273dc57,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,Other:,The Arts,"Laws, legal services and policies",,Native/bilingual,45-54 years old,Female,,"Master’s Degree (for example: MA, MS, and MEng)",,e h l l o,3,5,5,4,5,5,5,4,4,None ,There is no issue.,4,There is no issue.,5,There is no issue.,4,4,4,4,4,4,4,4,3,4,None,There is no issue.,4,There is no issue.,5,The question is confusing.,2,1,2,2,2,3,3,3,1,1,None,The question is confusing.,2,The question is confusing.,2,There is no issue.,3,4,4,4,5,4,4,4,4,4,None,There is no issue.,3,There is no issue.,5,The question is confusing.,3,2,4,5,4,4,2,4,4,2,This was hard to rate as felt that the example explained the principle very well but for the fact that the rules allow for substitutions in these circumstances. ,There is no issue.,2,There is no issue.,3,There is no issue.,3,Possibly allow for responders to answer the question first themselves before revealing the answer and rating questions  ,As above - maybe add in a step that enables responders to answer the question first themselves.,5f19675f002f9a01e273dc57,652d700c352b1f0ab3e0353c,652f237981c00c38eaaffda9
+10/17/23 18:05,10/17/23 18:18,IP Address,*******,98,770,FALSE,10/18/23 7:50,R_pnmtid2bRluNkIh,*******,*******,*******,*******,*******,*******,anonymous,EN,1,5dbd6127245ad52a9549c95c,Some knowledge – I have some experience in law,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Female,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,5,5,5,1,5,5,5,4,5,,There is no issue.,4,There is no issue.,5,There is no issue.,4,5,5,5,5,5,5,5,5,5,,There is no issue.,5,There is no issue.,4,There is no issue.,4,5,5,4,4,5,4,5,4,5,,There is no issue.,5,There is no issue.,4,There is no issue.,4,5,5,5,5,5,5,5,5,5,,There is no issue.,5,There are more than one right answers in the 4 candidates.,5,There is no issue.,5,4,5,5,5,5,5,5,4,5,,There is no issue.,5,There is no issue.,4,There is no issue.,5,,,5dbd6127245ad52a9549c95c,652d700c352b1f0ab3e0353c,652f214f8f1c89abeb0dca1b

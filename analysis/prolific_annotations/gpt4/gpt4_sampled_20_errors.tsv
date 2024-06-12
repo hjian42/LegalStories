@@ -1,0 +1,61 @@
+	concept	q_id	story-comments	q1-issues	q2-issues	q3-issues
+0	Abstention_doctrine	0	nan	There is no issue.	There is no issue.	The question cannot be derived from the definition or story above.
+1	Abstention_doctrine	0	None 	There is no issue.	There is no issue.	There is no issue.
+2	Abstention_doctrine	0	nan	There is no issue.	There is no issue.	There is no issue.
+3	Brady_disclosure	7	The story explains the main facts of the legal terms.	There is no issue.	The question is too easy and simple.,There is no issue.	There is no issue.
+4	Brady_disclosure	7	None 	There is no issue.	The question is too easy and simple.,There is no issue.	The question cannot be derived from the definition or story above.
+5	Brady_disclosure	7	It was a lot easier to understand than the actual definition 	There is no issue.	There is no issue.	The question is too easy and simple.
+6	Commanding_precedent	9	No Comment.	The question is too easy and simple.,There is no issue.	The question is confusing.,There are more than one right answers in the 4 candidates.,Other issues not covered above	There is no issue.
+7	Commanding_precedent	9	None 	The question is too easy and simple.,There is no issue.	The question is too easy and simple.	There is no issue.
+8	Commanding_precedent	9	It was put in a good way but still used the correct legal jargon 	There is no issue.	There is no issue.	The question cannot be derived from the definition or story above.
+9	Constitutional_convention_(political_custom)	11	nan	The question is too easy and simple.,There is no issue.	The question cannot be derived from the definition or story above.	There are more than one right answers in the 4 candidates.,The reasoning given in the suggested answer is wrong or flawed.
+10	Constitutional_convention_(political_custom)	11	The story highlights the key points of the definition and brings it to life.	There is no issue.	There is no issue.	There is no issue.
+11	Constitutional_convention_(political_custom)	11	nan	There is no issue.	Other issues not covered above	There is no issue.
+12	Doctrine_of_foreign_equivalents	18	The story is concise and believable, further highlighting the definition of the duty to rescue. 	There is no issue.	There is no issue.	There is no issue.
+13	Doctrine_of_foreign_equivalents	18	The story was a bit boring and could have been made more interesting.	The question is too easy and simple.	There is no issue.	There is no issue.
+14	Doctrine_of_foreign_equivalents	18	nan	There are more than one right answers in the 4 candidates.,There is no issue.	There are more than one right answers in the 4 candidates.	There is no issue.
+15	FTC_v._Dean_Foods_Co.	35	nan	There is no issue.	There is no issue.	There is no issue.
+16	FTC_v._Dean_Foods_Co.	35	The story helps to properly explain the definition of the doctrine of necessity by providing an interesting and relevant scenario.	There is no issue.	There is no issue.	There is no issue.
+17	FTC_v._Dean_Foods_Co.	35	good way to explain a complex subject	There is no issue.	There is no issue.	There is no issue.
+18	Learned_intermediary	49	the story is concise and explains the law very well.	There is no issue.	There is no issue.	There is no issue.
+19	Learned_intermediary	49	None	There is no issue.	There is no issue.	There is no issue.
+20	Learned_intermediary	49	nan	There is no issue.	There is no issue.	There is no issue.
+21	Maxwellisation	54	I think this story s a good example of the concept of sufficient similarity	There is no issue.	There is no issue.	There is no issue.
+22	Maxwellisation	54	nan	Other issues not covered above,There is no issue.	There is no issue.	The reasoning given in the suggested answer is wrong or flawed.,There is no issue.
+23	Maxwellisation	54	The story helps to illustrate the definition of 'sufficient similarity' to readers.	There is no issue.	There is no issue.	There is no issue.
+24	Pacta_sunt_servanda	65	No comments at this time.	There is no issue.	There is no issue.	There is no issue.
+25	Pacta_sunt_servanda	65	nan	There is no issue.	Other issues not covered above	There is no issue.
+26	Pacta_sunt_servanda	65	nan	There is no issue.	There is no issue.	There is no issue.
+27	Plain_meaning_rule	69	nan	The question is too easy and simple.	There is no issue.	There is no issue.
+28	Plain_meaning_rule	69	None	There is no issue.	There is no issue.	There is no issue.
+29	Plain_meaning_rule	69	nan	There are more than one right answers in the 4 candidates.	There is no issue.	There is no issue.
+30	Presumption_(Catholic_canon_law)	72	nan	There is no issue.	The question cannot be derived from the definition or story above.,The question is confusing.	The question cannot be derived from the definition or story above.,The question is confusing.
+31	Presumption_(Catholic_canon_law)	72	None	There is no issue.	There is no issue.	There is no issue.
+32	Presumption_(Catholic_canon_law)	72	nan	There is no issue.	There is no issue.	There is no issue.
+33	Prosecutorial_discretion	77	nan	There is no issue.	The question cannot be derived from the definition or story above.	There is no issue.
+34	Prosecutorial_discretion	77	nan	There is no issue.	There is no issue.	There is no issue.
+35	Prosecutorial_discretion	77	None	There is no issue.	There is no issue.	There is no issue.
+36	Purcell_principle	78	nan	There is no issue.	There is no issue.	There is no issue.
+37	Purcell_principle	78	nan	There is no issue.	There is no issue.	There is no issue.
+38	Purcell_principle	78	None	There is no issue.	There is no issue.	There is no issue.
+39	Remoteness_in_English_law	82	nan	There is no issue.	There are more than one right answers in the 4 candidates.	There is no issue.
+40	Remoteness_in_English_law	82	nan	The question is too easy and simple.	The question is too easy and simple.	There is no issue.
+41	Remoteness_in_English_law	82	nan	There is no issue.	There is no issue.	There is no issue.
+42	Safe_harbor_(law)	86	I thought the first part of the story was not necessary and although it provided a real life example, I think it was irrelevant. However, the rest of the story was good. 	There are more than one right answers in the 4 candidates.	There is no issue.	There is no right answer in the 4 candidates.
+43	Safe_harbor_(law)	86	very good examples, reads well	There is no issue.	There is no issue.	There is no issue.
+44	Safe_harbor_(law)	86	a little to general 	There is no issue.	There are more than one right answers in the 4 candidates.	There is no issue.
+45	Substantial_certainty_doctrine	89	Flows well, topic includes fictional ideas but overall good.	There is no issue.	There is no issue.	The question cannot be derived from the definition or story above.
+46	Substantial_certainty_doctrine	89	The 'superhero' analogy does not work for this concept analogy. 	There is no issue.	There is no issue.	The question is confusing.,There is no right answer in the 4 candidates.,The reasoning given in the suggested answer is wrong or flawed.
+47	Substantial_certainty_doctrine	89	The scenario helps to illustrate the definition of transnational child protection in a cohesive way.	There is no issue.	There is no issue.	There is no issue.
+48	Unaccompanied_minor	93	-	There is no issue.	The question is confusing.,There is no issue.	There is no issue.
+49	Unaccompanied_minor	93	nan	There is no issue.	There is no issue.	The question is confusing.,There is no right answer in the 4 candidates.,The reasoning given in the suggested answer is wrong or flawed.,Other issues not covered above
+50	Unaccompanied_minor	93	The story is well-written and structured so that it could be read easily by the average person.	There is no issue.	There is no issue.	There is no issue.
+51	Undue_hardship	95	The story would be good to explain the definition to kids but comes across a little too childish. Depends who you are looking at targeting with the story.	There is no issue.	There is no issue.	There is no issue.
+52	Undue_hardship	95	The story is pretty long to make a point and give an example. Could have been explained more compactly. 	There is no issue.	Other issues not covered above,There is no issue.	There is no issue.
+53	Undue_hardship	95	The story helps to provide relevant context to the definition.	There is no issue.	There is no issue.	The question is too easy and simple.
+54	Volenti_non_fit_injuria	99	The story and definition are well linked and the story is very effective.	There is no issue.	There is no issue.	There is no issue.
+55	Volenti_non_fit_injuria	99	It is good, not as clear as the other examples previously but still clear. 	There is no issue.	There is no issue.	There is no issue.
+56	Volenti_non_fit_injuria	99	The story would be interesting for individuals to read and follow-along in order to further learn about the definition provided.	There is no issue.	There is no issue.	There is no issue.
+57	Wrongdoing	100	I think the story is slightly flawed but I think still rate it as above due to the effectiveness/ clarity of the story. In the eyes of the court, even beginning to mix the batter or even to buy the ingredients, could be seen as preparation and attempt.	There is no issue.	There is no issue.	There is no issue.
+58	Wrongdoing	100	metaphor and example of baking is helpful.	There is no issue.	There is no issue.	There is no issue.
+59	Wrongdoing	100	The scenario helps to further define the concept of preparation and attempt. 	There is no issue.	There is no issue.	There is no issue.

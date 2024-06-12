@@ -1,0 +1,1135 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q86-readability-1,Q86-readability-2,Q86-relevance,Q86-redundancy,Q86-completeness,Q86-factuality,Q86-cohesiveness,Q86-likeability,Q86-believability,Q86-story-comments,Q86-q1-issues,Q86-q1-rating,Q86-q2-issues,Q86-q2-rating,Q86-q3-issues,Q86-q3-rating,Q87-readability-1,Q87-readability-2,Q87-relevance,Q87-redundancy,Q87-completeness,Q87-factuality,Q87-cohesiveness,Q87-likeability,Q87-believability,Q87-story-comments,Q87-q1-issues,Q87-q1-rating,Q87-q2-issues,Q87-q2-rating,Q87-q3-issues,Q87-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is the best description of the principle ""Pacta sunt servanda""?
+
+
+
+(A) It is a principle that states all contracts must be written in Latin.
+
+(B) It is a principle that states all agreements must be kept, and neglecting obligations is a violation of the contract.
+
+(C) It is a principle that states all contracts must be approved by a legal authority.
+
+(D) It is a principle that states all contracts must include a clause about potential violations.
+
+
+
+The right answer is (B). ""Pacta sunt servanda"" is a Latin phrase that means ""agreements must be kept"". It is a fundamental principle of law that prescribes that the provisions, i.e., clauses, of a contract are law between the parties to the contract, and therefore implies that neglect of their respective obligations is a violation of the contract.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Imagine a scenario where a renowned artist, Mr. A, signs a contract with a gallery owner, Mr. B, to display his artwork exclusively at Mr. B's gallery for a year. The contract clearly states that Mr. A cannot display his artwork at any other gallery during this period. However, six months into the contract, a more prestigious gallery, owned by Mr. C, offers Mr. A a significantly higher price to display his artwork. Mr. A is tempted by the offer and is considering breaking his contract with Mr. B to display his artwork at Mr. C's gallery. According to the principle of ""Pacta sunt servanda"", what is likely to happen next?
+
+
+
+(A) Mr. A will break his contract with Mr. B and display his artwork at Mr. C's gallery without any legal consequences.
+
+(B) Mr. A will break his contract with Mr. B and display his artwork at Mr. C's gallery, but he will face legal consequences for breaking the contract.
+
+(C) Mr. A will reject Mr. C's offer and continue to display his artwork at Mr. B's gallery, honoring the contract.
+
+(D) Mr. A will negotiate with Mr. B to modify the contract so he can display his artwork at Mr. C's gallery.
+
+
+
+The right answer is (C). According to the principle of ""Pacta sunt servanda"", agreements must be kept. Therefore, Mr. A should honor his contract with Mr. B and continue to display his artwork at Mr. B's gallery, despite the tempting offer from Mr. C. If Mr. A breaks his contract with Mr. B, he would be violating the principle of ""Pacta sunt servanda"" and could face legal consequences (option B). However, the principle prescribes that the provisions of a contract are law between the parties to the contract, implying that neglect of their respective obligations is a violation of the contract. Therefore, the most likely scenario, in accordance with this principle, is that Mr. A will honor his contract with Mr. B (option C).
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What could be a potential limitation or exception to the principle of ""Pacta sunt servanda""?
+
+
+
+(A) The contract was made under duress or coercion.
+
+(B) The contract involves an exchange of comic books.
+
+(C) The contract was made between friends.
+
+(D) The contract was not written down.
+
+
+
+The right answer is (A) The contract was made under duress or coercion. The principle of ""Pacta sunt servanda"" assumes that the contract was made freely and willingly by both parties. If one party was forced or coerced into the contract, this could be a potential limitation or exception to the rule. The other options do not necessarily limit or provide exceptions to the principle of ""Pacta sunt servanda"".
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following statements accurately describes the principle of ""Nulla poena sine culpa""?
+
+
+
+(A) A person can be punished for a crime committed by another person if they are associated with them.
+
+(B) A person can be punished for a crime even if they are not guilty, as long as there is circumstantial evidence.
+
+(C) A person cannot be punished for a crime if they are not guilty, and no one can be held responsible for the crimes committed by another person.
+
+(D) A person can be punished for a crime if they are not guilty, as long as the crime was committed in their property.
+
+
+
+The right answer is (C). The principle of ""Nulla poena sine culpa"" states that a person cannot be punished for a crime if they are not guilty, and no one can be held responsible for the crimes committed by another person. This principle is recognized as a human right and is a fundamental part of justice systems. The other options contradict this principle by suggesting that a person can be punished without being guilty or can be held responsible for another person's crime.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: In a bustling city named Lexville, a renowned artist named Alex was preparing for his grand art exhibition. One day, a priceless painting from the city's art museum went missing. The city's detective, noticing some paint splatters that matched Alex's unique paint mix near the museum, quickly accused Alex of the theft. However, Lexville was governed by a wise judge who believed in the principle of ""Nulla poena sine culpa."" The judge reminded the detective that they needed proof of Alex's guilt before punishing him. What could be the possible outcomes of this case?
+
+
+
+(A) Alex is found guilty and punished because his unique paint mix was found near the museum.
+
+(B) Alex is found guilty and punished because a friend of his was seen near the museum on the day of the theft.
+
+(C) Alex is not punished because it was discovered that a gust of wind blew the painting off the wall and a street kid picked it up, thinking it was a piece of discarded canvas.
+
+(D) Alex is punished because the painting was found in his studio, even though he had no knowledge of how it got there.
+
+
+
+The right answer is (C). According to the principle of ""Nulla poena sine culpa,"" no one should be punished if they are not guilty. In this case, Alex is not guilty because the painting was taken by a street kid due to an unforeseeable circumstance (a gust of wind), which is a case of force majeure. Options (A) and (B) are incorrect because mere suspicion or association with a suspect does not establish guilt. Option (D) is incorrect because even if the painting was found in Alex's studio, if he had no knowledge of it and did not participate in the theft, he cannot be held responsible for the crime.
+
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+Question: Which of the following scenarios would be a potential limitation or exception to the rule ""Nulla poena sine culpa""?
+
+
+
+(A) Ben is accused of theft because crumbs from his bakery were found near the jewelry store.
+
+(B) Ben's friend steals the necklace and hides it in Ben's bakery without his knowledge.
+
+(C) A strong wind blows the necklace out of the store and Ben picks it up, thinking it's a piece of shiny metal.
+
+(D) Ben is found guilty of stealing the necklace after a thorough investigation.
+
+
+
+The right answer is (C). According to the principle of ""Nulla poena sine culpa,"" a person cannot be punished if they are not guilty. However, there are exceptions to this rule, such as cases of force majeure or necessity. In option (C), Ben picks up the necklace blown by the wind, thinking it's a piece of shiny metal. This could be considered a case of force majeure, an unforeseeable circumstance that prevented someone from fulfilling a contract or duty. In such a case, Ben might not be held responsible for his actions, thus presenting a potential limitation or exception to the rule ""Nulla poena sine culpa.""
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following statements best describes the concept of ""Jurisprudence_constante""?
+
+
+
+(A) It is a legal doctrine that is based on a single court decision and is considered a primary source of law.
+
+(B) It is a legal doctrine that is based on a series of previous decisions applying a particular legal principle, but it is not controlling in subsequent cases.
+
+(C) It is a legal doctrine that guarantees the outcome of a case based on previous decisions.
+
+(D) It is a legal doctrine that is not recognized in civil law jurisdictions.
+
+
+
+The right answer is (B). ""Jurisprudence_constante"" is a legal doctrine that is based on a series of previous decisions applying a particular legal principle. However, it is not controlling in subsequent cases, meaning it does not dictate the outcome but serves as a persuasive guide. It is recognized in most civil law jurisdictions and certain mixed jurisdictions like Louisiana. It is not based on a single decision (as in A), it does not guarantee the outcome of a case (as in C), and it is recognized in civil law jurisdictions (contrary to D).
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: In a hypothetical scenario, a Louisiana court is dealing with a case involving a dispute over property rights. The court has a long series of previous decisions where a particular legal principle was applied consistently. However, there is also a single, more recent decision that contradicts this principle. The court is now deciding which principle to apply in the current case. What is the most likely outcome?
+
+
+
+(A) The court will apply the principle from the single, more recent decision because it is more relevant.
+
+(B) The court will apply the principle from the long series of previous decisions because of the doctrine of jurisprudence constante.
+
+(C) The court will disregard both the single decision and the series of decisions, and make a completely new ruling.
+
+(D) The court will combine the principles from the single decision and the series of decisions to create a new principle.
+
+
+
+The right answer is (B). According to the doctrine of jurisprudence constante, a long series of previous decisions applying a particular legal principle is highly persuasive in subsequent cases dealing with similar issues. However, it's important to note that in Louisiana, jurisprudence constante is considered a secondary source of law and is not authoritative. Therefore, while the court is likely to consider the series of decisions, it is not bound to follow them.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Jurisprudence_constante""?
+
+
+
+(A) It requires a single court decision to be valid.
+
+(B) It is considered a primary source of law in Louisiana.
+
+(C) It is binding and controls the outcome of the case.
+
+(D) It is not authoritative and does not have the same weight as ""stare decisis"" in Louisiana.
+
+
+
+The right answer is (D) It is not authoritative and does not have the same weight as ""stare decisis"" in Louisiana. The story and concept explanation both highlight that in Louisiana, ""Jurisprudence constante"" is considered a secondary source of law, which means it is not authoritative and does not carry the same weight as ""stare decisis"". This is a limitation of the rule ""Jurisprudence_constante"".
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is the best description of the legal doctrine ""Inevitable Disclosure""?
+
+
+
+(A) It is a rule that allows an employer to fire an employee if they suspect the employee might disclose trade secrets in the future.
+
+(B) It is a legal principle that allows an employer to prevent a former employee from working in a job that might result in the use of trade secrets, even without proof or evidence.
+
+(C) It is a law that requires an employer to provide evidence of a former employee's misconduct before they can prevent them from working in a similar job.
+
+(D) It is a legal doctrine that allows an employer to sue a former employee for disclosing trade secrets to a new employer.
+
+
+
+The right answer is (B). The concept of ""Inevitable Disclosure"" is a legal doctrine that allows an employer to prevent a former employee from working in a job that might result in the use of trade secrets, even without proof or evidence. It is not about firing an employee (A), requiring evidence of misconduct (C), or suing a former employee (D).
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Consider a scenario where a top software engineer from a leading tech company, known for its proprietary algorithm, decides to leave and join a direct competitor. The former employer is concerned that the engineer might share the proprietary algorithm with the new company, giving them an unfair advantage. The former employer decides to invoke the concept of 'inevitable disclosure'. What is the most likely outcome of this situation?
+
+
+
+(A) The court will require the former employer to provide concrete evidence of the engineer's intent to disclose the proprietary algorithm.
+
+(B) The court will allow the engineer to continue working at the new company, as there is no proof of any misconduct.
+
+(C) The court will prevent the engineer from working at the new company, even without any evidence of actual disclosure.
+
+(D) The court will ask the new company to ensure that the engineer does not work on any projects involving similar algorithms.
+
+
+
+The right answer is (C). The concept of 'inevitable disclosure' allows the court to prevent the engineer from working at the new company, even without any evidence of actual disclosure. This is because the doctrine is based on the prediction that the engineer, given his knowledge and the nature of his new job, is likely to disclose the proprietary information.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Inevitable disclosure""?
+
+
+
+(A) It allows an employer to stop a former employee from working at a new job without any proof of misconduct.
+
+(B) It is based on concrete evidence rather than a prediction of future harm.
+
+(C) It is universally accepted in all jurisdictions.
+
+(D) It is in line with the general principle that injunctive relief will not be given to prevent a conjectural injury.
+
+
+
+The right answer is (D). The rule of ""Inevitable disclosure"" is in tension with the general principle that injunctive relief will not be given to prevent a conjectural injury. This is because the rule is based on a prediction of future harm, rather than concrete evidence of misconduct.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+Question: What is the best description of the ""Equal Authenticity Rule"" in Canadian law?
+
+
+
+(A) It is a rule that states all laws must be written in both English and French.
+
+(B) It is a rule that states the French version of a law is more authoritative than the English version.
+
+(C) It is a rule that states the English version of a law is more authoritative than the French version.
+
+(D) It is a rule that states both English and French versions of a law are equally authoritative, and if they are incongruent, the courts will interpret the law considering the overall context.
+
+
+
+The right answer is (D). The ""Equal Authenticity Rule"" in Canadian law is a judicial interpretation method that treats both English and French versions of a law as equally authoritative. If there are discrepancies between the two versions, the courts will interpret the law in a way that makes sense and is fair, considering the overall context. This rule is derived from section 133 of the Constitution Act, 1867, reflecting Canada's bilingual nature.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: A new law regarding environmental protection is passed in Canada. The English version of the law states that companies must reduce their carbon emissions by 20% within the next five years. However, the French version of the law states that companies must reduce their carbon emissions by 25% within the next five years. A company that operates in both English and French-speaking regions of Canada is trying to determine how much they need to reduce their carbon emissions. What would likely happen under the equal authenticity rule?
+
+
+
+(A) The company would have to reduce their carbon emissions by 20% as stated in the English version of the law.
+
+(B) The company would have to reduce their carbon emissions by 25% as stated in the French version of the law.
+
+(C) The company would have to reduce their carbon emissions by 22.5%, the average of the two versions.
+
+(D) The courts would interpret the law considering the overall context and make a decision on the correct percentage.
+
+
+
+The right answer is (D). Under the equal authenticity rule, when there is a discrepancy between the English and French versions of a law, the courts would look at the overall law, consider the context, and interpret the law in a way that makes sense and is fair. Therefore, the courts would decide on the correct percentage of carbon emissions reduction required, taking into account the overall intent and context of the law.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the ""equal authenticity rule"" in Canadian law?
+
+
+
+(A) The rule only applies to laws written in English.
+
+(B) The rule does not apply when the English and French versions of a law are incongruent.
+
+(C) The rule does not ensure that both English and French versions of a law are treated with the same respect and authority.
+
+(D) The rule requires interpretation by the courts when the English and French versions of a law are incongruent.
+
+
+
+The right answer is (D) The rule requires interpretation by the courts when the English and French versions of a law are incongruent. This is a potential limitation or exception because it introduces an element of subjectivity and potential inconsistency into the interpretation of bilingual laws. The courts must look at the overall law, consider the context, and interpret the law in a way that makes sense and is fair, which may not always result in the same interpretation.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+Question: What is the correct description of the ""Exhausted_combination_doctrine""?
+
+
+
+(A) It is a doctrine that allows an inventor to patent a new device and its combination with a known device.
+
+(B) It is a doctrine that prevents an inventor from patenting a new device.
+
+(C) It is a doctrine that prevents an inventor from patenting the combination of a new device with a known device, if the combination operates in a conventional and predictable way.
+
+(D) It is a doctrine that is still in effect in the U.S. patent law.
+
+
+
+The right answer is (C). The ""Exhausted_combination_doctrine"" was a doctrine in U.S. patent law that prevented an inventor from patenting the combination of a new device with a known device, if the combination operates in a conventional and predictable way. This doctrine was explained in the Lincoln Engineering Co. v. Stewart-Warner Corp case, but was abrogated by the US Congress in 1952 with the passing of the 1952 Patent Act.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Suppose you're a creative inventor who has just developed a new, innovative type of solar panel. You're thrilled about your invention and want to patent it. However, you also want to patent the combination of your new solar panel with a conventional house roof. The house roof is a known, traditional structure, and your solar panel works with it in the same way that all other solar panels have worked with house roofs before. What would have been the outcome if you tried to patent this combination before the 1952 Patent Act was passed?
+
+
+
+(A) You would have been able to patent the combination because it's a new type of solar panel.
+
+(B) You would not have been able to patent the combination because of the exhausted combination doctrine.
+
+(C) You would have been able to patent the combination because the exhausted combination doctrine only applies to light bulbs and lamps.
+
+(D) You would not have been able to patent the combination because solar panels are not patentable.
+
+
+
+The right answer is (B). According to the exhausted combination doctrine, an inventor could not patent the combination of a new device with a known, conventional device if the new device cooperates with the conventional device in the conventional and predictable way. In this case, the new solar panel works with the house roof in the same way that all other solar panels have worked with house roofs before, so the combination would have been considered an ""exhausted"" or ""old"" combination and would not have been patentable.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the ""Exhausted_combination_doctrine""?
+
+
+
+(A) The doctrine does not apply to inventions that are not devices.
+
+(B) The doctrine does not apply if the combination of the new device and the known device results in a new, unexpected function.
+
+(C) The doctrine does not apply to combinations of two new, unobvious devices.
+
+(D) The doctrine does not apply if the new device does not cooperate with the known device in a conventional and predictable way.
+
+
+
+The right answer is (B). The exhausted combination doctrine would not apply if the combination of the new device and the known device results in a new, unexpected function. This is because the doctrine is based on the idea that the combination is unpatentable if it is an ""exhausted"" or ""old"" combination, meaning that the new device cooperates with the known device in the conventional and predictable way in which devices of those types have previously cooperated. If the combination results in a new, unexpected function, it would not be considered an ""exhausted"" or ""old"" combination.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following best describes the difference between 'preparation' and 'attempt' in criminal law, and how they are viewed by the courts?
+
+
+
+(A) Preparation and attempt are the same in criminal law, and both are viewed as having the same gravity as if the crime had occurred.
+
+(B) Preparation to commit a crime is viewed as having the same gravity as if the crime had occurred, but an attempt is not.
+
+(C) An attempt to commit a crime is viewed as having the same gravity as if the crime had occurred, but preparation that falls short of an attempt is not.
+
+(D) Neither preparation nor attempt to commit a crime is viewed as having the same gravity as if the crime had occurred.
+
+
+
+The right answer is (C). According to the concept, an attempt to commit a crime is viewed as having the same gravity as if the crime had occurred. However, preparation that falls short of an actual attempt is not viewed in the same light, although it may still be punishable in some way. The challenge for the courts is to determine when preparation becomes an attempt, and they use various tests to make this determination.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: John, a known criminal, has been under surveillance by the police for a while. One day, they observe him purchasing a ski mask, gloves, and a crowbar. Later, they see him studying the layout of a local bank and taking notes. He then drives to the bank, parks his car nearby, and puts on the ski mask and gloves. Just as he is about to exit his car with the crowbar, the police swoop in and arrest him. In the context of criminal law, which of the following best describes John's actions?
+
+
+
+(A) John was merely preparing to commit a crime, but did not actually attempt it.
+
+(B) John attempted to commit a crime, and his actions are as serious as if he had committed the crime.
+
+(C) John neither prepared for nor attempted to commit a crime.
+
+(D) John's actions cannot be classified as either preparation or attempt without further information.
+
+
+
+The right answer is (B) John attempted to commit a crime, and his actions are as serious as if he had committed the crime. Explanation: According to the Model Penal Code, an action is considered an attempt when there is a 'substantial step' towards committing the crime, along with a criminal intent. In this case, John not only prepared for the crime by purchasing the necessary items and studying the bank layout, but he also took a substantial step towards committing the crime by driving to the bank, parking nearby, and putting on the ski mask and gloves. Therefore, his actions can be classified as an attempt to commit a crime.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: According to the concept of ""Preparation_and_attempt"" in criminal law, which of the following scenarios would most likely be considered an 'attempt' rather than just 'preparation'?
+
+
+
+(A) A person buys a mask and gloves, potentially to be used in a robbery.
+
+(B) A person researches how to make a bomb, but does not gather any materials.
+
+(C) A person mixes ingredients for a poison, but does not administer it to anyone.
+
+(D) A person writes a plan for a bank robbery, but does not take any further action.
+
+
+
+The right answer is (C). According to the Model Penal Code, an action is considered an attempt when there is a 'substantial step' towards committing the crime, along with a criminal intent. In this case, mixing ingredients for a poison could be seen as a 'substantial step' towards committing a crime, even if the poison was not administered. The other options (A, B, and D) are more akin to 'preparation' as they lack a substantial step towards the actual commission of a crime.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2206""}","{""ImportId"":""QID2208""}","{""ImportId"":""QID2209""}","{""ImportId"":""QID2210""}","{""ImportId"":""QID2211""}","{""ImportId"":""QID2212""}","{""ImportId"":""QID2213""}","{""ImportId"":""QID2214""}","{""ImportId"":""QID2215""}","{""ImportId"":""QID2216_TEXT""}","{""ImportId"":""QID2217""}","{""ImportId"":""QID2218""}","{""ImportId"":""QID2219""}","{""ImportId"":""QID2220""}","{""ImportId"":""QID2221""}","{""ImportId"":""QID2222""}","{""ImportId"":""QID2224""}","{""ImportId"":""QID2226""}","{""ImportId"":""QID2227""}","{""ImportId"":""QID2228""}","{""ImportId"":""QID2229""}","{""ImportId"":""QID2230""}","{""ImportId"":""QID2231""}","{""ImportId"":""QID2232""}","{""ImportId"":""QID2233""}","{""ImportId"":""QID2234_TEXT""}","{""ImportId"":""QID2235""}","{""ImportId"":""QID2236""}","{""ImportId"":""QID2237""}","{""ImportId"":""QID2238""}","{""ImportId"":""QID2239""}","{""ImportId"":""QID2240""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+10/28/23 12:49,10/28/23 13:28,IP Address,*******,99,2322,FALSE,10/30/23 16:25,R_2v5EJp9LqXN3QN2,*******,*******,*******,*******,*******,*******,anonymous,EN,0.8999999761581421,5a3bbcac94507d00013f965f,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Male,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,3,5,5,5,4,5,5,4,5,I think the story does justice to the definition. The definition appears to be badly written but the story makes up for this.,There is no issue.,5,"There are more than one right answers in the 4 candidates.,There is no issue.",4,There is no issue.,5,5,5,4,4,5,5,5,2,3,The story would be good to explain the definition to kids but comes across a little too childish. Depends who you are looking at targeting with the story.,There is no issue.,5,There is no issue.,5,There is no issue.,5,4,5,5,5,5,5,5,5,5,"I enjoyed the specific reference to Louisiana and how, in this state, the definition is applied differently. Thoroughly enjoyed this story",There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,5,5,5,5,5,5,I found this definition to be slightly contradictive but found that the story addressed this and explained it in a plain way.,"The question is confusing.,There is no issue.",5,There are more than one right answers in the 4 candidates.,4,There is no issue.,5,5,5,5,5,5,5,5,5,5,Clever story and makes the definition clear.,There is no issue.,5,There is no issue.,4,There is no issue.,5,4,5,5,5,5,5,5,5,5,The story and definition are well linked and the story is very effective.,There is no issue.,5,There is no issue.,5,There is no issue.,5,3,5,5,5,5,5,5,5,5,"I think the story is slightly flawed but I think still rate it as above due to the effectiveness/ clarity of the story. In the eyes of the court, even beginning to mix the batter or even to buy the ingredients, could be seen as preparation and attempt.",There is no issue.,5,There is no issue.,5,There is no issue.,5,A short video setting out the story would bring it to life,Additional and optional feedback boxes after the three questions,5a3bbcac94507d00013f965f,653d363ef6e66ef8541b8b67,653d57a93e98a760a25683d5
+10/28/23 11:37,10/28/23 12:50,IP Address,*******,99,4374,FALSE,10/30/23 16:25,R_2ZCRJEBZgmfS7FB,*******,*******,*******,*******,*******,*******,anonymous,EN,1,6447e560a1331745c679a03b,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Native/bilingual,18-24 years old,Female,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,4,5,5,4,5,4,5,5,5,Easy to follow and understand the concept. ,There is no issue.,5,There is no issue.,4,There is no issue.,4,5,4,3,2,4,3,4,3,4,The story is pretty long to make a point and give an example. Could have been explained more compactly. ,There is no issue.,5,"Other issues not covered above,There is no issue.",3,There is no issue.,3,3,4,5,5,5,4,5,5,4,The story helped understand the concept well. Was really helpful. ,There is no issue.,5,There is no issue.,5,There is no issue.,4,4,5,5,4,5,5,5,5,5,"Great story, super clear and helpful layout the doctrine. ",There is no issue.,5,There is no issue.,5,"The question is confusing.,There are more than one right answers in the 4 candidates.",3,4,5,5,4,5,4,5,5,5,Reads well.,There is no issue.,4,There is no issue.,5,There is no issue.,4,4,4,4,4,4,4,4,4,5,"It is good, not as clear as the other examples previously but still clear. ",There is no issue.,5,There is no issue.,4,There is no issue.,4,3,4,4,3,4,4,3,4,4,metaphor and example of baking is helpful.,There is no issue.,4,There is no issue.,5,There is no issue.,5,It was really good already. I felt I could evaluate each thing easily and express it well with what was provided. ,It was really easy to complete task and express my opinion and understanding. Could not have made to easier. ,6447e560a1331745c679a03b,653d363ef6e66ef8541b8b67,653d46e756d0c6e9e2156bd6
+10/28/23 12:37,10/28/23 13:07,IP Address,*******,99,1772,FALSE,10/30/23 16:25,R_3IQttlhJjq82nmE,*******,*******,*******,*******,*******,*******,anonymous,EN,0.8999999761581421,652fe805e19cd8c9d83c1456,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Computer software, computer hardware, information technology, telecommunications",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Female,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,5,5,4,4,4,4,4,4,5,The story is written in a cohesive and easy to follow manner.,There is no issue.,4,There is no issue.,4,There is no issue.,4,5,4,4,5,4,4,4,4,4,The story helps to provide relevant context to the definition.,There is no issue.,4,There is no issue.,4,The question is too easy and simple.,4,5,4,4,4,4,4,4,4,4,The story helps to further highlight the definition of 'jurisprudence constante'. ,There is no issue.,4,There is no issue.,,The question is too easy and simple.,4,5,4,5,4,4,4,4,4,4,The story helps to explain the concept of inevitable disclosure through a cohesive scenario. ,There is no issue.,4,There is no issue.,4,There is no issue.,4,5,4,4,4,4,4,4,4,4,The story is easy to read and helpful at explaining the concept of the equal authenticity rule.,There is no issue.,4,There is no issue.,4,There is no issue.,4,4,5,5,4,4,4,5,4,4,The story would be interesting for individuals to read and follow-along in order to further learn about the definition provided.,There is no issue.,4,There is no issue.,4,There is no issue.,4,4,4,4,4,4,4,4,5,4,The scenario helps to further define the concept of preparation and attempt. ,There is no issue.,4,There is no issue.,4,There is no issue.,4,"By changing the font colour darker, it would be easier for people to read the text.",,652fe805e19cd8c9d83c1456,653d363ef6e66ef8541b8b67,653d53bf567a2b8391a55f13

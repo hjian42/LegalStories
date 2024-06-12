@@ -1,0 +1,722 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following statements accurately describes the independent source doctrine in US law?
+
+
+
+(A) The independent source doctrine allows evidence obtained from an illegal search to be used in court, regardless of how it was later obtained.
+
+(B) The independent source doctrine prohibits the use of any evidence initially discovered during an unlawful search, even if it was later obtained independently.
+
+(C) The independent source doctrine allows evidence initially discovered during an unlawful search to be used in court if it was later obtained independently from activities untainted by the initial illegality.
+
+(D) The independent source doctrine allows evidence obtained from an illegal search to be used in court only if it was used to get a warrant.
+
+
+
+The right answer is (C). The independent source doctrine allows evidence initially discovered during an unlawful search to be used in court if it was later obtained independently from activities untainted by the initial illegality. This doctrine is an exception to the exclusionary rule, which generally prohibits the use of evidence obtained through illegal searches. However, the doctrine does not apply if the decision to seek a warrant was influenced by the illegal search, or if information from the illegal search was used to get the warrant.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+Question: In a hypothetical scenario, Detective Smith is investigating a series of burglaries. During his investigation, he illegally enters a suspect's home without a warrant and finds a stolen necklace. Realizing his mistake, he leaves without taking the necklace. Later, a neighbor reports seeing the suspect with the stolen necklace. Based on this tip, Detective Smith obtains a warrant and legally seizes the necklace. In court, the defense argues that the necklace should be excluded from evidence due to the initial illegal search. How should the court rule?
+
+
+
+(A) The court should exclude the necklace from evidence because it was initially discovered during an illegal search.
+
+(B) The court should allow the necklace as evidence because it was later obtained independently from activities untainted by the initial illegality.
+
+(C) The court should exclude the necklace from evidence because the decision to seek the warrant was influenced by the initial illegal search.
+
+(D) The court should allow the necklace as evidence because the initial illegal search did not affect the decision to issue the warrant.
+
+
+
+The right answer is (B). The necklace should be allowed as evidence because it was later obtained independently from activities untainted by the initial illegality. According to the independent source doctrine, even if evidence is first found during an illegal search, it can still be used if it's later found independently in a way that's not related to the initial illegal search. In this case, the necklace was later found independently based on a tip from a neighbor, not as a result of the initial illegal search.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+Question: According to the independent source doctrine, under which circumstance can the doctrine NOT be applied?
+
+
+
+(A) If the evidence was initially discovered during an unlawful search but later obtained independently from activities untainted by the initial illegality.
+
+(B) If the agents' decision to seek the warrant was prompted by what they had seen during the initial entry.
+
+(C) If the evidence was obtained independently without any influence from the initial illegal search.
+
+(D) If the evidence was first found during an illegal search but later found independently in a way that's not related to the initial illegal search.
+
+
+
+The right answer is (B). According to the independent source doctrine, the doctrine cannot be applied if the agents' decision to seek the warrant was prompted by what they had seen during the initial entry. This means that if the decision to look for evidence was influenced by the illegal search, the doctrine cannot be used.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following best describes the concept of nonacquiescence in law?
+
+
+
+(A) It is the intentional compliance by one branch of the government with the decision of another.
+
+(B) It is the intentional failure by one branch of the government to comply with the decision of another to some degree.
+
+(C) It is the intentional failure by one branch of the government to make decisions.
+
+(D) It is the intentional compliance by one branch of the government with the decisions of all other branches.
+
+
+
+The right answer is (B). Nonacquiescence refers to the intentional failure by one branch of the government to comply with the decision of another to some degree. This usually happens in governments where the powers are clearly divided, like in the United States. For example, a federal agency might not agree with a decision made by a court and decide not to follow it. This can lead to a constitutional crisis and has been criticized by federal courts and the American Bar Association.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+Question: The Environmental Protection Agency (EPA), a federal agency in the United States, has been ordered by a court ruling to implement stricter regulations on a certain type of industrial pollution. However, the EPA disagrees with the court's decision, believing it to be overly harsh and potentially damaging to the economy. What might be the outcome of this situation if the EPA decides to practice nonacquiescence?
+
+
+(A) The EPA will implement the stricter regulations nationwide as per the court's decision.
+
+(B) The EPA will refuse to implement the stricter regulations anywhere in the country.
+
+(C) The EPA will implement the stricter regulations only within the jurisdiction of the court that made the ruling, but not in other jurisdictions.
+
+(D) The EPA will ask the court to reconsider its decision.
+
+
+
+The right answer is (C). If the EPA practices nonacquiescence, it might choose to implement the court's decision only within the jurisdiction of the court that made the ruling, but not apply it in other jurisdictions. This is similar to the example given in the story where the IRS might choose to follow a court's decision only in the area where the court case happened, but not in other areas.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Nonacquiescence"" as practiced by the U.S. Internal Revenue Service (IRS)?
+
+
+
+(A) The IRS always follows the court's decision nationwide, regardless of their disagreement.
+
+(B) The IRS may follow the court's decision within the jurisdiction of the case in question, but not apply it in other jurisdictions.
+
+(C) The IRS never follows any court's decision if they disagree with it.
+
+(D) The IRS can decide not to collect taxes based on their disagreement with a court's decision.
+
+
+
+The right answer is (B) The IRS may follow the court's decision within the jurisdiction of the case in question, but not apply it in other jurisdictions. This is because, in some cases of nonacquiescence, the IRS may choose to follow the decision's precedent within the jurisdiction where the case occurred, but not apply it in other jurisdictions. This is a limitation or exception to the rule of nonacquiescence as practiced by the IRS.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: Which of the following best describes the concept of ""Wrongdoing""?
+
+
+
+(A) It is only related to actions that are against the law.
+
+(B) It is only related to actions that are considered unethical but not necessarily illegal.
+
+(C) It refers to actions that are either against the law or against what most people think is right.
+
+(D) It refers to actions that are both against the law and against what most people think is right.
+
+
+
+The right answer is (C). The concept of ""Wrongdoing"" encompasses both legal wrongs, which are actions against the law, and moral wrongs, which are actions against what most people consider right. While some actions can be both legal and moral wrongs, not all wrongdoings fall into both categories. For example, getting a parking ticket is a legal wrong but not necessarily a moral one.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: In a bustling city, a man named John is known for his strict adherence to the law. One day, he finds a wallet on the street filled with cash and no identification. He decides to keep the money for himself. Later that day, he parks his car in a no-parking zone and receives a ticket. Which of the following best describes the end of this story?
+
+
+
+(A) John committed a legal wrong by keeping the wallet, but not a moral wrong. He also committed a legal wrong by parking in a no-parking zone.
+
+(B) John committed a moral wrong by keeping the wallet, but not a legal wrong. He also committed a legal wrong by parking in a no-parking zone.
+
+(C) John committed both a legal and moral wrong by keeping the wallet and by parking in a no-parking zone.
+
+(D) John committed neither a legal nor a moral wrong by keeping the wallet, but he did commit a legal wrong by parking in a no-parking zone.
+
+
+
+The right answer is (B). John committed a moral wrong by keeping the wallet, but not a legal wrong. This is because most people would agree that keeping a lost wallet is unethical, but it's not necessarily illegal if there's no way to identify the owner. However, parking in a no-parking zone is a legal wrong, as it's clearly defined by law, even though it might not be considered a moral wrong.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following best describes a potential limitation or exception of the rule ""Wrongdoing""?
+
+
+
+(A) All legal wrongs are also moral wrongs.
+
+(B) All moral wrongs are also legal wrongs.
+
+(C) All wrongdoings are punishable by law.
+
+(D) Some legal wrongs might not be considered moral wrongs.
+
+
+
+The right answer is (D) Some legal wrongs might not be considered moral wrongs. The concept and story explain that not all legal wrongs, such as parking offences, are considered moral wrongs. This is an exception to the rule of wrongdoing, as it shows that the categories of legal and moral wrongs do not always overlap.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following best describes the concept of comparative negligence?
+
+
+
+(A) It is a legal defense that completely absolves a defendant from any damages if the plaintiff was even minimally at fault.
+
+(B) It is a legal defense that reduces the amount of damages a plaintiff can recover based on the degree to which the plaintiff's own negligence contributed to the injury.
+
+(C) It is a legal defense that requires the defendant to pay all damages regardless of the plaintiff's contribution to the injury.
+
+(D) It is a legal defense that increases the amount of damages a plaintiff can recover based on the degree to which the defendant's negligence contributed to the injury.
+
+
+
+The right answer is (B). Comparative negligence is a partial legal defense that reduces the amount of damages a plaintiff can recover in a negligence-based claim, based on the degree to which the plaintiff's own negligence contributed to the injury. This concept allows for the distribution of fault between both parties involved in an incident, rather than placing all the blame on one party.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Imagine you are driving on a rainy night and your car skids off the road, hitting a tree and causing significant damage to your vehicle. You decide to sue the city for not maintaining the roads properly. However, the city argues that you were also at fault because you were driving too fast for the conditions. In a court case, the jury decides that the city was 60% at fault for not maintaining the roads, but you were 40% at fault for driving too fast. How would the concept of comparative negligence affect the amount of damages you can recover?
+
+
+
+(A) You would recover 100% of the damages because the city was more at fault.
+
+(B) You would recover 60% of the damages because the city was 60% at fault.
+
+(C) You would recover 40% of the damages because you were 40% at fault.
+
+(D) You would not recover any damages because you were also at fault.
+
+
+
+The right answer is (B). According to the concept of comparative negligence, the amount of damages a plaintiff can recover is reduced based on the degree to which their own negligence contributed to the incident. In this case, the jury decided that you were 40% at fault, so you would only be able to recover 60% of the damages.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Comparative Negligence""?
+
+
+
+(A) The plaintiff can recover full damages regardless of their contribution to the incident.
+
+(B) The plaintiff cannot recover any damages if they were even slightly at fault.
+
+(C) The defendant is always considered 100% at fault.
+
+(D) The plaintiff's recovery may be reduced based on their contribution to the incident.
+
+
+
+The right answer is (D) The plaintiff's recovery may be reduced based on their contribution to the incident. This is because the concept of comparative negligence reduces the amount of damages a person can recover based on how much their own negligence contributed to the incident.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+Question: Which of the following best describes the concept of ""prosecutorial discretion""?
+
+
+
+(A) It is a principle that mandates prosecutors to charge a person for every known crime, regardless of its severity.
+
+(B) It is a principle that allows public prosecutors to decide whether or not to charge a person for a crime, and which charges to file.
+
+(C) It is a principle that only applies in countries like The Netherlands, Germany, Sweden, Slovenia, and France.
+
+(D) It is a principle that considers the cancellation of the prosecution of a known felony as a felony itself.
+
+
+
+The right answer is (B). The concept of ""prosecutorial discretion"" refers to the wide latitude given to public prosecutors to decide whether or not to charge a person for a crime, and which charges to file. This principle is common in countries like the United States, Canada, and the United Kingdom. Options (A), (C), and (D) describe concepts related to compulsory prosecution and the principle of opportunity, which are different from prosecutorial discretion.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+Question: In a hypothetical scenario, a public prosecutor in the United States is presented with a case where a teenager has been caught shoplifting for the first time. The teenager has no prior criminal record and has shown remorse for his actions. The prosecutor must decide how to proceed with the case. What might be the outcome of this scenario, considering the concept of prosecutorial discretion?
+
+
+
+(A) The prosecutor must charge the teenager with theft, regardless of the circumstances, due to the principle of compulsory prosecution.
+
+(B) The prosecutor decides not to charge the teenager, considering his age, remorse, and lack of criminal record.
+
+(C) The prosecutor is obligated to follow a set of guidelines provided by the law to decide whether to charge the teenager or not.
+
+(D) The prosecutor charges the teenager with a more serious crime to set an example for other potential shoplifters.
+
+
+
+The right answer is (B). In the United States, the concept of prosecutorial discretion allows the prosecutor to decide whether or not to charge someone with a crime, and what charges to bring against them. In this scenario, considering the teenager's age, remorse, and lack of criminal record, the prosecutor might decide not to charge him. This is an example of prosecutorial discretion. Options (A) and (C) are incorrect because they describe the principle of compulsory prosecution and the principle of opportunity, respectively, which are not practiced in the United States. Option (D) is unlikely as it doesn't align with the concept of prosecutorial discretion, which involves considering the circumstances of each case individually.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Prosecutorial discretion""?
+
+
+
+(A) In countries that recognize the principle of opportunity, a prosecutor must always charge someone with a crime if they know about it.
+
+(B) In countries that do not recognize the principle of opportunity, a prosecutor can decide not to charge someone with a crime if they believe there's not enough evidence.
+
+(C) In countries that do not recognize the principle of opportunity, the cancellation of the prosecution of a known felony can itself be considered a felony.
+
+(D) In countries that recognize the principle of opportunity, a prosecutor can decide to charge someone with a crime even if they believe there's not enough evidence.
+
+
+
+The right answer is (C) In countries that do not recognize the principle of opportunity, the cancellation of the prosecution of a known felony can itself be considered a felony. The story explains that in countries that do not recognize the principle of opportunity, which is similar to prosecutorial discretion, compulsory prosecution applies. This means that if a prosecutor knows about a serious crime and decides not to prosecute, that can itself be considered a crime. This is a limitation or exception to the rule of prosecutorial discretion.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+2023-10-26 18:48:50,2023-10-26 19:05:03,IP Address,*******,100,972,True,2023-10-26 19:05:04,R_1ruHshKX5tgOJEi,*******,*******,*******,*******,*******,*******,anonymous,EN,1,63cdf894c118ad4f84489c1a,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Business, finance, accounting, marketing, economics",,"Business, finance, accounting, marketing, economics",,Native/bilingual,45-54 years old,Male,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,5,5,5,5,5,5,5,5,5,this is a good story. it really explains the independent source doctrine.,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,5,5,5,5,5,5,the story is interesting and further explains the concept easily,There is no issue.,5,There is no issue.,4,There is no issue.,4,5,5,5,5,5,5,5,5,5,the story helps explain and simplify the concept of wrongdoing better.,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,5,5,5,5,5,5,N/A,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,5,5,5,5,5,5,this story really defines and explains the concept better,There is no issue.,5,There is no issue.,5,There is no issue.,5,I think this is great. a feature of relativity or relatability will be good.,I enjoyed reading the stories in this survey,63cdf894c118ad4f84489c1a,653ade1d43ed48da022dc896,653b08ebcd6c23b2c4a326e1
+2023-10-26 18:33:14,2023-10-26 18:55:23,IP Address,*******,98,1328,False,2023-10-30 16:14:35,R_2EGgr1KsTQuAUAj,*******,*******,*******,*******,*******,*******,anonymous,EN,0.8999999761581421,5f6912baefd1c50f7f3b83f7,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Male,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,2,4,4,4,5,5,3,3,5,,There is no issue.,5,There are more than one right answers in the 4 candidates.,5,There is no issue.,5,4,4,4,5,4,5,5,4,3,,There is no issue.,5,There are more than one right answers in the 4 candidates.,4,There is no issue.,5,3,5,5,5,5,5,5,4,5,,There is no issue.,5,"The question is confusing.,There is no right answer in the 4 candidates.",1,There is no issue.,4,4,5,4,5,5,5,5,3,2,,There is no issue.,5,The question is too easy and simple.,3,Other issues not covered above,1,4,4,5,5,4,5,5,3,5,,There is no issue.,5,The question is confusing.,2,There is no issue.,4,,,5f6912baefd1c50f7f3b83f7,653ade1d43ed48da022dc896,653b0538c84236b7b9595d48
+2023-10-26 17:54:02,2023-10-26 18:27:00,IP Address,*******,98,1977,False,2023-10-30 16:14:37,R_XXtY9ufRwmmAr0l,*******,*******,*******,*******,*******,*******,anonymous,EN,1,56896501d3d6a7000ca23da8,Some knowledge – I have some experience in law,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Female,,"Some college, but no degree",,e h l l o,3,5,5,1,5,5,5,5,5,None,There is no issue.,5,There is no issue.,5,There is no issue.,5,4,5,5,1,5,5,5,5,5,None,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,1,5,5,5,5,5,None,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,1,5,5,5,5,5,None,There is no issue.,5,There is no issue.,5,There is no issue.,5,3,5,5,1,5,5,5,5,5,None,There is no issue.,5,There is no issue.,5,There is no issue.,5,Perfect as is,N/A,56896501d3d6a7000ca23da8,653ade1d43ed48da022dc896,653afc1495d02bab52ada829

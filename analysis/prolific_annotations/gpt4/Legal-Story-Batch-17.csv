@@ -1,0 +1,774 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following best describes the concept of ""Unconscionability"" in contract law?
+
+
+
+(A) It refers to a contract that is written in a language that one party does not understand.
+
+(B) It refers to a contract that is so unjust or one-sided in favor of the party with superior bargaining power that it is against good conscience.
+
+(C) It refers to a contract that is not signed by both parties.
+
+(D) It refers to a contract that is not legally binding because it involves illegal activities.
+
+
+
+The right answer is (B). Unconscionability in contract law refers to terms that are so extremely unjust, or overwhelmingly one-sided in favor of the party who has the superior bargaining power, that they are contrary to good conscience. This concept is used to protect the less powerful party from being taken advantage of, by making such contracts unenforceable.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Imagine you're a small business owner who needs a loan to expand your business. You approach a large bank for a loan. The bank agrees to give you the loan, but the terms are extremely unfavorable. The interest rate is exorbitantly high, the repayment period is very short, and there are severe penalties for late payments. The bank knows you're desperate and have no other options, so they pressure you into signing the contract. You sign the contract without fully understanding the terms. Later, you realize that the terms of the loan are so unfair that you have no real chance of repaying it without going bankrupt. What is the most likely outcome if you take this case to court?
+
+
+
+(A) The court will enforce the contract because you signed it willingly.
+
+(B) The court will enforce the contract because the bank has the right to set the terms of the loan.
+
+(C) The court will not enforce the contract because it is unconscionable.
+
+(D) The court will not enforce the contract because the bank pressured you into signing it.
+
+
+
+The right answer is (C). The court will not enforce the contract because it is unconscionable. The concept of unconscionability in contract law refers to contracts that are so unjust or overwhelmingly one-sided in favor of the party with superior bargaining power that they are contrary to good conscience. In this case, the bank, which has superior bargaining power, has set the terms of the loan in such a way that the small business owner has no real chance of repaying it without going bankrupt. This makes the contract unconscionable, and therefore, the court is likely to rule it unenforceable.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception to the rule of ""Unconscionability"" in contract law?
+
+
+
+(A) The rule of unconscionability only applies if the party with superior bargaining power intentionally created an unfair contract.
+
+(B) The rule of unconscionability does not apply if the disadvantaged party had a lawyer present during the contract negotiation.
+
+(C) The rule of unconscionability only applies if the disadvantaged party can prove they were coerced into signing the contract.
+
+(D) The rule of unconscionability does not apply if the disadvantaged party had a chance to read the contract before signing it.
+
+
+
+The right answer is (D). The rule of unconscionability does not apply if the disadvantaged party had a chance to read the contract before signing it. This is because the doctrine of unconscionability is designed to protect parties who are at a severe disadvantage in bargaining power and who are presented with contracts that they have little choice but to accept. If a party had a chance to read the contract and still agreed to its terms, the court may find that the contract is not unconscionable, even if the terms are heavily skewed in favor of the other party.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following best describes the concept of ""in loco parentis""?
+
+
+
+(A) It is a Latin term meaning ""in the place of a parent"" and refers to the legal responsibility of a person or organization to take on some of the functions and responsibilities of a parent.
+
+(B) It is a Latin term meaning ""in the place of a parent"" and refers to the legal responsibility of a person or organization to take on all the functions and responsibilities of a parent.
+
+(C) It is a Latin term meaning ""in the place of a parent"" and refers to the legal responsibility of a person or organization to take on some of the functions and responsibilities of a parent, including violating the students' civil liberties.
+
+(D) It is a Latin term meaning ""in the place of a parent"" and refers to the legal responsibility of a person or organization to take on some of the functions and responsibilities of a parent, but it is the same as the ""parens patriae"" doctrine, the psychological parent doctrine, and adoption.
+
+
+
+The right answer is (A). ""In loco parentis"" is a Latin term meaning ""in the place of a parent"" and refers to the legal responsibility of a person or organization to take on some of the functions and responsibilities of a parent. It does not mean taking on all responsibilities, nor does it allow for violations of civil liberties. It is also distinct from other legal concepts related to parenting, such as the ""parens patriae"" doctrine, the psychological parent doctrine, and adoption.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+Question: A couple, John and Jane, have been living together for several years. Jane has a daughter, Lily, from a previous relationship. John has been acting as a father to Lily, taking her to school, helping with homework, and attending parent-teacher meetings. Lily's biological father is not involved in her life. One day, Lily gets into a serious accident at school and needs immediate medical attention. The school contacts John as he is the primary contact listed. John rushes to the hospital and is asked to make a critical decision regarding Lily's treatment. In this scenario, what is the most likely outcome?
+
+
+
+(A) John is unable to make the decision because he is not Lily's biological father.
+
+(B) John is able to make the decision because he is acting in loco parentis.
+
+(C) The school is held responsible for Lily's accident and has to make the decision.
+
+(D) The hospital refuses to treat Lily until her biological father is contacted.
+
+
+
+The right answer is (B). John is able to make the decision because he is acting in loco parentis. The concept of in loco parentis applies to someone who isn't a biological parent but has acted like one. In this case, John has been acting as a father to Lily, even though he's not biologically related, he might be able to exercise the legal rights and responsibilities of a parent.
+
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""In_loco_parentis""?
+
+
+
+(A) A person acting in loco parentis can make decisions that violate the civil liberties of the child.
+
+(B) A person acting in loco parentis can only be a biological parent.
+
+(C) A person acting in loco parentis can only be a legal guardian or adoptive parent.
+
+(D) A person acting in loco parentis cannot exercise the legal rights and responsibilities of a biological parent.
+
+
+
+The right answer is (A). The concept of ""in loco parentis"" allows a person or institution to take on some of the functions and responsibilities of a parent, but it does not permit actions that would be considered violations of the child's or student's civil liberties.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+Question: What is the best description of the concept ""Maxwellisation""?
+
+
+
+(A) It is a legal practice that allows anyone who is praised in an official report to respond prior to publication.
+
+(B) It is a legal practice in English and Scots law that allows anyone who is criticised in an official report to respond prior to publication.
+
+(C) It is a legal practice that allows anyone who is criticised in an official report to respond after publication.
+
+(D) It is a legal practice that allows anyone who is praised in an official report to respond after publication.
+
+
+
+The right answer is (B). Maxwellisation is a legal practice in English and Scots law that allows anyone who is criticised in an official report to respond prior to publication. This practice was named after Robert Maxwell, who took the Department of Trade and Industry to court after being criticised in their report. To prevent similar situations, the law was changed to allow those criticised in official reports to see and respond to the report before it is published.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+Question: Imagine you are a high-ranking executive at a large corporation. The Financial Conduct Authority (FCA) has conducted an investigation into your company's financial practices and found some irregularities. They have prepared a report that criticizes your role in the company's financial mismanagement. According to the concept of Maxwellisation, what would likely happen next?
+
+
+
+(A) The FCA would immediately publish the report without giving you a chance to respond.
+
+(B) The FCA would give you a copy of the report and allow you to respond to the criticisms before it is published.
+
+(C) The FCA would alter the report to remove any criticisms of you before it is published.
+
+(D) The FCA would take the matter to court without giving you a chance to respond.
+
+
+
+The right answer is (B). According to the concept of Maxwellisation, anyone who is criticized in an official report is given the opportunity to respond prior to the report's publication. This means that the FCA would provide you with the details of the criticism in advance, allowing you to respond before the report is made public. This process is designed to ensure fairness and prevent damage to reputations based on unchallenged criticisms.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What could be a potential limitation or exception of the Maxwellisation process?
+
+
+
+(A) The criticised party does not have the right to see the report before it is published.
+
+(B) The criticised party can alter the content of the report.
+
+(C) The criticised party may not have enough time or resources to respond effectively.
+
+(D) The criticised party can sue the author of the report for defamation.
+
+
+
+The right answer is (C). The Maxwellisation process allows the criticised party to see and respond to the report before it is published. However, depending on the complexity of the report and the resources available to the criticised party, they may not have enough time or resources to respond effectively. This could potentially limit the effectiveness of the Maxwellisation process. Options (A), (B), and (D) are incorrect as they do not accurately represent the process or potential limitations of Maxwellisation.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following best describes the concept of ""Negligence""?
+
+
+
+(A) Negligence is a deliberate act to harm another person or property.
+
+(B) Negligence is a failure to exercise appropriate care expected in certain circumstances, potentially causing harm to others or property.
+
+(C) Negligence is a legal term for any kind of physical injury.
+
+(D) Negligence is a legal term for any kind of economic loss.
+
+
+
+The right answer is (B). Negligence is a failure to exercise appropriate care expected in certain circumstances, potentially causing harm to others or property. It involves a person's failure to act with the level of care that someone of ordinary prudence would have exercised under the same circumstances. The behavior usually consists of actions, but can also consist of omissions when there is some duty to act.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Imagine you're at a construction site. The site manager, Mr. Smith, is responsible for ensuring all safety measures are in place. One day, he forgets to check the stability of a scaffolding structure. A worker, Mr. Johnson, climbs up the scaffolding to perform his duties and the structure collapses, causing Mr. Johnson to fall and break his leg. He has to pay for medical treatment and is unable to work for several months. Based on the concept of negligence, what could be the potential outcome of this situation?
+
+
+
+(A) Mr. Johnson cannot sue anyone because accidents happen at construction sites.
+
+(B) Mr. Johnson can sue Mr. Smith for not checking the stability of the scaffolding.
+
+(C) Mr. Johnson can sue the construction company for the negligence of their employee, Mr. Smith.
+
+(D) Mr. Johnson can sue the manufacturer of the scaffolding for making an unstable product.
+
+
+
+The right answer is (C). Mr. Johnson can sue the construction company for the negligence of their employee, Mr. Smith. This is because, in the context of negligence, Mr. Smith had a duty to ensure the safety of the construction site, including the stability of the scaffolding. His failure to do so resulted in a breach of that duty. The actual cause of Mr. Johnson's injury was the collapse of the scaffolding, which wouldn't have happened if Mr. Smith had fulfilled his duty. The proximate cause was foreseeable - it's reasonable to expect that a person could get hurt if a scaffolding structure is not stable. Finally, Mr. Johnson suffered damages, including physical injury and economic loss due to his inability to work. Therefore, Mr. Johnson could potentially sue the construction company to cover his medical bills and lost wages.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+Question: Which of the following scenarios would NOT be considered an exception or limitation to the rule of negligence?
+
+
+
+(A) The person who suffered the loss was aware of the risk but chose to proceed anyway.
+
+(B) The person who caused the harm did so under extenuating circumstances.
+
+(C) The person who suffered the loss contributed to their own injury.
+
+(D) The person who caused the harm did so with malicious intent.
+
+
+
+The right answer is (D). The person who caused the harm did so with malicious intent. This scenario would not be considered negligence, but rather an intentional tort. Negligence involves a failure to exercise reasonable care, not intentional harm. The other options (A, B, C) could potentially be exceptions or limitations to the rule of negligence. For example, if the person who suffered the loss was aware of the risk but chose to proceed anyway (A), or contributed to their own injury (C), these could limit their ability to sue for damages. Similarly, if the person who caused the harm did so under extenuating circumstances (B), this could potentially be considered a limitation of the rule of negligence.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+Question: Which of the following scenarios would be considered voluntary waste under the open mines doctrine?
+
+
+
+(A) A life tenant continues to mine gold from an open mine that was in use before they moved in.
+
+(B) A life tenant sells apples from an apple tree in the backyard.
+
+(C) A life tenant opens a new diamond mine in the backyard that was not in use before they moved in.
+
+(D) A life tenant stops using an open mine that was in use before they moved in.
+
+
+
+The right answer is (C). According to the open mines doctrine, a life tenant is not allowed to open new mines or quarries on the property. If they do, it is considered voluntary waste because they are depleting a natural resource that was not being used before. In this scenario, the life tenant opening a new diamond mine that was not in use before they moved in would be considered voluntary waste.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: John has a life estate in a property that has a functioning coal mine and a dormant silver mine. The coal mine was operational before John moved in, but the silver mine was not. John decides to continue mining coal and also starts mining silver. The remainderman, Sarah, learns about John's activities. What is the most likely outcome of this situation?
+
+
+
+(A) Sarah can stop John from mining both coal and silver.
+
+(B) Sarah can stop John from mining coal but not silver.
+
+(C) Sarah can stop John from mining silver but not coal.
+
+(D) Sarah cannot stop John from mining either coal or silver.
+
+
+
+The right answer is (C). According to the open mines doctrine, a life tenant can continue the use of mines that were open before they took the life estate, as it is not considered waste. Therefore, John can continue mining coal without Sarah's interference. However, opening new mines (like the silver mine) is considered voluntary waste, and the remainderman, Sarah, can enjoin such activities. So, Sarah can stop John from mining silver but not coal.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: According to the open mines doctrine, which of the following actions by a life tenant would be considered an exception or limitation to the rule and could potentially be classified as causing waste or damage to the property?
+
+
+
+(A) The life tenant continues to mine gold from an already open mine in the backyard.
+
+(B) The life tenant sells apples from an apple tree in the backyard.
+
+(C) The life tenant opens a new diamond mine in the backyard.
+
+(D) The life tenant uses the backyard for recreational activities.
+
+
+
+The right answer is (C). According to the open mines doctrine, a life tenant is not allowed to open new mines or quarries on the property. This is considered voluntary waste, as it depletes natural resources that were not being used before the life tenant took over the estate. In this case, the remainderman, or the person who will inherit the property after the life estate ends, has the right to stop the life tenant from opening new mines.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+10/27/23 18:41,10/27/23 18:56,IP Address,*******,98,896,FALSE,10/30/23 16:21,R_RFGZMqiyvVqKZfr,*******,*******,*******,*******,*******,*******,anonymous,EN,1,60d075b6af3d46debaf3cfd8,Some knowledge – I have some experience in law,Somewhat disagree,Other:,Hospitality and management,Other:,History and policy,Native/bilingual,18-24 years old,Female,,"Associates Degree (for example: AA, AS)",,e h l l o,5,5,5,5,5,5,5,5,5,,There is no issue.,5,There is no issue.,5,There is no issue.,4,5,5,5,5,5,5,5,5,5,,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,5,5,5,5,5,5,,There are more than one right answers in the 4 candidates.,4,There is no issue.,5,There is no issue.,5,5,5,5,5,5,5,5,5,5,,There is no issue.,5,There are more than one right answers in the 4 candidates.,3,There is no issue.,5,3,5,5,3,5,5,5,4,3,,There is no issue.,4,There is no issue.,4,There is no issue.,5,none,,60d075b6af3d46debaf3cfd8,653c359ffe5eecc7bc15451c,653c58cad575d918b1fa6020
+10/27/23 17:58,10/27/23 18:33,IP Address,*******,98,2128,FALSE,10/30/23 16:21,R_2R4G7FPHUK0Ig96,*******,*******,*******,*******,*******,*******,anonymous,EN,1,601387b4aa37e127b0544497,Some knowledge – I have some experience in law,Somewhat disagree,Other:,Food service,Other:,Criminal Justice,Native/bilingual,35-44 years old,Female,,"Some college, but no degree",,e h l l o,5,5,5,5,5,5,5,5,5,,There is no issue.,5,There is no issue.,5,There is no issue.,5,4,5,5,5,5,5,5,5,5,,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,5,5,5,5,5,5,,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,5,5,5,5,5,5,,The question is too easy and simple.,5,The question is too easy and simple.,5,There is no issue.,5,5,5,5,5,5,5,5,5,5,,The question is too easy and simple.,5,There is no issue.,5,The question is too easy and simple.,5,,,601387b4aa37e127b0544497,653c359ffe5eecc7bc15451c,653c4e6fee09f2b281a9bd8b
+10/27/23 16:58,10/27/23 17:20,IP Address,*******,98,1362,FALSE,10/30/23 16:21,R_3phVnLMZNguNRPi,*******,*******,*******,*******,*******,*******,anonymous,EN,1,640feb5e49b723bcfaad6437,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Female,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,3,5,5,2,5,5,5,4,4,,There is no issue.,5,There is no issue.,,There is no right answer in the 4 candidates.,1,5,5,5,1,4,5,4,4,4,,There is no issue.,5,There is no issue.,4,The question is confusing.,2,4,4,4,4,4,4,4,4,4,,There is no issue.,5,There is no issue.,4,There is no issue.,3,4,5,5,2,4,4,4,5,4,,There is no issue.,5,There is no issue.,5,There is no issue.,4,4,4,4,2,4,4,4,4,4,,There is no issue.,4,There is no issue.,4,There is no issue.,5,,,640feb5e49b723bcfaad6437,653c359ffe5eecc7bc15451c,653c407688326f6f627b6ada

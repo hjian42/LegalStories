@@ -1,0 +1,675 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: Which of the following best describes the role and responsibilities of an Agent of Record (AOR)?
+
+
+
+(A) An AOR is an individual who sells insurance policies without any legal agreement with the policy owner.
+
+(B) An AOR is an individual or legal entity with a legal agreement with an insurance policy owner, authorized to represent the insured party in purchasing, servicing, and maintaining insurance coverage.
+
+(C) An AOR is an individual who can discuss an insured party's account with any insurance agent without any restrictions.
+
+(D) An AOR is an individual who can change the insured party's insurance agent without the insured party's consent.
+
+
+
+The right answer is (B). An Agent of Record (AOR) is an individual or a legal entity with a legal agreement with an insurance policy owner. The AOR is authorized to represent the insured party in purchasing, servicing, and maintaining insurance coverage. The insurance company will only discuss the insured party's account with the AOR, and any changes to the AOR must be authorized by the insured party.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+Question: John is a successful businessman who has multiple insurance policies for his various businesses. He has appointed his trusted friend, Mike, as his Agent of Record (AOR) to manage all his insurance matters. Mike has been doing a great job, but recently, John has been approached by a new insurance agent, Sarah, who promises better service and lower premiums. John is considering making Sarah his new AOR. What should John do to make Sarah his new AOR?
+
+
+
+(A) John should inform Mike about his decision and ask him to transfer all the information to Sarah.
+
+(B) John should directly provide all his insurance information to Sarah without informing the insurance company.
+
+(C) John should write a letter to his insurance company, informing them that Sarah is now his AOR and they should share his information and discuss his coverage with her.
+
+(D) John should ask Sarah to contact the insurance company and claim to be his new AOR.
+
+
+
+The right answer is (C). According to the concept of Agent of Record (AOR), if an insured party wishes to change their insurance agent, they must submit a revised agent of record letter to the respective insurer authorizing said insurer to release the insured party's information and to discuss the insured party's coverage with the newly appointed agent. Therefore, John should write a letter to his insurance company, informing them that Sarah is now his AOR and they should share his information and discuss his coverage with her.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Agent_of_record""?
+
+
+
+(A) The agent of record cannot receive commissions from the respective insurance policy.
+
+(B) The insurance company can discuss an insured party's account with any agent, not just the agent of record.
+
+(C) An insured party wishing to change insurance agent(s) does not need to submit a revised agent of record letter to the respective insurer.
+
+(D) The use of an agent of record letter as an insurance sales tool is controversial and its legality is questioned by some.
+
+
+
+The right answer is (D). The use of an agent of record letter as an insurance sales tool is controversial and its legality is questioned by some. The other options are incorrect as they contradict the concept of an agent of record. The agent of record does receive commissions from the respective insurance policy (A), the insurance company will not disclose information or discuss an insured party's account with an agent other than the agent of record (B), and an insured party wishing to change insurance agent(s) must submit a revised agent of record letter to the respective insurer (C).
+
+ 
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: What is the best description of the legal concept ""Laches (equity)""?
+
+
+
+(A) It is a legal term that refers to the act of making a claim in a timely manner.
+
+(B) It is a legal term that refers to the act of delaying a legal claim or enforcement of a right, which can prejudice the opposing party.
+
+(C) It is a legal term that refers to the act of making a claim without any evidence or witnesses.
+
+(D) It is a legal term that refers to the act of making a claim without any legal rights.
+
+
+
+The right answer is (B). The concept of ""Laches (equity)"" refers to a lack of diligence and activity in making a legal claim, or moving forward with legal enforcement of a right, particularly in regard to equity. This means that it is an unreasonable delay that can be viewed as prejudicing the opposing party. When asserted in litigation, it is an equity defense, that is, a defense to a claim for an equitable remedy.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+Question: In a hypothetical scenario, John discovers that his business partner, Mark, has been embezzling funds from their joint business account for personal use. John is upset but decides to wait and gather more evidence before taking any legal action. Five years pass, and John finally decides to sue Mark for embezzlement. However, Mark argues that John's claim should be dismissed based on the concept of laches. How might the court rule in this case?
+
+
+
+(A) The court will rule in favor of John because he was gathering evidence.
+
+(B) The court will rule in favor of Mark because John waited too long to take legal action.
+
+(C) The court will rule in favor of John because embezzlement is a serious crime.
+
+(D) The court will rule in favor of Mark because he has stopped embezzling funds.
+
+
+
+The right answer is (B). The court may rule in favor of Mark because John waited too long to take legal action. This is an example of the legal concept of laches, which refers to a lack of diligence and activity in making a legal claim or moving forward with legal enforcement of a right. Despite the seriousness of the embezzlement, John's delay in taking action could be viewed as prejudicing Mark, especially if evidence or witnesses are no longer available due to the passage of time. Therefore, the court might consider that John has ""slept on his rights"", meaning he's been too slow to enforce his claim.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+Question: Which of the following scenarios would NOT be considered an exception or limitation to the rule of laches (equity)?
+
+
+
+(A) The claimant was unaware of their rights at the time of the incident.
+
+(B) The defendant intentionally misled the claimant, causing them to delay their claim.
+
+(C) The claimant was unable to act due to a serious illness.
+
+(D) The claimant decided to wait and see if the situation would resolve itself before taking legal action.
+
+
+
+The right answer is (D). The claimant deciding to wait and see if the situation would resolve itself before taking legal action is not an exception or limitation to the rule of laches. This is actually an example of the claimant ""sleeping on their rights"", which is exactly what laches is designed to prevent. The other options (A, B, and C) could potentially be seen as valid reasons for a delay in making a claim, and therefore exceptions to the rule of laches.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: Which of the following best describes the concept of ""Contributory Negligence""?
+
+
+
+(A) It is a legal term that allows plaintiffs to recover full damages even if they contributed to their own injury.
+
+(B) It is a legal defense that completely bars plaintiffs from any recovery if they contribute to their own injury.
+
+(C) It is a legal term that reduces the plaintiff's damages award by the percentage of fault the fact-finder assigns to the plaintiff for their own injury.
+
+(D) It is a legal defense that allows plaintiffs to recover damages only if the defendant was entirely at fault.
+
+
+
+The right answer is (B). ""Contributory Negligence"" is a legal defense that completely bars plaintiffs from any recovery if they contribute to their own injury. This means that if a plaintiff is found to have contributed to their own injury, they cannot recover any damages. This is different from ""Comparative Negligence"" (option C), where the plaintiff's damages award is reduced by the percentage of fault they contributed to their own injury.
+
+ 
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+Question: Imagine you're driving a car with faulty brakes, which you were aware of but chose to ignore. While driving, another car runs a red light and hits your car. You decide to sue the other driver for damages. In a jurisdiction that applies the doctrine of contributory negligence, what is the likely outcome of your lawsuit?
+
+
+
+(A) You will receive full compensation because the other driver ran a red light.
+
+(B) You will receive no compensation because you contributed to the accident by driving a car with faulty brakes.
+
+(C) You will receive 70% of the compensation because the other driver was more at fault.
+
+(D) The other driver will receive compensation because you were driving a car with faulty brakes.
+
+
+
+The right answer is (B). In jurisdictions that apply the doctrine of contributory negligence, plaintiffs are barred from any recovery if they contribute to their own injury through their own negligence. In this scenario, you were aware of your car's faulty brakes but chose to ignore it, which contributed to the accident. Therefore, despite the other driver running a red light, you would likely receive no compensation due to your contributory negligence.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Contributory Negligence""?
+
+
+
+(A) The rule of contributory negligence does not apply if the plaintiff is a minor.
+
+(B) The rule of contributory negligence is not applicable if the defendant was playing recklessly.
+
+(C) The rule of contributory negligence can be replaced by the rule of comparative negligence in some jurisdictions.
+
+(D) The rule of contributory negligence does not apply if the plaintiff's injury is severe.
+
+
+
+The right answer is (C). The rule of contributory negligence can be replaced by the rule of comparative negligence in some jurisdictions. This is because the contributory negligence doctrine can lead to harsh results, as it completely bars plaintiffs from any recovery if they contribute to their own injury through their own negligence. To mitigate this, many common law jurisdictions have abolished it in favor of a ""comparative fault"" or ""comparative negligence"" approach. This approach reduces the plaintiff's damages award by the percentage of fault the fact-finder assigns to the plaintiff for their own injury.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+Question: Which of the following statements best describes the concept of ""Duty_to_rescue""?
+
+
+
+(A) It is a legal obligation that is enforced in all jurisdictions, requiring individuals to assist those in danger.
+
+(B) It is a moral obligation that requires individuals to assist those in danger, regardless of the legal implications.
+
+(C) It is a concept in tort law that describes a circumstance where a party can be held liable for failing to come to the rescue of another party in danger, although it is not always formalized in statutes.
+
+(D) It is a legal requirement that mandates punishment for those who fail to assist others in danger, regardless of the circumstances.
+
+
+
+The right answer is (C). The ""Duty_to_rescue"" is a concept in tort law that describes a circumstance where a party can be held liable for failing to come to the rescue of another party in danger. However, it is not always formalized in statutes, meaning that not all legal systems enforce this duty. While there may be a moral obligation to assist, the legal obligation varies depending on the jurisdiction.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+Question: Imagine you are a professional mountain guide leading a group of climbers on a challenging route. One of the climbers, who is not part of your group, slips and falls into a crevasse. You have the necessary skills and equipment to rescue the climber without putting yourself or your group in significant danger. However, the rescue would delay your group and potentially ruin their climbing experience. What could be the potential outcome if you decide not to rescue the climber?
+
+
+
+(A) You would face no legal or moral consequences because the climber was not part of your group.
+
+(B) You would face legal consequences because the law enforces a duty to rescue in all situations.
+
+(C) You would face legal consequences because as a professional guide, you have a duty to rescue.
+
+(D) You would face no legal consequences but might face moral consequences because of the ethical arguments for a duty to rescue.
+
+
+
+The right answer is (C) You would face legal consequences because as a professional guide, you have a duty to rescue. As the story explains, in some cases, the law does enforce a duty to rescue. For example, if a lifeguard sees someone drowning and doesn't help, they could be held legally responsible because it's their job to prevent such harm. Similarly, as a professional mountain guide, you have a responsibility to prevent harm, which could include rescuing a climber in danger, even if they are not part of your group.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+Question: Which of the following scenarios is an exception to the rule ""Duty_to_rescue""?
+
+
+
+(A) A passerby sees a child struggling in a pond but decides not to help because they don't want to get their shoes wet.
+
+(B) A lifeguard sees someone drowning but doesn't help, even though it's their job to prevent such harm.
+
+(C) A person sees a car accident but doesn't help because they are not trained in first aid.
+
+(D) A person sees a house on fire but doesn't help because they fear for their own safety.
+
+
+
+The right answer is (D). The rule ""Duty_to_rescue"" generally applies when a person can prevent harm to someone else without risking harm to themselves. In the scenario where a person sees a house on fire, they may not be obligated to help if doing so would put their own safety at risk. This is an exception to the rule, as the duty to rescue does not typically apply when the rescuer would be putting themselves in danger.
+
+ 
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+Question: Which of the following best describes the concept of the incorporation of international law?
+
+
+
+(A) It is the process by which a country rejects international agreements.
+
+(B) It is the process by which international agreements become part of the municipal law of a sovereign state.
+
+(C) It is the process by which a country negotiates international agreements.
+
+(D) It is the process by which a country ignores international agreements.
+
+
+
+The right answer is (B). The incorporation of international law is the process by which international agreements become part of the municipal law of a sovereign state. This is done by passing domestic legislation that gives effect to the treaty in the national legal system. The necessity of incorporation depends on a country's domestic law. Some states can make treaties law without incorporation if their provisions are self-explanatory (monist system), while others require all treaties to be incorporated before they can have any domestic legal effects (dualist system).
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+Question: Imagine a scenario where Country A and Country B have signed an international treaty to reduce carbon emissions. Country A follows a monist system, while Country B follows a dualist system. Both countries are committed to the treaty and want to ensure its successful implementation. What would be the next steps for both countries to incorporate this treaty into their national legal systems?
+
+
+
+(A) Country A would need to pass domestic legislation to give effect to the treaty, while Country B can directly apply the treaty without any further steps.
+
+(B) Both Country A and Country B would need to pass domestic legislation to give effect to the treaty.
+
+(C) Country A can directly apply the treaty without any further steps, while Country B would need to pass domestic legislation to give effect to the treaty.
+
+(D) Neither Country A nor Country B would need to pass domestic legislation, as the treaty is self-explanatory and can be directly applied.
+
+
+
+The right answer is (C). Country A, following a monist system, can directly apply the treaty without any further steps, as in this system treaties can become law without incorporation if their provisions are considered sufficiently self-explanatory. On the other hand, Country B, following a dualist system, would need to pass domestic legislation to give effect to the treaty, as in this system all treaties need to be incorporated before they can have any domestic legal effects.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+ 
+
+
+Question: What could be a potential limitation or exception to the rule of ""Incorporation of International Law""?
+
+
+
+(A) All countries must incorporate international law into their domestic law.
+
+(B) Countries with a monist system do not need to incorporate international law.
+
+(C) Countries with a dualist system can incorporate international law without domestic legislation.
+
+(D) Incorporation of international law is not necessary if the country does not agree with the treaty.
+
+
+
+The right answer is (B) Countries with a monist system do not need to incorporate international law. The explanation is that in a monist system, treaties can become law without incorporation if their provisions are considered sufficiently self-explanatory. This is an exception to the general rule of incorporation of international law.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+10/26/23 14:17,10/26/23 14:39,IP Address,*******,98,1295,FALSE,10/30/23 15:28,R_21t5VhcI3TGXQMn,*******,*******,*******,*******,*******,*******,anonymous,EN,1,652fe805e19cd8c9d83c1456,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Computer software, computer hardware, information technology, telecommunications",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Female,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,4,4,4,4,4,5,4,3,4,The story helps to properly explain the concept of an Agent of Record in a real-life scenario.,There is no issue.,4,There is no issue.,4,There is no issue.,4,4,4,4,4,4,4,5,4,4,The story helps to further explain the definition of laches to readers. ,There is no issue.,4,There is no issue.,4,There is no issue.,4,5,5,5,4,4,4,5,4,4,The story explains the concept of contributory negligence in a way which is easy to understand and non-redundan.,There is no issue.,4,There is no issue.,4,There is no issue.,5,5,4,4,4,4,4,4,4,4,"The story is concise and believable, further highlighting the definition of the duty to rescue. ",There is no issue.,4,There is no issue.,4,There is no issue.,4,4,4,4,4,5,4,5,4,4,The scenario helps to further illustrate the definition whilst remaining concise and clear.,There is no issue.,4,There is no issue.,4,There is no issue.,5,Changing the font colour from red to black would make it easier to read.,It was an interesting task to complete. More scenarios would be fun. ,652fe805e19cd8c9d83c1456,653aaf7aa5162b73aac38a6a,653ac900aad54f3f3b824104
+10/26/23 14:11,10/26/23 14:49,IP Address,*******,98,2274,FALSE,10/30/23 15:28,R_2OSK6FOzX6QNpZ7,*******,*******,*******,*******,*******,*******,anonymous,EN,1,5d76b0ac7aa70c001ba3dc55,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,Other:,I'm a student,"Laws, legal services and policies",,Native/bilingual,18-24 years old,Female,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,3,5,5,4,4,5,5,3,4,It explains the concept in a simplified way.,The question is too easy and simple.,3,There is no issue.,5,There is no issue.,4,4,5,5,5,5,4,5,5,5,It was interesting and well explained.,There is no issue.,5,The question is too easy and simple.,,There is no issue.,5,5,5,4,4,5,5,5,4,5,The example could have been better e.g. an car accident.,The question is confusing.,4,There is no issue.,5,There is no issue.,5,3,4,3,3,3,4,4,3,3,The story was a bit boring and could have been made more interesting.,The question is too easy and simple.,3,There is no issue.,5,There is no issue.,5,3,4,4,5,5,5,4,3,4,The example of chess made the concept more understandable.,The question is too easy and simple.,3,The question is confusing.,3,The question cannot be derived from the definition or story above.,3,Maybe some more information/examples on the harder concepts.,It was fun.,5d76b0ac7aa70c001ba3dc55,653aaf7aa5162b73aac38a6a,653ac7db0bfe8538419ab79e
+10/26/23 13:25,10/26/23 13:50,IP Address,*******,98,1514,FALSE,10/30/23 15:28,R_exk5bnHkOJ3NqDv,*******,*******,*******,*******,*******,*******,anonymous,EN,1,610d4df86c4abc6b5ced6fa0,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Native/bilingual,35-44 years old,Female,,"Master’s Degree (for example: MA, MS, and MEng)",,e h l l o,3,3,3,3,2,3,3,2,3,,There is no issue.,4,There is no issue.,4,The reasoning given in the suggested answer is wrong or flawed.,4,5,4,4,4,3,4,4,3,4,,"The question cannot be derived from the definition or story above.,There is no issue.",2,The question is confusing.,3,The question is too easy and simple.,3,3,2,3,2,2,2,2,2,2,,"The question is too easy and simple.,The question cannot be derived from the definition or story above.",3,"The question cannot be derived from the definition or story above.,The question is confusing.,There is no right answer in the 4 candidates.,The reasoning given in the suggested answer is wrong or flawed.",2,There are more than one right answers in the 4 candidates.,2,5,5,5,5,5,5,4,4,5,,"There are more than one right answers in the 4 candidates.,There is no issue.",5,There are more than one right answers in the 4 candidates.,5,There is no issue.,5,3,3,3,3,3,3,3,3,3,,"There are more than one right answers in the 4 candidates.,There is no issue.",4,There is no issue.,5,There are more than one right answers in the 4 candidates.,3,None,,610d4df86c4abc6b5ced6fa0,653aaf7aa5162b73aac38a6a,653abd16a6a9f67c6e0109f3

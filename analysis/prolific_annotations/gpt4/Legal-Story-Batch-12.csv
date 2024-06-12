@@ -1,0 +1,724 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+Question: What does the concept of ""sufficient similarity"" imply in the context of chemical industry and toxicological studies?
+
+
+
+(A) It implies that any chemical mixture can be used as a substitute for another in safety tests.
+
+(B) It implies that a substitute chemical mixture needs to have similar chemical components and behave in a similar way biologically to the original mixture for safety tests.
+
+(C) It implies that only the biological behavior of a substitute chemical mixture needs to be similar to the original mixture for safety tests.
+
+(D) It implies that only the chemical components of a substitute mixture need to be similar to the original mixture for safety tests.
+
+
+
+The right answer is (B). The concept of ""sufficient similarity"" implies that a substitute chemical mixture needs to have similar chemical components and behave in a similar way biologically to the original mixture for safety tests. This concept is used when toxicity data for a specific mixture is not available, allowing scientists to use a sufficiently similar mixture for their safety tests.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+Question: A pharmaceutical company is developing a new drug. They have a tested reference sample that has been proven safe and effective. However, due to a shortage of a specific chemical component, they decide to substitute it with a similar one. The substitute chemical has the same molecular structure but behaves differently biologically. The company wants to use the safety data from the tested reference for the new drug. Based on the concept of ""sufficient similarity"", what is the most likely outcome?
+
+
+
+(A) The company can use the safety data from the tested reference because the substitute chemical has the same molecular structure.
+
+(B) The company cannot use the safety data from the tested reference because the substitute chemical behaves differently biologically.
+
+(C) The company can use the safety data from the tested reference because the substitute chemical is similar enough.
+
+(D) The company cannot use the safety data from the tested reference because the substitute chemical is not identical.
+
+
+
+The right answer is (B). According to the concept of ""sufficient similarity"", both chemical and biological similarity are important. This means that the substitute mixture needs to have similar chemical components and behave in a similar way biologically to the original mixture. In this scenario, even though the substitute chemical has the same molecular structure, it behaves differently biologically, which means the company cannot use the safety data from the tested reference.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+Question: What could be a potential limitation or exception to the rule of ""sufficient similarity"" in the context of chemical toxicity studies?
+
+
+
+(A) The substitute mixture may not have the same taste as the original mixture.
+
+(B) The substitute mixture may not have the same color as the original mixture.
+
+(C) The substitute mixture may not behave in the same way biologically as the original mixture.
+
+(D) The substitute mixture may not have the same smell as the original mixture.
+
+
+
+The right answer is (C) The substitute mixture may not behave in the same way biologically as the original mixture. The concept of ""sufficient similarity"" requires both chemical and biological similarity. If a substitute mixture does not behave in the same way biologically as the original mixture, it may not provide accurate safety data. This could be a potential limitation or exception to the rule of ""sufficient similarity"".
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following best describes the ""last clear chance"" doctrine in tort law?
+
+
+
+(A) It is a rule that states that the plaintiff can never recover damages if they were even slightly at fault for the accident.
+
+(B) It is a doctrine that allows a defendant to always avoid liability if the plaintiff was negligent.
+
+(C) It is a doctrine that allows a negligent plaintiff to recover damages if the defendant had the last opportunity to avoid the accident.
+
+(D) It is a rule that states that the defendant is always liable for an accident, regardless of the plaintiff's actions.
+
+
+
+The right answer is (C). The ""last clear chance"" doctrine allows a negligent plaintiff to recover damages if they can show that the defendant had the last opportunity to avoid the accident. This doctrine is used to mitigate the harshness of the contributory negligence rule, which can prevent a plaintiff from recovering any damages if they were even slightly at fault for the accident.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+Question: Consider a scenario where two drivers, John (the plaintiff) and Mary (the defendant), are involved in a car accident. John, while texting, accidentally swerves into Mary's lane. Mary, who is speeding, notices John's car in her lane but decides not to slow down or change lanes, thinking John would correct his course. They collide, and John gets injured. If John decides to sue Mary for his injuries, how might the ""last clear chance"" doctrine apply in this case?
+
+
+
+(A) John cannot recover any damages because he was texting while driving, which is considered negligent.
+
+(B) Mary will be held responsible for the accident because she had the last clear chance to avoid the accident but didn't take it.
+
+(C) Both John and Mary will share equal responsibility for the accident because they were both negligent.
+
+(D) John will be held responsible for the accident because he swerved into Mary's lane.
+
+
+
+The right answer is (B). According to the ""last clear chance"" doctrine, even though John was initially negligent by texting while driving, he could still recover damages if he can show that Mary had the last opportunity to avoid the accident. In this case, Mary saw John swerving into her lane but chose not to slow down or change lanes, thus she had the last clear chance to avoid the accident but didn't take it. Therefore, Mary could be held responsible for the accident.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the ""last clear chance"" doctrine in tort law?
+
+
+
+(A) The doctrine can only be used by the plaintiff, not the defendant.
+
+(B) The doctrine is not applicable if the plaintiff was initially negligent.
+
+(C) The doctrine can be used by the defendant as a defense if the plaintiff had the last clear chance to avoid the accident.
+
+(D) The doctrine is only applicable in jurisdictions that apply rules of comparative negligence.
+
+
+
+The right answer is (C) The doctrine can be used by the defendant as a defense if the plaintiff had the last clear chance to avoid the accident. This is a potential limitation or exception of the ""last clear chance"" doctrine. As explained in the story, if the plaintiff had the last clear chance to avoid the accident and didn't take it, the defendant could argue that they shouldn't be held responsible for the accident.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following best describes the term ""unaccompanied minor""?
+
+
+
+(A) A child who is traveling with an older cousin.
+
+(B) A child who is playing alone in a park while their parents are nearby.
+
+(C) A child who is traveling alone without the presence of any adult who is responsible for them.
+
+(D) A child who is at home alone while their parents are at work.
+
+
+
+The right answer is (C) A child who is traveling alone without the presence of any adult who is responsible for them. According to the UN Committee on the Rights of the Child, an unaccompanied minor is a child who has been separated from both parents and other relatives and is not being cared for by an adult who, by law or custom, is responsible for doing so. In the story, Timmy is traveling alone to visit his grandma, without the presence of his parents or any other adult who is responsible for him, making him an unaccompanied minor.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: In a hypothetical scenario, 12-year-old Maria is traveling to a summer camp in another state. Her parents are not accompanying her, but her 19-year-old sister, who is not her legal guardian, is traveling with her. On the other hand, 15-year-old Alex is also traveling to the same summer camp, but he is traveling alone without any family members. According to the definitions provided by the UN Committee on the Rights of the Child, how would Maria and Alex be classified?
+
+
+
+(A) Maria is an unaccompanied minor and Alex is a separated child.
+
+(B) Maria is a separated child and Alex is an unaccompanied minor.
+
+(C) Both Maria and Alex are unaccompanied minors.
+
+(D) Both Maria and Alex are separated children.
+
+
+
+The right answer is (B) Maria is a separated child and Alex is an unaccompanied minor. According to the definitions provided by the UN Committee on the Rights of the Child, an unaccompanied minor is a child who is not being cared for by an adult who, by law or custom, is responsible for doing so. In this case, Alex is traveling alone without any family members, so he is an unaccompanied minor. On the other hand, a separated child is a child who has been separated from their parents or their previous legal or customary primary caregiver, but not necessarily from other relatives. In this case, Maria is traveling with her older sister, so she is a separated child.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+Question: According to the UN Committee on the Rights of the Child, which of the following scenarios would NOT classify a child as an ""unaccompanied minor""?
+
+
+
+(A) A child traveling alone on a plane to visit their grandparents.
+
+(B) A child playing alone in a park without any adults around.
+
+(C) A child traveling with their older cousin to another city.
+
+(D) A child who has run away from home and is living on the streets.
+
+
+
+The right answer is (C). According to the UN Committee on the Rights of the Child, an unaccompanied minor is a child who is separated from both parents and other relatives and is not being cared for by an adult who, by law or custom, is responsible for doing so. In the case of a child traveling with their older cousin, the child would be considered a ""separated child"", not an unaccompanied minor, as they are accompanied by an adult family member.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following best describes the 'Crumbling Skull Rule' in tort law?
+
+
+
+(A) The defendant is fully responsible for all damages, regardless of the pre-existing condition of the plaintiff's property or health.
+
+(B) The defendant is not responsible for any damages if the plaintiff's property or health was already in a deteriorating condition.
+
+(C) The defendant is only responsible for the degree the injury was worsened or the hastening of the damage caused by the tort, considering the pre-existing condition or deterioration of the plaintiff's property or health.
+
+(D) The defendant is not responsible for any damages if the plaintiff's property or health was unusually fragile or vulnerable.
+
+
+
+The right answer is (C). The 'Crumbling Skull Rule' in tort law holds that a defendant is only liable for the degree the injury was worsened or the hastening of the damage caused by the tort, considering the pre-existing condition or deterioration of the plaintiff's property or health. This rule reduces a defendant's liability based on the pre-existing condition or deterioration of the plaintiff's property or health.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+Question: Consider a woman named Sarah who has a pre-existing back condition that causes her pain and limits her mobility. One day, she is involved in a car accident caused by a negligent driver named Mike. The accident exacerbates Sarah's back condition, causing her even more pain and further limiting her mobility. Sarah decides to sue Mike for the additional pain and suffering caused by the accident. In court, Mike's defense is that Sarah's back condition was already deteriorating and would have worsened over time even without the accident. How might the court apply the 'Crumbling Skull Rule' in this case?
+
+
+
+(A) The court would hold Mike fully responsible for all of Sarah's pain and suffering, regardless of her pre-existing condition.
+
+(B) The court would hold Mike responsible only for the degree to which the accident hastened or worsened Sarah's back condition.
+
+(C) The court would hold Mike not responsible at all, as Sarah's back condition was pre-existing.
+
+(D) The court would hold Mike responsible for all future deterioration of Sarah's back condition.
+
+
+
+The right answer is (B). According to the 'Crumbling Skull Rule', a defendant is only liable for the degree the injury was worsened or the hastening or acceleration of the damage caused by the tort. Therefore, Mike would only be held responsible for the degree to which the accident hastened or worsened Sarah's back condition, not for the natural deterioration of her condition over time.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the ""Crumbling Skull Rule""?
+
+
+
+(A) The rule cannot be applied if the plaintiff's property or health was in perfect condition before the tort.
+
+(B) The rule cannot be applied if the defendant was not aware of the plaintiff's pre-existing condition or deterioration.
+
+(C) The rule cannot be applied if the plaintiff's pre-existing condition or deterioration was not naturally occurring.
+
+(D) The rule cannot be applied if the plaintiff's pre-existing condition or deterioration was caused by the defendant.
+
+
+
+The right answer is (C). The ""Crumbling Skull Rule"" is based on the premise that the plaintiff's pre-existing condition or deterioration was naturally occurring and would have worsened over time even without the tort. If the plaintiff's condition or deterioration was not naturally occurring, then the rule may not apply.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+Question: Which of the following best describes the principle of ""Nemo judex in causa sua""?
+
+
+
+(A) It is a principle that allows a person to judge a case in which they have an interest.
+
+(B) It is a principle that states that justice must only be done, not necessarily seen to be done.
+
+(C) It is a principle that states that no person can judge a case in which they have an interest.
+
+(D) It is a principle that states that a person can judge a case in which they have an interest, as long as they are not biased.
+
+
+
+The right answer is (C). The principle of ""Nemo judex in causa sua"" literally means ""no-one is judge in his own cause"". It is a rule that ensures fairness in legal proceedings by stating that no person can judge a case in which they have an interest. Even the slightest hint of bias can lead to the proceedings being stopped and any judgment being declared invalid.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+Question: In a small town, there is a dispute over the ownership of a piece of land. The mayor of the town, who also happens to be a trained judge, decides to preside over the case. However, it is revealed that the disputed land is adjacent to the mayor's own property and its ownership could potentially affect the value of his property. According to the principle of ""Nemo judex in causa sua"", what is likely to happen next?
+
+
+
+(A) The mayor will continue to preside over the case, as he is a trained judge.
+
+(B) The case will be stopped, and any judgment made by the mayor will be declared invalid.
+
+(C) The mayor will be allowed to make a judgment, but it will be reviewed by another judge.
+
+(D) The mayor will be asked to step down from his position due to conflict of interest.
+
+
+
+The right answer is (B). According to the principle of ""Nemo judex in causa sua"", no person can judge a case in which they have an interest. In this scenario, the mayor has a potential interest in the outcome of the case, as it could affect the value of his own property. Therefore, the proceedings should be stopped, and any judgment made by the mayor should be declared invalid. This is to ensure that justice is not only done, but is seen to be done.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Nemo judex in causa sua""?
+
+
+
+(A) The rule does not apply if the judge is a close friend of one of the parties involved.
+
+(B) The rule does not apply if the judge has a financial interest in the outcome of the case.
+
+(C) The rule does not apply if the judge has previously ruled on a similar case.
+
+(D) There are no known limitations or exceptions to this rule.
+
+
+
+The right answer is (D) There are no known limitations or exceptions to this rule. The principle of ""Nemo judex in causa sua"" is strictly applied in many jurisdictions to any appearance of a possible bias, even if there is actually none. This means that any personal, financial, or other interest in the outcome of the case by the judge can lead to the proceedings being stopped and any judgment being declared invalid.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+10/26/23 18:22,10/26/23 18:37,IP Address,*******,100,940,TRUE,10/26/23 18:37,R_1qVgmkfabjcjNxv,*******,*******,*******,*******,*******,*******,anonymous,EN,1,63cdf894c118ad4f84489c1a,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Business, finance, accounting, marketing, economics",,"Business, finance, accounting, marketing, economics",,Native/bilingual,45-54 years old,Male,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,5,5,5,5,5,5,5,4,5,I think this story s a good example of the concept of sufficient similarity,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,5,5,5,5,5,5,the story explains the law vividly and simple for understanding,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,5,4,5,4,5,5,the story elaborates properly the term unaccompanied minor.,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,5,5,5,5,5,5,the story is interesting and exciting. ,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,5,5,5,5,5,5,this story is precise and entertaining. it keeps the readers interested throughout,There is no issue.,5,There is no issue.,5,There is no issue.,5,the feature of how connected the reader feels to the story will be a good addition.,this is an interesting survey,63cdf894c118ad4f84489c1a,653adab8c84236b7b959569c,653b02a8fbec83f51559695d
+10/26/23 19:30,10/26/23 20:06,IP Address,*******,100,2129,TRUE,10/26/23 20:06,R_2f6XyfSC0OWNkWJ,*******,*******,*******,*******,*******,*******,anonymous,EN,1,615993153e17441c2e8d6c92,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,Other:,"represented/ representing myself proper in multiple civil actions , attending law school , related licenses ","Laws, legal services and policies",,Native/bilingual,35-44 years old,Female,,"Associates Degree (for example: AA, AS)",,e h l l o,3,5,5,5,5,5,5,5,5,,"Other issues not covered above,There is no issue.",4,There is no issue.,5,"The reasoning given in the suggested answer is wrong or flawed.,There is no issue.",3,5,5,5,5,5,5,5,5,5,,"There are more than one right answers in the 4 candidates.,Other issues not covered above,There is no issue.",5,There is no issue.,5,"Other issues not covered above,There is no issue.",4,5,5,5,5,5,5,5,5,5,,"Other issues not covered above,There is no issue.",3,There is no issue.,5,"There are more than one right answers in the 4 candidates.,Other issues not covered above,There is no issue.",3,4,5,5,5,5,5,5,5,5,,There is no issue.,5,"There are more than one right answers in the 4 candidates.,There is no issue.",5,"The reasoning given in the suggested answer is wrong or flawed.,Other issues not covered above",2,4,5,5,5,5,5,5,5,5,,"Other issues not covered above,There is no issue.",4,"There are more than one right answers in the 4 candidates.,There is no issue.",3,There is no issue.,5,,,615993153e17441c2e8d6c92,653adab8c84236b7b959569c,653b1274d98ba644c8b9a7ff
+10/30/23 16:31,10/30/23 16:57,IP Address,*******,98,1545,FALSE,10/30/23 17:43,R_1FFAMEfaJ9lmTgT,*******,*******,*******,*******,*******,*******,anonymous,EN,1,652fe805e19cd8c9d83c1456,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Computer software, computer hardware, information technology, telecommunications",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Female,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,5,4,4,5,4,4,4,4,5,The story helps to illustrate the definition of 'sufficient similarity' to readers.,There is no issue.,4,There is no issue.,5,There is no issue.,4,5,4,4,5,4,5,4,4,4,"The story is well-written and concise, with no errors in how it interprets the definition.",There is no issue.,4,There is no issue.,4,There is no issue.,4,5,4,4,5,4,4,4,4,4,The scenario helps to further expand on the definition of 'unaccompanied minor'. ,There is no issue.,4,There is no issue.,5,There is no issue.,5,5,4,5,4,4,4,4,5,4,The story helps to expand on the definition of the 'crumbling skull rule' whilst providing context.,There is no issue.,5,There is no issue.,4,There is no issue.,4,5,5,5,4,4,5,4,4,5,The story helps to contextualise the definition being given. ,There is no issue.,5,There is no issue.,4,There is no issue.,4,"Changing the font colour from red to black, making it easier to read.",,652fe805e19cd8c9d83c1456,653adab8c84236b7b959569c,65402da2595d2a1ebe5733e1

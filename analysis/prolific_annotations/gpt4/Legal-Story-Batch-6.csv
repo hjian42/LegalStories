@@ -1,0 +1,653 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: What is the plain meaning rule in the context of statutory construction?
+
+
+
+(A) It is a rule that allows courts to interpret laws based on their own understanding and beliefs.
+
+(B) It is a rule that dictates that statutes are to be interpreted using the ordinary meaning of the language of the statute, unless a statute explicitly defines some of its terms otherwise or unless the result would be cruel or absurd.
+
+(C) It is a rule that requires courts to interpret laws based on the intentions of the lawmakers.
+
+(D) It is a rule that allows courts to interpret laws in a way that would lead to the most beneficial outcome for the society.
+
+
+
+The right answer is (B). The plain meaning rule, also known as the literal rule, dictates that statutes are to be interpreted using the ordinary meaning of the language of the statute, unless a statute explicitly defines some of its terms otherwise or unless the result would be cruel or absurd. This rule helps courts stay neutral and not get involved in legislative or political debates. It's also the foundation for textualism and, to some extent, originalism, which are legal theories about how to interpret laws.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: A new law has been passed in the city of Techville that states ""All vehicles operating within city limits must be equipped with a functioning GPS system."" A local bicycle shop owner, Mr. Pedal, is worried that this law might apply to bicycles as well, since technically they are vehicles too. He consults a lawyer to understand the implications of the law. According to the plain meaning rule, how should the lawyer interpret the law?
+
+
+
+(A) The lawyer should interpret the law as applying to all vehicles, including bicycles, since the law does not explicitly exclude them.
+
+(B) The lawyer should interpret the law as not applying to bicycles, since the common understanding of ""vehicle"" does not usually include bicycles.
+
+(C) The lawyer should interpret the law as applying only to motorized vehicles, since that's probably what the lawmakers intended.
+
+(D) The lawyer should interpret the law as not applying to bicycles, since applying it to bicycles would be absurd.
+
+
+
+The right answer is (A). According to the plain meaning rule, statutes are to be interpreted using the ordinary meaning of the language of the statute. The term ""vehicles"" in its ordinary meaning includes bicycles. Therefore, unless the law explicitly defines ""vehicles"" to exclude bicycles or applying the law to bicycles would lead to a cruel or absurd result, the lawyer should interpret the law as applying to all vehicles, including bicycles.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: What is a potential limitation or exception to the plain meaning rule in statutory interpretation?
+
+
+
+(A) The rule does not apply to laws that are written in a foreign language.
+
+(B) The rule does not apply if the statute uses technical terms.
+
+(C) The rule does not apply if the ordinary meaning of the language would lead to a cruel or absurd result.
+
+(D) The rule does not apply to laws that are more than 100 years old.
+
+
+
+The right answer is (C). The plain meaning rule dictates that statutes should be interpreted using the ordinary meaning of the language, unless the result would be cruel or absurd. This is an exception to the rule. Options (A), (B), and (D) are not mentioned as exceptions or limitations in the concept explanation or story.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: Which of the following best describes the reverse doctrine of equivalents in United States patent law?
+
+
+
+(A) It is a doctrine that allows a device to infringe a patent claim if it includes elements or limitations that correspond to each element or limitation of the patent claim.
+
+(B) It is a doctrine that states a device that appears to infringe a patent claim, nonetheless does not infringe the patent, if the accused device operates on a different principle.
+
+(C) It is a doctrine that extends the claims of a patent beyond the scope of the original invention.
+
+(D) It is a doctrine that allows a device to infringe a patent claim if it performs the same or a similar function in the same way.
+
+
+
+The right answer is (B). The reverse doctrine of equivalents states that a device that appears to literally infringe a patent claim, by including elements or limitations that correspond to each element or limitation of the patent claim, nonetheless does not infringe the patent, because the accused device operates on a different principle. It performs the same or a similar function in a substantially different way. This doctrine is used to prevent unwarranted extension of the claims beyond a fair scope of the patentee's invention.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: Imagine you're an inventor who has patented a unique design for a solar-powered car. The car uses a specific type of solar panel and a unique method of converting solar energy into power for the car. One day, you discover another company is selling a solar-powered car that looks exactly like yours. It uses the same type of solar panel and seems to follow your design to the letter. You're upset because you think they've stolen your patented design. However, upon further investigation, you find out that they're using a different method of converting solar energy into power for the car. Even though they're using the same type of solar panel, the way they're converting the solar energy is completely different. What could be the possible outcome of this situation according to the reverse doctrine of equivalents in patent law?
+
+
+
+(A) The other company is infringing on your patent because they are using the same type of solar panel.
+
+(B) The other company is not infringing on your patent because they are using a different method of converting solar energy.
+
+(C) The other company is infringing on your patent because their car looks exactly like yours.
+
+(D) The other company is not infringing on your patent because they are selling their car at a lower price.
+
+
+
+The right answer is (B). According to the reverse doctrine of equivalents, even if a product appears to infringe on a patent because it includes the same elements or limitations, it may not actually be infringing if it operates on a different principle. In this case, even though the other company's car uses the same type of solar panel, the way they're converting the solar energy is completely different. Therefore, they are not infringing on your patent.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Reverse doctrine of equivalents""?
+
+
+
+(A) The accused device does not infringe the patent if it performs the same function in a substantially similar way.
+
+(B) The accused device infringes the patent if it includes elements or limitations that correspond to each element or limitation of the patent claim.
+
+(C) The accused device does not infringe the patent if it performs the same or a similar function in a substantially different way.
+
+(D) The accused device infringes the patent if it operates on a different principle.
+
+
+
+The right answer is (C) The accused device does not infringe the patent if it performs the same or a similar function in a substantially different way. According to the reverse doctrine of equivalents, even if a product appears to infringe on a patent because it includes the same elements or limitations, it may not actually be infringing if it operates on a different principle. In other words, it does the same or similar thing but in a substantially different way.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: Which of the following best describes the concept of ""in loco parentis""?
+
+
+
+(A) It is a Latin term meaning ""in the place of a parent"" and refers to the legal responsibility of a person or organization to take on some of the functions and responsibilities of a parent.
+
+(B) It is a Latin term meaning ""in the place of a parent"" and refers to the legal responsibility of a person or organization to take on all the functions and responsibilities of a parent.
+
+(C) It is a Latin term meaning ""in the place of a parent"" and refers to the legal responsibility of a person or organization to take on some of the functions and responsibilities of a parent, including violating the students' civil liberties.
+
+(D) It is a Latin term meaning ""in the place of a parent"" and refers to the legal responsibility of a person or organization to take on some of the functions and responsibilities of a parent, but it is the same as the ""parens patriae"" doctrine, the psychological parent doctrine, and adoption.
+
+
+
+The right answer is (A). ""In loco parentis"" is a Latin term meaning ""in the place of a parent"" and refers to the legal responsibility of a person or organization to take on some of the functions and responsibilities of a parent. It does not mean taking on all responsibilities, nor does it allow for violations of civil liberties. It is also distinct from other legal concepts related to parenting, such as the ""parens patriae"" doctrine, the psychological parent doctrine, and adoption.
+
+ 
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: A couple, John and Jane, have been living together for several years. Jane has a daughter, Lily, from a previous relationship. John has been acting as a father to Lily, taking her to school, helping with homework, and attending parent-teacher meetings. Lily's biological father is not involved in her life. One day, Lily gets into a serious accident at school and needs immediate medical attention. The school contacts John as he is the primary contact listed. John rushes to the hospital and is asked to make a critical decision regarding Lily's treatment. In this scenario, what is the most likely outcome?
+
+
+
+(A) John is unable to make the decision because he is not Lily's biological father.
+
+(B) John is able to make the decision because he is acting in loco parentis.
+
+(C) The school is held responsible for Lily's accident and has to make the decision.
+
+(D) The hospital refuses to treat Lily until her biological father is contacted.
+
+
+
+The right answer is (B). John is able to make the decision because he is acting in loco parentis. The concept of in loco parentis applies to someone who isn't a biological parent but has acted like one. In this case, John has been acting as a father to Lily, even though he's not biologically related, he might be able to exercise the legal rights and responsibilities of a parent.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""In_loco_parentis""?
+
+
+
+(A) A person acting in loco parentis can make decisions that violate the civil liberties of the child.
+
+(B) A person acting in loco parentis can only be a biological parent.
+
+(C) A person acting in loco parentis can only be a legal guardian or adoptive parent.
+
+(D) A person acting in loco parentis cannot exercise the legal rights and responsibilities of a biological parent.
+
+
+
+The right answer is (A). The concept of ""in loco parentis"" allows a person or institution to take on some of the functions and responsibilities of a parent, but it does not permit actions that would be considered violations of the child's or student's civil liberties.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: Which of the following statements best describes the legal concept of ""Non bis in idem""?
+
+
+
+(A) It is a legal doctrine that allows for multiple legal actions to be instituted for the same cause of action.
+
+(B) It is a legal doctrine that prevents a person from being tried twice for the same action, similar to the double jeopardy doctrine in common law jurisdictions.
+
+(C) It is a legal doctrine that allows for multiple penalties in a soccer game for the same mistake.
+
+(D) It is a legal doctrine that allows for prosecutions by two different sovereigns for the same action, without any restrictions.
+
+
+
+The right answer is (B). ""Non bis in idem"" is a legal doctrine that prevents a person from being tried twice for the same action, similar to the double jeopardy doctrine in common law jurisdictions. This principle ensures fairness in the legal system by preventing multiple punishments for the same action. The other options are incorrect as they either misrepresent the concept or describe situations that are exceptions to the rule.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: John, a U.S. citizen, was tried and convicted in the U.S. for a cybercrime that affected both the U.S. and Canada. After serving his sentence in the U.S., he moved to Canada. The Canadian authorities, upon learning about his past, decided to prosecute him for the same cybercrime. John's lawyer argues that this is a violation of the principle of 'Non bis in idem'. What is the most likely outcome of this situation?
+
+
+
+(A) John will be acquitted in Canada because of the principle of 'Non bis in idem'.
+
+(B) John will be tried and possibly convicted in Canada because the principle of 'Non bis in idem' does not apply to prosecutions by two different sovereigns.
+
+(C) John will be tried and possibly convicted in Canada only if there is an extradition treaty between the U.S. and Canada.
+
+(D) John will be acquitted in Canada because the Rome Statute of the International Criminal Court employs a modified form of 'Non bis in idem'.
+
+
+
+The right answer is (B). John will be tried and possibly convicted in Canada because the principle of 'Non bis in idem' does not apply to prosecutions by two different sovereigns. The principle of 'Non bis in idem' prevents a person from being tried twice for the same crime within the same jurisdiction. However, it does not prevent two different sovereigns (in this case, the U.S. and Canada) from each prosecuting the same person for the same crime. Therefore, unless there is a specific agreement between the U.S. and Canada prohibiting it, Canada can prosecute John for the cybercrime.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: What is a potential limitation or exception to the rule of ""Non bis in idem""?
+
+
+
+(A) The rule does not apply if the same action is committed twice.
+
+(B) The rule does not apply if the action was committed in a different country.
+
+(C) The rule does not apply if the action was committed by two different people.
+
+(D) The rule does not apply if the action was committed in a different time period.
+
+
+
+The right answer is (B). The rule of ""Non bis in idem"" does not apply if the same action was committed in a different country. This means that two different sovereigns can prosecute for the same action unless there is an agreement between them that prohibits it. This is a limitation or exception to the rule that no legal action can be instituted twice for the same cause of action.
+
+ 
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: Which of the following best describes the ""Substantial Certainty Doctrine"" in law?
+
+
+
+(A) It is a doctrine that holds a person responsible for an outcome only if they intended for that outcome to occur.
+
+(B) It is a doctrine that holds a person responsible for an outcome if they knew there was a high chance it would occur, even if they did not intend for it to happen.
+
+(C) It is a doctrine that holds a person responsible for an outcome only if they did not know there was a high chance it would occur.
+
+(D) It is a doctrine that holds a person responsible for an outcome only if they did not intend for that outcome to occur, and they did not know there was a high chance it would happen.
+
+
+
+The right answer is (B). The ""Substantial Certainty Doctrine"" in law holds a person responsible for an outcome if they knew there was a high chance it would occur, even if they did not intend for it to happen. This doctrine is used by courts to determine if someone committed a tort, or a wrongful act.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: In a hypothetical scenario, John, a construction worker, removes a safety barrier around a deep pit at a construction site to make his work easier. He sees his co-worker, Mike, walking towards the pit while talking on the phone, unaware of the danger. John doesn't warn Mike about the pit, thinking Mike would notice it himself. However, Mike falls into the pit and gets severely injured. If this case goes to court, how might the substantial certainty doctrine be applied?
+
+
+
+(A) The court would not apply the substantial certainty doctrine because John did not intend for Mike to fall into the pit.
+
+(B) The court would apply the substantial certainty doctrine because John knew with substantial certainty that Mike could fall into the pit.
+
+(C) The court would not apply the substantial certainty doctrine because Mike should have been more careful.
+
+(D) The court would apply the substantial certainty doctrine because John intentionally removed the safety barrier.
+
+
+
+The right answer is (B). The substantial certainty doctrine could be applied because John knew with substantial certainty that Mike could fall into the pit. Even though John did not intend for Mike to fall, he was aware of the high risk of such an outcome when he removed the safety barrier and did not warn Mike. This aligns with the substantial certainty doctrine, which assumes intent even if the actor did not intend the result, but knew with substantial certainty the effect would occur as a result of his action.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: What is a potential limitation or exception of the substantial certainty doctrine?
+
+
+
+(A) The doctrine cannot be applied if the defendant is a minor.
+
+(B) The doctrine cannot be applied if the defendant did not physically cause the harm.
+
+(C) The doctrine cannot be applied if the defendant did not have a direct intention to cause harm.
+
+(D) The doctrine cannot be applied if the defendant did not know with substantial certainty that their action would cause the effect.
+
+
+
+The right answer is (D) The doctrine cannot be applied if the defendant did not know with substantial certainty that their action would cause the effect. The substantial certainty doctrine assumes intent even if the actor did not intend the result, but knew with substantial certainty the effect would occur as a result of his action. If the defendant did not have this level of certainty, the doctrine may not apply.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+10/26/23 16:03,10/26/23 16:59,IP Address,*******,98,3396,FALSE,10/30/23 15:49,R_6AylZmPXNaTGajv,*******,*******,*******,*******,*******,*******,anonymous,EN,1,60d075b6af3d46debaf3cfd8,Some knowledge – I have some experience in law,Somewhat disagree,Other:,Hospitality and Management,Other:,History and policy,Native/bilingual,18-24 years old,Female,,"Associates Degree (for example: AA, AS)",,e h l l o,3,5,4,5,5,5,5,4,5,,There is no issue.,5,There is no issue.,5,There is no issue.,4,2,4,5,5,5,5,4,5,5,,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,5,5,5,5,5,5,4,5,,There is no issue.,5,There is no issue.,5,"The question is too easy and simple.,There is no issue.",4,3,5,5,4,5,5,5,4,5,,There are more than one right answers in the 4 candidates.,4,There is no issue.,5,There are more than one right answers in the 4 candidates.,4,4,5,5,3,5,5,5,5,5,,There is no issue.,5,There is no issue.,5,There is no issue.,5,None,,60d075b6af3d46debaf3cfd8,653ac1a55638321a1c6a43d0,653ae208b5c346657eca05ac
+10/26/23 15:02,10/26/23 15:29,IP Address,*******,98,1625,FALSE,10/30/23 15:49,R_3KOTSN2VJpnlpxr,*******,*******,*******,*******,*******,*******,anonymous,EN,1,63655432e66823b2595ee761,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Native/bilingual,18-24 years old,Male,,"Some college, but no degree",,e h l l o,4,5,3,3,4,2,5,2,2,,There is no issue.,4,The question cannot be derived from the definition or story above.,2,There is no issue.,5,2,5,5,5,5,5,5,5,5,,There are more than one right answers in the 4 candidates.,4,There is no issue.,5,There is no right answer in the 4 candidates.,2,5,5,5,5,5,5,4,5,5,,"There are more than one right answers in the 4 candidates.,The reasoning given in the suggested answer is wrong or flawed.",1,There is no issue.,5,There is no issue.,4,2,5,5,5,5,5,5,5,5,,"There are more than one right answers in the 4 candidates.,There is no issue.",4,There is no issue.,5,There is no right answer in the 4 candidates.,2,4,5,5,5,3,5,5,5,5,,"The question is too easy and simple.,There is no issue.",4,There are more than one right answers in the 4 candidates.,4,There is no issue.,5,,,63655432e66823b2595ee761,653ac1a55638321a1c6a43d0,653ad3dd1dafe2c3ab0a72d6
+10/26/23 14:44,10/26/23 15:43,IP Address,*******,98,3541,FALSE,10/30/23 15:49,R_3fYOkF2Qz0LDtSu,*******,*******,*******,*******,*******,*******,anonymous,EN,1,5c190af4aef1780001761566,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Male,,"Master’s Degree (for example: MA, MS, and MEng)",,e h l l o,4,5,4,3,4,4,4,4,5,The story provides an easy to understand example to illustrate the plain meaning rule. There is some repetition which could be avoided. The second to last paragraph also mentions 'textualism' and 'originalism' - these terms may confuse the reader and appear to be unnecessary.,There is no issue.,4,There is no issue.,4,There is no issue.,4,2,4,5,5,4,5,5,4,5,The story makes the legal doctrine/concept more understable as it demonstrates the application of the reverse doctrine of equivalents in a real life setting.,There is no issue.,5,There is no issue.,5,Other issues not covered above,4,3,5,5,5,4,5,5,5,5,"The story gives very useful examples of 'loco parentis' concept in real life applications - in essence, stepping into the shoes of a parent. The story also distinguishes the loco parentis concept from other similar yet different legal concepts.",There is no issue.,5,There is no issue.,5,Other issues not covered above,3,2,5,5,4,4,5,5,5,5,"The football analogy/story makes the legal concept easier to understand - you cannot be punished for the same thing twice. However, the added dynamic of jurisdiction (multiple countries wanting to pursue legal action) complicates the concept.",There is no issue.,5,Other issues not covered above,3,There is no issue.,4,3,5,5,4,5,5,5,4,5,"The chair pulling story is a strong illustration of the substantial certainty doctrine. One possible problem - The 5 y/o defendant in the 1955 case may have been aware or substantially certain that the elderly lady would try to sit down, however, due to his age the defendant may not have been able to comprehend or foresee any injury.",There is no issue.,5,There is no issue.,4,There is no issue.,4,The ability for a user to add comments/feedback/annotations by adding a text box at will.,n/a,5c190af4aef1780001761566,653ac1a55638321a1c6a43d0,653acf8f5b752ed36e102c28

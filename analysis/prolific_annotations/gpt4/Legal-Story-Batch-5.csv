@@ -1,0 +1,637 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+ 
+
+
+Question: Which of the following best describes the concept of ""Learned Intermediary""?
+
+
+
+(A) It is a doctrine that states a manufacturer is always liable for any harm caused by their product.
+
+(B) It is a doctrine that states a manufacturer has fulfilled its duty of care when it provides all necessary information to a ""learned intermediary"" who then interacts with the consumer.
+
+(C) It is a doctrine that states a manufacturer is not responsible for providing information about their product to consumers.
+
+(D) It is a doctrine that states a manufacturer must directly communicate all necessary information to the consumer.
+
+
+
+The right answer is (B). The ""Learned Intermediary"" doctrine states that a manufacturer has fulfilled its duty of care when it provides all necessary information to a ""learned intermediary"" who then interacts with the consumer. This doctrine is primarily used by pharmaceutical and medical device manufacturers in defense of tort suits. The other options do not accurately describe this legal concept.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: In a hypothetical scenario, a pharmaceutical company, PharmaCo, develops a new drug, MedX, which has a rare but severe side effect in patients with a specific genetic condition. PharmaCo provides all necessary information about MedX, including the potential side effect, to doctors. Dr. Smith, a physician, prescribes MedX to his patient, Mr. Johnson, without checking if Mr. Johnson has the specific genetic condition. Mr. Johnson suffers from the severe side effect. If Mr. Johnson decides to sue PharmaCo for damages, what is the most likely outcome based on the ""Learned Intermediary"" doctrine?
+
+
+
+(A) PharmaCo will be held liable because they manufactured the drug.
+
+(B) PharmaCo will not be held liable because they provided all necessary information to Dr. Smith.
+
+(C) Dr. Smith will be held liable because he prescribed the drug.
+
+(D) Mr. Johnson will be held liable because he took the drug.
+
+
+
+The right answer is (B) PharmaCo will not be held liable because they provided all necessary information to Dr. Smith. According to the ""Learned Intermediary"" doctrine, a manufacturer has fulfilled its duty of care when it provides all necessary information to a ""learned intermediary"" (in this case, Dr. Smith). If the learned intermediary fails to use that information correctly, the manufacturer (PharmaCo) can use this doctrine as a defense.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+ 
+
+
+Question: What could be a potential limitation or exception to the ""Learned Intermediary"" doctrine?
+
+
+
+(A) The manufacturer did not provide all necessary information to the learned intermediary.
+
+(B) The consumer did not ask the learned intermediary about the product.
+
+(C) The learned intermediary is not a certified professional.
+
+(D) The manufacturer is a pharmaceutical company.
+
+
+
+The right answer is (A) The manufacturer did not provide all necessary information to the learned intermediary. According to the ""Learned Intermediary"" doctrine, the manufacturer's duty of care is fulfilled when it provides all necessary information to a learned intermediary. If the manufacturer fails to do so, it could potentially be held liable for any harm caused to the consumer. The other options do not represent limitations or exceptions to the doctrine.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+ 
+Question: Which of the following statements best describes the concept of ""Burden of Proof"" in law?
+
+
+
+(A) The burden of proof is always on the defendant to prove their innocence.
+
+(B) The burden of proof is on the party who brings a claim in a dispute and they must produce evidence to establish the truth of their claim.
+
+(C) The burden of proof is on the judge to determine the truth of a claim.
+
+(D) The burden of proof is on the jury to decide who is telling the truth.
+
+
+
+The right answer is (B). The burden of proof is on the party who brings a claim in a dispute and they must produce evidence to establish the truth of their claim. This is because in a legal dispute, the party who brings the claim (the plaintiff in civil cases, the prosecutor in criminal cases) has the responsibility to provide evidence to prove their case. If they fail to do so, the claim will be dismissed. The defendant is presumed innocent until proven guilty.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: In a hypothetical scenario, Mr. Smith is a landlord who is suing his tenant, Mr. Johnson, for property damage. Mr. Smith claims that Mr. Johnson caused significant damage to the property during his tenancy. Mr. Johnson, however, argues that the damage was already present when he moved in. In this scenario, who has the burden of proof and what might be the outcome of the case?
+
+
+
+(A) Mr. Johnson has the burden of proof and if he fails to provide evidence that the damage was already present, he will be held responsible for the property damage.
+
+(B) Mr. Smith has the burden of proof and if he fails to provide evidence that Mr. Johnson caused the damage, his claim will be dismissed.
+
+(C) Both Mr. Smith and Mr. Johnson share the burden of proof equally and the outcome will depend on who provides the most convincing evidence.
+
+(D) Neither Mr. Smith nor Mr. Johnson has the burden of proof and the case will be decided by the judge's discretion.
+
+
+
+The right answer is (B). In this scenario, Mr. Smith, as the plaintiff, has the burden of proof. He is the one who brought the claim against Mr. Johnson, so he must provide evidence to establish the truth of his claim that Mr. Johnson caused the property damage. If Mr. Smith fails to discharge the burden of proof to prove his case, his claim will be dismissed.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+ 
+
+
+Question: In the context of the ""Burden of Proof"" rule, which of the following is a potential limitation or exception?
+
+(A) The defendant in a criminal case is always guilty until proven innocent.
+
+(B) The plaintiff in a civil case does not need to provide any evidence to support their claim.
+
+(C) The defendant in a civil case may need to provide evidence to establish an affirmative defense.
+
+(D) The prosecutor in a criminal case does not bear the burden of proof.
+
+
+
+The right answer is (C) The defendant in a civil case may need to provide evidence to establish an affirmative defense. This is an exception to the general rule that the burden of proof lies with the person who brings a claim. In the case of an affirmative defense, the defendant is not just denying the claim, but providing a reason or evidence to explain why they are not guilty. Therefore, they bear the burden of proof to establish their defense.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: Which of the following best describes the homestead principle?
+
+
+
+(A) The principle that states that one can gain ownership of an unowned natural resource by performing an act of original appropriation.
+
+(B) The principle that states that one can gain ownership of any property by simply claiming it.
+
+(C) The principle that states that one can gain ownership of an unowned natural resource by simply finding it.
+
+(D) The principle that states that one can gain ownership of any property by buying it.
+
+
+
+The right answer is (A) The principle that states that one can gain ownership of an unowned natural resource by performing an act of original appropriation. The homestead principle is not about simply claiming or finding an unowned resource, but about putting it to active use or marking it as owned. Buying a property is a different concept and not related to the homestead principle.
+
+ 
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: In a post-apocalyptic world, a group of survivors stumble upon an abandoned city. They decide to settle in the city and start rebuilding it. They clear out the debris, repair the buildings, and start farming on the vacant lands. After a few years, another group of survivors arrive at the city and claim that the city belongs to them as they were the original inhabitants before the apocalypse. According to the homestead principle, who should be the rightful owners of the city?
+
+
+
+(A) The original inhabitants because they were the first to live in the city.
+
+(B) The group of survivors who found the city and started rebuilding it.
+
+(C) Both groups should share the city equally.
+
+(D) The city should be considered unowned because it was abandoned.
+
+
+
+The right answer is (B). According to the homestead principle, ownership of an unowned resource is gained by performing an act of original appropriation. In this scenario, the group of survivors who found the city and started rebuilding it were the ones who put the unowned resource (the abandoned city) to active use. Therefore, they should be the rightful owners of the city.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: What is a potential limitation or exception of the homestead principle?
+
+
+
+(A) The principle cannot be applied to unowned natural resources.
+
+(B) The principle cannot be applied to ideas because they can exist in many people's minds at once.
+
+(C) The principle cannot be applied to previously acquired property.
+
+(D) The principle cannot be applied to tangible manifestations of a single idea.
+
+
+
+The right answer is (B). The homestead principle may not be applicable to ideas because, unlike physical resources, ideas can exist in many people's minds at once. This characteristic of ideas challenges the concept of single ownership, which is a fundamental aspect of the homestead principle.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: What does the ""Valid when made"" doctrine in United States law imply?
+
+
+
+(A) The terms of a loan, if legally valid when the loan was made, change when the loan is sold or assigned to a third party.
+
+(B) The terms of a loan, if legally valid when the loan was made, remain valid after the loan is sold or assigned to a third party.
+
+(C) The terms of a loan, if legally valid when the loan was made, are subject to the usury laws of the state where the loan is sold or assigned.
+
+(D) The terms of a loan, if legally valid when the loan was made, are invalid if the loan is sold or assigned to a third party.
+
+
+
+The right answer is (B) The terms of a loan, if legally valid when the loan was made, remain valid after the loan is sold or assigned to a third party. This is the core principle of the ""Valid when made"" doctrine. It allows the terms of a loan, including the interest rate, to remain the same even when the loan is sold or transferred to a third party, regardless of the usury laws of the state where the third party operates.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: A national bank in California lends money to a customer at an interest rate of 15%. This rate is legal in California, so the loan is valid. The bank then decides to sell this loan to a company in Nevada, where the maximum legal interest rate is 10%. The company in Nevada plans to collect interest at the same rate as the original lender. What will likely happen next?
+
+
+
+(A) The company in Nevada will be able to collect interest at the 15% rate, regardless of Nevada's local laws.
+
+(B) The company in Nevada will have to reduce the interest rate to 10% to comply with Nevada's local laws.
+
+(C) The company in Nevada will be penalized for trying to collect interest at a rate higher than Nevada's legal limit.
+
+(D) The company in Nevada will have to return the loan to the California bank because the interest rate is too high.
+
+
+
+The right answer is (A). The company in Nevada will be able to collect interest at the 15% rate, regardless of Nevada's local laws. This is due to the ""Valid when made"" doctrine, which states that the terms of a loan, if legally valid when the loan was made, remain valid after the loan is sold or assigned to a third party. In this case, because the loan was valid when it was made in California, it remains valid even after it's sold to the company in Nevada. This means the Nevada company can collect interest at the same rate as the California bank, regardless of Nevada's local laws.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: What could be a potential limitation or exception to the ""Valid when made"" doctrine?
+
+
+
+(A) The loan was not valid when it was made.
+
+(B) The loan was sold to a third party.
+
+(C) The loan was made by a national bank.
+
+(D) The loan was sold to a secondary lender.
+
+
+
+The right answer is (A) The loan was not valid when it was made. The ""Valid when made"" doctrine only applies if the loan was legally valid at the time it was made. If the loan was not valid when it was made, then it would not remain valid after being sold or assigned to a third party, regardless of the ""Valid when made"" doctrine.
+
+ 
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: Which of the following best describes the concept of ""Loss of Chance"" in English law?
+
+
+
+(A) It refers to a situation where a person loses a chance to win a game due to someone else's interference.
+
+(B) It refers to a problem of causation in tort and contract law, where the law assesses hypothetical outcomes that could have occurred if not for the defendant's breach of contract or duty of care.
+
+(C) It refers to a situation where a person is deprived of a chance to avoid a loss due to their own negligence.
+
+(D) It refers to a situation where a person is deprived of a chance to obtain a benefit due to a third party's negligence, but it is not compensable in any circumstance.
+
+
+
+The right answer is (B). ""Loss of Chance"" in English law refers to a problem of causation in tort and contract law, where the law assesses hypothetical outcomes that could have occurred if not for the defendant's breach of contract or duty of care. This concept is used to determine compensation for the claimant's loss of expectation. While it is generally compensable when the chance was something promised on a contract, it is not generally so in the law of tort, where most cases have been concerned with medical negligence in the public health system.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: John, a professional footballer, was promised a lucrative contract by a major football club if he performed well in the upcoming season. However, during a routine medical check-up, his doctor negligently misdiagnosed a minor injury as a major one, causing John to miss the entire season. John sued the doctor for loss of chance. What is the likely outcome of this case?
+
+
+
+(A) John will be compensated for the loss of chance as the doctor's negligence deprived him of the opportunity to obtain a benefit.
+
+(B) John will not be compensated for the loss of chance as it is not generally compensable in the law of tort.
+
+(C) John will be compensated for the loss of chance only if he can prove that he would have definitely obtained the contract.
+
+(D) John will not be compensated for the loss of chance as it is only applicable in cases of medical negligence in the public health system.
+
+
+
+The right answer is (A) John will be compensated for the loss of chance as the doctor's negligence deprived him of the opportunity to obtain a benefit. This is because the concept of 'Loss of Chance' in English law applies when someone's actions, either by breaking a contract or not taking proper care, prevent you from getting a benefit or avoiding a loss. In this case, the doctor's negligence deprived John of the opportunity to perform well in the season and potentially secure a lucrative contract.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Loss of Chance"" in English law?
+
+
+
+(A) It is not applicable in cases of medical negligence.
+
+(B) It is not generally compensable in the law of tort.
+
+(C) It is only applicable when a contract is involved.
+
+(D) It is not applicable in cases involving public health systems.
+
+
+
+The right answer is (B) It is not generally compensable in the law of tort. The concept explanation and story both highlight that while a loss of chance is compensable when the chance was something promised on a contract, it is not generally so in the law of tort. This is a limitation or exception to the rule.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+10/26/23 16:57,10/26/23 17:18,IP Address,*******,98,1235,FALSE,10/30/23 15:46,R_3kyOGRHXkaM0ZXk,*******,*******,*******,*******,*******,*******,anonymous,EN,0.899999976,5f6912baefd1c50f7f3b83f7,Some knowledge – I have some experience in law,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Male,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,5,5,5,5,5,5,5,4,5,,There is no issue.,5,There is no issue.,4,There are more than one right answers in the 4 candidates.,5,4,5,5,4,5,5,5,5,4,,There is no issue.,5,There is no issue.,5,There is no issue.,5,3,5,5,5,5,5,5,4,5,,There is no issue.,5,There is no right answer in the 4 candidates.,3,There is no issue.,5,5,3,1,5,5,5,4,3,4,,There is no issue.,5,There is no issue.,5,The question is too easy and simple.,3,2,4,3,5,5,5,5,4,5,,There is no issue.,4,There is no issue.,5,There are more than one right answers in the 4 candidates.,4,,,5f6912baefd1c50f7f3b83f7,653ab501e93eb6c026bba9db,653aeed9f66df4e16a9042d3
+10/26/23 13:52,10/26/23 14:19,IP Address,*******,98,1645,FALSE,10/30/23 15:46,R_2zT6FOtl9PHgg2c,*******,*******,*******,*******,*******,*******,anonymous,EN,1,610d4df86c4abc6b5ced6fa0,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Native/bilingual,35-44 years old,Female,,"Master’s Degree (for example: MA, MS, and MEng)",,e h l l o,5,4,4,4,4,4,4,3,3,,There is no issue.,4,There are more than one right answers in the 4 candidates.,4,There is no issue.,4,5,5,5,5,5,5,5,5,5,,There is no issue.,5,There is no issue.,5,There are more than one right answers in the 4 candidates.,5,2,3,3,3,3,3,3,2,3,,There is no issue.,5,There are more than one right answers in the 4 candidates.,3,There is no issue.,4,4,3,3,3,4,3,3,3,3,,There is no issue.,3,There is no issue.,3,There is no issue.,3,3,3,3,3,3,3,3,3,3,,There is no issue.,3,There are more than one right answers in the 4 candidates.,3,There is no issue.,3,None at this moment ,,610d4df86c4abc6b5ced6fa0,653ab501e93eb6c026bba9db,653ac35580d91293ccf6de4f
+10/26/23 13:18,10/26/23 13:38,IP Address,*******,98,1172,FALSE,10/30/23 15:47,R_1N3rCBeNhMci4Pn,*******,*******,*******,*******,*******,*******,anonymous,EN,1,6026c4445810833e0f5f9e3e,Some knowledge – I have some experience in law,Somewhat disagree,Other:,Unemployed,"Laws, legal services and policies",,Native/bilingual,18-24 years old,Female,,"Some college, but no degree",,e h l l o,3,4,4,5,5,5,5,4,5,,There is no issue.,4,"There are more than one right answers in the 4 candidates.,There is no issue.",4,There is no issue.,4,3,3,3,4,4,3,4,3,4,,There is no issue.,4,There is no issue.,4,There is no issue.,4,2,4,3,4,4,4,4,4,4,,There is no issue.,3,There is no issue.,4,"There are more than one right answers in the 4 candidates.,There is no issue.",3,4,4,5,5,5,4,4,4,5,,There is no issue.,4,There is no issue.,4,There is no issue.,4,4,5,4,5,5,5,5,4,5,,There is no issue.,5,There is no issue.,4,There is no issue.,4,,,6026c4445810833e0f5f9e3e,653ab501e93eb6c026bba9db,653abb7f5d2bcf08ea9037aa

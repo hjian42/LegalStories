@@ -1,0 +1,654 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: What is an accurate description of the concept ""Paraphrasing of copyrighted material""?
+
+
+
+(A) Paraphrasing copyrighted material is always considered copyright infringement.
+
+(B) Paraphrasing copyrighted material is never considered copyright infringement.
+
+(C) Paraphrasing copyrighted material is only considered copyright infringement if the idea of the original work is copied.
+
+(D) Paraphrasing copyrighted material may be considered copyright infringement if the expression of the original work is too closely copied, depending on the judgement of the court.
+
+
+
+The right answer is (D). Paraphrasing copyrighted material may be considered copyright infringement if the expression of the original work is too closely copied, depending on the judgement of the court. This is because copyright laws protect the original expression in a work rather than the meanings or ideas being expressed. The degree of difference required between the original work and the paraphrase is not a binary question but depends on a variety of factors and the judgement of the court in each individual case.
+
+ 
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: Imagine you're a writer working on a new novel. You come across a beautifully written passage in a book by a famous author that perfectly encapsulates a concept you want to convey in your story. Instead of copying it word for word, you decide to paraphrase it, changing the structure and some words but keeping the essence of the idea. You publish your novel and it becomes a bestseller. However, the famous author's estate sues you for copyright infringement. What might be the outcome of this case?
+
+
+
+(A) The court will automatically rule in your favor because you paraphrased the passage, not copied it.
+
+(B) The court will automatically rule in favor of the famous author's estate because you used their idea.
+
+(C) The court will rule based on whether your paraphrase is different enough from the original passage to be considered a new expression.
+
+(D) The court will rule based on whether the idea you conveyed is the same as the one in the original passage.
+
+
+
+The right answer is (C). The court will rule based on whether your paraphrase is different enough from the original passage to be considered a new expression. Copyright laws protect the original expression of an idea, not the idea itself. Therefore, even if you paraphrased the passage, if it's too similar to the original, it could be considered copyright infringement. The court will make a practical decision based on the degree of similarity between the two passages.
+
+ 
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Paraphrasing of copyrighted material""?
+
+
+
+(A) Paraphrasing copyrighted material is always considered copyright infringement.
+
+(B) The degree of difference between the original work and the paraphrase is not a binary question but a matter of degree, and depends on the judgement of the court.
+
+(C) Paraphrasing copyrighted material is never considered copyright infringement.
+
+(D) The idea of the copyrighted material is protected, not the expression.
+
+
+
+The right answer is (B). The degree of difference between the original work and the paraphrase is not a binary question but a matter of degree, and depends on the judgement of the court. This is because copyright laws protect the original expression of a work, not the ideas or meanings being expressed. Therefore, whether a paraphrase is considered an infringement of expression or a permissible restatement of an idea is not a straightforward question, but depends on a variety of factors and ultimately the judgement of the court in each individual case.
+
+ 
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: What does the legal doctrine ""Male captus, bene detentus"" imply?
+
+
+
+(A) A person who was wrongly arrested cannot be rightfully detained or tried.
+
+(B) The right to argue about an unfair arrest belongs to the person who was arrested.
+
+(C) The fact that a person may have been wrongly or unfairly arrested, will not prejudice a rightful detention or trial under due process.
+
+(D) All countries and states agree with this doctrine.
+
+
+
+The right answer is (C). The concept ""Male captus, bene detentus"" implies that even if a person was arrested in an unfair or incorrect way, if they are rightfully detained or tried under the law, the initial wrongful arrest doesn't affect the rightful detention or trial. The right to argue about the unfair arrest belongs to the government from whose territory the person was wrongfully taken, not the person who was arrested.
+
+ 
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: In a hypothetical scenario, a notorious criminal from Country X has been hiding in Country Y. The authorities in Country X, without the knowledge or consent of Country Y, send a covert team to capture the criminal. The team successfully apprehends the criminal and brings him back to Country X. The criminal is then put on trial for his crimes in Country X. The criminal's defense team argues that his capture was illegal as it violated the sovereignty of Country Y. How might the concept of ""Male captus, bene detentus"" apply in this scenario?
+
+
+
+(A) The trial in Country X would be deemed invalid due to the illegal capture of the criminal.
+
+(B) The criminal would be released and sent back to Country Y as his capture was illegal.
+
+(C) The criminal's capture would be considered irrelevant, and his trial would proceed in Country X.
+
+(D) The criminal would be granted immunity from prosecution due to his illegal capture.
+
+
+
+The right answer is (C). According to the doctrine of ""Male captus, bene detentus"", even if the criminal was captured in an irregular or unfair way, his trial in Country X could still proceed. The right to argue about the unfair capture belongs to Country Y, not the criminal. Therefore, the criminal's capture would be considered irrelevant, and his trial would proceed in Country X.
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Male captus, bene detentus""?
+
+
+
+(A) The person who was arrested can always argue about the unfairness of their arrest.
+
+(B) The doctrine is universally accepted and practiced in all countries.
+
+(C) The right to argue about the unfair arrest belongs to the country from which the person was wrongfully taken.
+
+(D) The doctrine suggests that the initial wrongful arrest always affects the rightful detention or trial.
+
+
+
+The right answer is (C) The right to argue about the unfair arrest belongs to the country from which the person was wrongfully taken. This is a potential limitation or exception of the rule ""Male captus, bene detentus"" because it means that the person who was arrested does not have the right to argue about the unfairness of their arrest. Instead, that right belongs to the government of the country from which they were wrongfully taken.
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: Which of the following best describes the physical proximity doctrine in criminal law?
+
+
+
+(A) It is a clear-cut rule that defines the exact moment when preparation for a crime becomes an attempt.
+
+(B) It refers to the physical distance between the perpetrator and the location of the intended crime.
+
+(C) It is a standard that distinguishes between the mental preparation for a crime and the physical act of committing it.
+
+(D) It is a standard that distinguishes between preparation for a crime and an actual attempt, based on how close the preparatory acts are to the completed crime.
+
+
+
+The right answer is (D). The physical proximity doctrine is a standard in criminal law that distinguishes between preparation for a crime and an actual attempt. This is determined by how close the preparatory acts are to the completed crime. It is not a clear-cut rule (A is incorrect), it does not refer to physical distance (B is incorrect), and it does not distinguish between mental preparation and the physical act (C is incorrect).
+
+ 
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: In a new movie, the main character, Alice, is planning to steal a priceless artifact from a museum. Alice spends months researching the museum's security system, assembling a team, and procuring the necessary equipment. This is all preparation, but not enough to charge Alice with attempted theft. One day, Alice and her team enter the museum during visiting hours, carrying concealed tools. They make their way to the artifact's display case and Alice starts to disable the security system. Just as she's about to lift the glass case, the security guards apprehend them. Based on the physical proximity doctrine, what could be the possible legal outcome for Alice and her team?
+
+
+
+(A) Alice and her team cannot be charged with anything as they were just visiting the museum.
+
+(B) Alice and her team can be charged with attempted theft, even though they didn't actually steal the artifact.
+
+(C) Alice and her team can only be charged with trespassing as they didn't touch the artifact.
+
+(D) Alice and her team can be charged with theft as they had the intention to steal the artifact.
+
+
+
+The right answer is (B). Alice and her team can be charged with attempted theft, even though they didn't actually steal the artifact. According to the physical proximity doctrine, Alice's actions were not just preparation anymore; she was in the museum, ready to lift the glass case and steal the artifact. Her preparatory acts were so close to the completed crime that they're considered an actual attempt. This is why Alice and her team can be charged with attempted theft, even though they didn't actually steal the artifact. However, it's up to the jury to decide whether Alice was merely preparing or if she had crossed the line into an actual attempt.
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: Which of the following is a potential limitation or exception of the physical proximity doctrine?
+
+
+
+(A) The doctrine only applies to crimes that involve physical actions.
+
+(B) The doctrine cannot be used to charge someone with attempted robbery.
+
+(C) The doctrine provides a clear-cut rule for when preparation becomes an attempt.
+
+(D) The doctrine leaves the determination of whether the standard has been met to the jury.
+
+
+
+The right answer is (D) The doctrine leaves the determination of whether the standard has been met to the jury. This is a potential limitation or exception because it introduces subjectivity into the application of the doctrine. The jury's interpretation of how close the preparatory act was to the completed crime can vary, making the application of the doctrine less predictable.
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+ 
+
+
+Question: What is the ""Spider in the Web"" doctrine in Dutch patent law?
+
+
+
+(A) It is a doctrine that allows the Dutch courts to handle all patent infringement cases, regardless of where the patent was granted.
+
+(B) It is a doctrine that allows the Dutch courts to handle patent infringement cases only when the main defendant is located in the Netherlands and the other defendants are part of a group of companies acting based on a common business policy, regardless of where the patent was granted.
+
+(C) It is a doctrine that allows the Dutch courts to handle patent infringement cases only when the patent was granted in the Netherlands.
+
+(D) It is a doctrine that allows the Dutch courts to handle patent infringement cases only when the main defendant is located in the Netherlands and the patent was granted in the Netherlands.
+
+
+
+The right answer is (B). The ""Spider in the Web"" doctrine in Dutch patent law allows the Dutch courts to handle patent infringement cases only when the main defendant is located in the Netherlands and the other defendants are part of a group of companies acting based on a common business policy, regardless of where the patent was granted. This doctrine does not require the patent to be granted in the Netherlands, as suggested in options (C) and (D), and it does not allow the Dutch courts to handle all patent infringement cases, as suggested in option (A).
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: In a hypothetical scenario, a Dutch company, TechDutch, is the main defendant in a patent infringement case. TechDutch has subsidiaries in Germany, France, and the UK, all of which follow the business policies of TechDutch. The patent in question was granted in the United States to a US-based company, TechUS, which accuses TechDutch and its subsidiaries of infringing on its patent. How might the ""Spider in the Web"" doctrine apply in this case, and what could be the potential outcome?
+
+
+
+(A) The Dutch courts would not assume jurisdiction because the patent was granted in the United States.
+
+(B) The Dutch courts would assume jurisdiction because TechDutch, the main defendant, is based in the Netherlands and its subsidiaries follow its business policies.
+
+(C) The European Court of Justice would assume jurisdiction because the patent was granted in the United States.
+
+(D) The US courts would assume jurisdiction because the patent was granted in the United States.
+
+
+
+The right answer is (B) The Dutch courts would assume jurisdiction because TechDutch, the main defendant, is based in the Netherlands and its subsidiaries follow its business policies. According to the ""Spider in the Web"" doctrine, the Dutch courts would assume jurisdiction in cases where the main defendant is located in the Netherlands and the other defendants are part of a group of companies that act based on a common business policy of this group, regardless of the nation in which the disputed patent was issued. However, it's important to note that the European Court of Justice has cast some doubt on the continuing validity of this doctrine, preferring to grant jurisdiction to the countries in which the patent was granted.
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: What is a potential limitation or exception of the ""Spider in the Web"" doctrine in Dutch patent law?
+
+
+
+(A) The doctrine cannot be applied if the main defendant is not based in the Netherlands.
+
+(B) The doctrine cannot be applied if the patent in question was granted in the Netherlands.
+
+(C) The doctrine cannot be applied if the other defendants are not part of a group of companies.
+
+(D) The doctrine cannot be applied if the European Court of Justice believes that the Dutch courts should not make decisions about patents granted in other countries.
+
+
+
+The right answer is (D). The European Court of Justice has cast doubt on the ""Spider in the Web"" doctrine, believing that Dutch courts should not make decisions about patents that were granted in other countries. Instead, they believe that the courts in the country where the patent was granted should handle these cases. This is a potential limitation or exception to the doctrine.
+
+ 
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+ 
+
+
+Question: Which of the following best describes the concept of Res Judicata?
+
+
+
+(A) It is a legal doctrine that allows for the reconsideration of a case in a different court.
+
+(B) It is a rule that a final judgment by a court is the final say in a dispute, and the same issue cannot be brought up again in the same or different court.
+
+(C) It is a method that allows litigants to get multiple judgments on the same issue.
+
+(D) It is a legal principle that allows future judgments to contradict earlier ones.
+
+
+
+The right answer is (B). Res Judicata, also known as claim preclusion, is a rule that a final judgment by a court is the final say in a dispute, and the same issue cannot be brought up again in the same or different court. This doctrine is meant to prevent the relitigation of a claim between the same parties, ensuring fairness and avoiding unnecessary waste of judicial resources. It does not allow for reconsideration of a case in a different court (A), does not allow litigants to get multiple judgments on the same issue (C), and does not allow future judgments to contradict earlier ones (D).
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: John and Mary were involved in a car accident. John sued Mary for damages in a state court and won the case. Mary, unhappy with the decision, decided to sue John in a federal court for the same accident, claiming that the state court decision was unfair. What is the most likely outcome of Mary's lawsuit in the federal court?
+
+
+
+(A) The federal court will hear the case and make a new judgment.
+
+(B) The federal court will dismiss the case based on the doctrine of Res Judicata.
+
+(C) The federal court will reverse the state court's decision and rule in favor of Mary.
+
+(D) The federal court will order a retrial in the state court.
+
+
+
+The right answer is (B). The federal court will dismiss the case based on the doctrine of Res Judicata. This is because Res Judicata, also known as claim preclusion, prevents a case that has been finally decided from being re-litigated in the same or different court. Since Mary's case has already been decided in the state court and is no longer subject to appeal, the federal court will likely dismiss her lawsuit based on the doctrine of Res Judicata to prevent injustice and unnecessary waste of judicial resources.
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+Question: What could be a potential limitation or exception to the rule of Res Judicata?
+
+
+
+(A) The rule of Res Judicata can be applied even if the case is still subject to appeal.
+
+(B) The rule of Res Judicata can be applied to cases that have not yet reached a final judgment.
+
+(C) The rule of Res Judicata can be bypassed if the parties involved agree to re-litigate the case.
+
+(D) The rule of Res Judicata can be bypassed if new evidence emerges that could potentially change the outcome of the case.
+
+
+
+The right answer is (D) The rule of Res Judicata can be bypassed if new evidence emerges that could potentially change the outcome of the case. The concept of Res Judicata is based on the finality of a judgment, but if new evidence that was not available during the original trial comes to light, it could potentially provide grounds for reopening the case, thus serving as an exception to the rule.
+
+
+Select all the issues you observe in the suggested question and answer above (if there is no noticeable issue, please select the last option ""There is no issue.""):","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+10/17/23 23:42,10/18/23 0:19,IP Address,*******,100,2229,TRUE,10/18/23 0:19,R_2D6K3Xhh0etwhfZ,*******,*******,*******,*******,*******,*******,anonymous,EN,0.899999976,60fec3441bfba411416b4925,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Healthcare, medical science, biology, life science, and pharmaceutical translations",,"Healthcare, medical science, biology, life science, and pharmaceutical translations",,Native/bilingual,18-24 years old,Female,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,5,5,5,5,5,5,5,5,5,The story gives a better understanding of paraphrasing in copyright laws. It reduced ambiguities in the law.,There is no issue.,5,There are more than one right answers in the 4 candidates.,4,There is no issue.,4,4,5,5,5,5,5,5,5,5,The story elevates the understanding of the legal concept.,There is no issue.,5,There is no issue.,5,"Other issues not covered above,There is no issue.",5,4,5,5,4,5,5,5,5,5,The story explains the main facts of the legal terms.,There is no issue.,5,"The question is too easy and simple.,There is no issue.",5,There is no issue.,5,3,4,4,4,4,4,4,4,5,The story explains the concept but not in better layman's terms.,There is no issue.,5,"Other issues not covered above,There is no issue.",5,There is no issue.,5,5,5,5,5,5,5,5,5,5,No Comment.,"The question is too easy and simple.,There is no issue.",5,"The question is confusing.,There are more than one right answers in the 4 candidates.,Other issues not covered above",4,There is no issue.,5,The story elevates the understanding of the legal concepts and give better description to evaluate other cases.,No comment.,60fec3441bfba411416b4925,652f63f636cd8fdf29bdef17,652f70373fbbbecf9689afaa
+10/18/23 0:03,10/18/23 1:25,IP Address,*******,98,4927,FALSE,10/18/23 7:48,R_2wQDxluRYfx8PXc,*******,*******,*******,*******,*******,*******,anonymous,EN,1,5cd46c9e8398500001513743,Some knowledge – I have some experience in law,Somewhat disagree,Other:,Benefits ,Other:,Sociology ,Native/bilingual,25-34 years old,Female,,"Associates Degree (for example: AA, AS)",,e h l l o,5,5,5,3,4,4,5,5,5,None,"There are more than one right answers in the 4 candidates.,Other issues not covered above",2,There is no issue.,4,The reasoning given in the suggested answer is wrong or flawed.,3,4,4,4,1,3,4,4,3,5,None ,The question is too easy and simple.,5,The question is too easy and simple.,5,There is no issue.,5,2,5,5,5,4,4,5,5,5,None ,There is no issue.,4,"The question is too easy and simple.,There is no issue.",5,The question cannot be derived from the definition or story above.,3,4,5,4,4,5,4,4,4,5, None ,There is no issue.,5,"The question is too easy and simple.,Other issues not covered above",4,"The question is too easy and simple.,There is no issue.",5,4,4,5,5,5,4,5,5,5,None ,"The question is too easy and simple.,There is no issue.",5,The question is too easy and simple.,4,There is no issue.,5,Make the stories shorter ,None,5cd46c9e8398500001513743,652f63f636cd8fdf29bdef17,652f751fdf682abb68a23e25
+10/17/23 23:57,10/18/23 0:22,IP Address,*******,98,1542,FALSE,10/18/23 7:48,R_1pxp4DzDYz8BTnU,*******,*******,*******,*******,*******,*******,anonymous,EN,1,60dd4616c232b68493415fb9,Some knowledge – I have some experience in law,Somewhat disagree,Other:,Retail,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Male,,"Some college, but no degree",,e h l l o,4,5,5,3,5,4,5,5,5,It explained it better and easier than the original definition ,There is no issue.,4,There is no issue.,4,There is no issue.,4,4,5,4,3,4,3,4,4,3,It was a bit long winded,There is no issue.,4,The question is confusing.,2,There is no issue.,4,3,4,4,3,4,4,4,5,5,It was a lot easier to understand than the actual definition ,There is no issue.,4,There is no issue.,5,The question is too easy and simple.,3,2,2,3,2,4,3,3,2,3,It was difficult to understand still,The question is confusing.,1,There is no issue.,4,There is no issue.,5,4,5,5,4,5,5,4,5,5,It was put in a good way but still used the correct legal jargon ,There is no issue.,5,There is no issue.,4,The question cannot be derived from the definition or story above.,2,None ,It was fun and easy to do ,60dd4616c232b68493415fb9,652f63f636cd8fdf29bdef17,652f739241778f59c1c6ff89

@@ -1,0 +1,781 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What does the principle ""Audi alteram partem"" entail?
+
+
+
+(A) It means that a person should be judged immediately based on the evidence presented against them.
+
+(B) It means that a person should be heard only if they can afford a lawyer.
+
+(C) It means that a person should be heard only if they have their own witnesses.
+
+(D) It means that no person should be judged without a fair hearing in which each party is given the opportunity to respond to the evidence against them.
+
+
+
+The right answer is (D). The principle ""Audi alteram partem"" is a Latin phrase meaning ""listen to the other side"", or ""let the other side be heard as well"". It is a principle of fundamental justice that ensures that no person should be judged without a fair hearing where they have the opportunity to respond to the evidence against them. This includes the rights to confront the witnesses against them, challenge the evidence, summon their own witnesses, present their own evidence, and have counsel, if necessary at public expense.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: In a small town, a local bakery is accused of food poisoning by several customers. The town council immediately decides to shut down the bakery without hearing the bakery owner's side of the story. The bakery owner, Mr. Smith, insists that he follows all health and safety regulations and that the food poisoning could have been caused by other factors. How should the principle of ""Audi alteram partem"" be applied in this situation?
+
+
+
+(A) The town council should stick to their decision and keep the bakery closed since multiple customers reported food poisoning.
+
+(B) The town council should reopen the bakery immediately without investigating the food poisoning claims.
+
+(C) The town council should hear Mr. Smith's side of the story, investigate the claims thoroughly, and then make a decision.
+
+(D) The town council should ignore Mr. Smith's claims since the majority of customers reported food poisoning.
+
+
+
+The right answer is (C). According to the principle of ""Audi alteram partem"", no person should be judged without a fair hearing in which each party is given the opportunity to respond to the evidence against them. In this case, the town council should hear Mr. Smith's side of the story and investigate the claims thoroughly before making a decision. This ensures a fair process and respects the rights of Mr. Smith to defend his bakery against the accusations.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Audi alteram partem""?
+
+
+
+(A) The rule does not apply if the person accused of wrongdoing is a minor.
+
+(B) The rule does not apply if the person accused of wrongdoing cannot afford a lawyer.
+
+(C) The rule does not apply if the person accused of wrongdoing refuses to speak or present evidence.
+
+(D) The rule does not apply if the person accused of wrongdoing is a public figure.
+
+
+
+The right answer is (C). The principle of ""Audi alteram partem"" ensures that everyone has the right to present their side of the story and challenge the evidence against them. However, if the person accused of wrongdoing refuses to speak or present evidence, this principle cannot be fully applied. The other options are incorrect because the principle applies regardless of the person's age, financial status, or public status.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following statements best describes the nondelegation doctrine?
+
+
+
+(A) It is a principle that allows one branch of government to delegate its constitutionally authorized powers to another branch or entity.
+
+(B) It is a doctrine that allows executive officials to delegate all their powers to their subordinates within the executive branch.
+
+(C) It is a theory that one branch of government must not authorize another entity to exercise the power or function which it is constitutionally authorized to exercise itself.
+
+(D) It is a principle that encourages the delegation of powers among the three branches of government to ensure a balanced system.
+
+
+
+The right answer is (C). The nondelegation doctrine is a theory that one branch of government must not authorize another entity to exercise the power or function which it is constitutionally authorized to exercise itself. This principle is designed to maintain the separation of powers and prevent improper delegation of responsibilities. It is usually applied in questions of constitutionally improper delegations of powers of any of the three branches of government to either of the other, to the administrative state, or to private entities.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+Question: In a hypothetical scenario, the United States Congress passes a law that gives the Environmental Protection Agency (EPA), an executive branch agency, the power to create and enforce any regulations it deems necessary to protect the environment. The EPA then contracts a private company to create and enforce these regulations. What is the most likely outcome of this scenario?
+
+
+
+(A) The Supreme Court would uphold the law because the EPA is part of the executive branch, which has the power to enforce laws.
+
+(B) The Supreme Court would strike down the law because it violates the nondelegation doctrine.
+
+(C) The Supreme Court would uphold the law because the private company is effectively a part of the EPA.
+
+(D) The Supreme Court would strike down the law because the EPA is not part of the legislative branch.
+
+
+
+The right answer is (B). The Supreme Court would strike down the law because it violates the nondelegation doctrine. According to the nondelegation doctrine, one branch of government (in this case, the legislative branch) must not authorize another entity (in this case, the EPA, an executive branch agency) to exercise the power or function which it is constitutionally authorized to exercise itself. Furthermore, the EPA's delegation of its powers to a private company also violates the nondelegation doctrine.
+
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: What is a potential limitation or exception to the nondelegation doctrine?
+
+
+
+(A) The legislative branch can delegate its powers to the executive branch.
+
+(B) The judicial branch can delegate its powers to the executive branch.
+
+(C) High-ranking executive officials can delegate some tasks to their subordinates.
+
+(D) Public bodies in the United Kingdom can freely delegate their powers granted by Parliament to others.
+
+
+
+The right answer is (C) High-ranking executive officials can delegate some tasks to their subordinates. The story mentions that within a branch, some delegation is allowed. For instance, a high-ranking executive official can delegate some tasks to their subordinates. This is an exception to the nondelegation doctrine, which generally prohibits one branch of government from delegating its constitutionally authorized powers to another entity.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following best describes the concept of 'beyond a reasonable doubt' in a criminal case?
+
+
+
+(A) It is the level of certainty required to validate a civil case.
+
+(B) It is the standard of proof required to validate a criminal conviction, where the prosecution must provide evidence that establishes guilt beyond any reasonable doubt.
+
+(C) It is the level of certainty that allows a defendant to be convicted even if there is some doubt about their guilt.
+
+(D) It is the standard of proof that allows a defendant to be acquitted if the prosecution fails to provide any evidence.
+
+
+
+The right answer is (B). 'Beyond a reasonable doubt' is the standard of proof required to validate a criminal conviction. The prosecution is tasked with providing evidence that establishes guilt beyond any reasonable doubt. If they succeed, the defendant will likely be convicted. But if they fail, and the judge or jury still has that nagging doubt, the defendant is entitled to be acquitted, or found not guilty. This standard is more stringent than the 'balance of probabilities' standard used in civil cases due to the severe consequences of a criminal conviction.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+Question: In a hypothetical scenario, a man named John is accused of a high-profile robbery. The prosecution presents surveillance footage showing a man with similar height and build to John near the scene of the crime around the time it occurred. They also present a witness who claims to have seen John in the area. However, the footage is grainy and the man's face is not clearly visible. The defense presents evidence that John was at a restaurant during the time of the robbery, but the restaurant's CCTV was not working that day. The only evidence they have is a receipt from the restaurant and a waiter who vaguely remembers serving John. Based on the concept of 'beyond a reasonable doubt', what is the most likely outcome of this case?
+
+
+
+(A) John will be convicted because the prosecution has presented strong evidence.
+
+(B) John will be acquitted because the defense has presented strong evidence.
+
+(C) John will be convicted because the defense's evidence is not strong enough.
+
+(D) John will be acquitted because the prosecution's evidence does not remove all reasonable doubt.
+
+
+
+The right answer is (D) John will be acquitted because the prosecution's evidence does not remove all reasonable doubt. The concept of 'beyond a reasonable doubt' requires the prosecution to present evidence that leaves no room for any doubt that could be considered reasonable. In this case, the prosecution's evidence is not strong enough to remove all reasonable doubt about John's guilt. The surveillance footage is grainy and does not clearly show the man's face, and the witness's testimony could be unreliable. On the other hand, the defense has presented some evidence of John's innocence, even though it is not definitive. Therefore, according to the principle of 'beyond a reasonable doubt', John should be acquitted.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Beyond a reasonable doubt""?
+
+
+
+(A) The prosecution does not need to provide evidence that establishes guilt beyond a reasonable doubt.
+
+(B) The standard of proof is lower in criminal cases than in civil cases.
+
+(C) The defendant is not entitled to an acquittal if the standard of proof of guilt beyond a reasonable doubt has not been met.
+
+(D) The concept of 'reasonable doubt' can be subjective and may vary from person to person.
+
+
+
+The right answer is (D). The concept of 'reasonable doubt' can be subjective and may vary from person to person. This is because what one person may consider a 'reasonable doubt', another person may not. This subjectivity can potentially lead to inconsistencies in the application of this rule.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following best describes the concept of ""Duty of Care""?
+
+
+
+(A) It is a legal obligation that requires individuals to act in a way that could potentially harm others.
+
+(B) It is a legal obligation that requires individuals to act with reasonable care to avoid foreseeable harm to others.
+
+(C) It is a legal obligation that applies only to individuals who have a contractual or familial relationship.
+
+(D) It is a legal obligation that requires individuals to intentionally harm others to be held liable.
+
+
+
+The right answer is (B). ""Duty of Care"" is a legal obligation that requires individuals to act with reasonable care to avoid foreseeable harm to others. It is not about intentionally causing harm (as in A and D) or only applying to those with a contractual or familial relationship (as in C). It is about acting responsibly and carefully in situations where our actions could potentially harm others, even if we have no direct relationship with them.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Imagine you're at a construction site. The site manager, Mr. Smith, is responsible for ensuring the safety of the site. One day, a heavy piece of equipment falls from a height and injures a passerby, Mr. Johnson, who was walking on the sidewalk next to the construction site. Mr. Johnson decides to sue Mr. Smith and the construction company. In this scenario, how might the concept of ""Duty of Care"" apply?
+
+
+
+(A) Mr. Smith and the construction company cannot be held responsible because Mr. Johnson was not an employee or directly related to the construction site.
+
+(B) Mr. Smith and the construction company cannot be held responsible because the equipment fell due to a mechanical failure, not due to their direct actions.
+
+(C) Mr. Smith and the construction company can be held responsible if it's proven that they didn't take reasonable care to ensure the safety of the site, which led to the injury of Mr. Johnson.
+
+(D) Mr. Smith and the construction company can be held responsible only if it's proven that they intentionally caused the equipment to fall.
+
+
+
+The right answer is (C). The concept of ""Duty of Care"" applies to everyone, even strangers. In this scenario, Mr. Smith and the construction company had a duty of care to ensure the safety of the construction site, which includes preventing harm to passersby like Mr. Johnson. If it's proven that they didn't take reasonable care to ensure the safety of the site, they could be held liable for Mr. Johnson's injury, even if the equipment fell due to a mechanical failure. This is because their duty of care includes maintaining the equipment and ensuring it's safe to use.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Duty of Care"" based on the concept and story provided?
+
+
+
+(A) The duty of care only applies to individuals who have a direct relationship (familial or contractual).
+
+(B) The duty of care is always explicitly defined by law.
+
+(C) The duty of care does not apply if the harm caused was unintentional.
+
+(D) The duty of care does not apply to individuals who are strangers.
+
+
+
+The right answer is (C) The duty of care does not apply if the harm caused was unintentional. This is incorrect because even if harm was unintentional, as in the case of the baseball player, a person can still be held liable if they did not take reasonable care to prevent potential harm to others. The duty of care applies to all individuals, regardless of their relationship (A), it is not always explicitly defined by law (B), and it applies even to strangers (D).
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+Question: Which of the following scenarios best illustrates the concept of ""Inequality of bargaining power""?
+
+
+
+(A) Two vendors at a farmer's market are selling apples at the same price, and customers can choose from whom to buy.
+
+(B) A vendor at a farmer's market is the only one selling apples, and can set the price and terms of sale.
+
+(C) A customer at a farmer's market wants to buy apples, but there are no vendors selling them.
+
+(D) Two vendors at a farmer's market are selling apples, but one vendor's apples are of much higher quality.
+
+
+
+The right answer is (B). The concept of ""Inequality of bargaining power"" refers to a situation where one party to a bargain, contract, or agreement has more and better alternatives than the other party. In option (B), the vendor is the only one selling apples, giving them the power to set the price and terms of sale. The customers have no other options but to buy from this vendor if they want apples, which gives the vendor more power in the negotiation process. This scenario accurately represents the concept of ""Inequality of bargaining power"".
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Imagine a scenario where a small town has only one hospital, and the hospital decides to increase the price of its services significantly. The residents of the town have no other choice but to use the services of this hospital, as the next nearest hospital is several hours away. The hospital, knowing this, refuses to negotiate the prices with the residents. This is a clear case of 'inequality of bargaining power'. What could be the possible outcome of this situation?
+
+
+
+(A) The residents will have to pay the increased prices without any intervention.
+
+(B) The hospital will be forced to lower its prices due to public pressure.
+
+(C) The law may step in to impose mandatory terms into the hospital's contracts or decide not to enforce a contract if it's deemed unfair.
+
+(D) The residents will start their own hospital to create competition.
+
+
+
+The right answer is (C). The law may step in to impose mandatory terms into the hospital's contracts or decide not to enforce a contract if it's deemed unfair. This is because the concept of 'inequality of bargaining power' serves as a justification for the implication of mandatory terms into contracts by law, or the non-enforcement of a contract by the courts. In this scenario, the hospital has more power in the negotiation due to having more and better alternatives, which can lead to unfair contracts and market failure. Therefore, to correct this imbalance, the law may intervene.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception to the rule of ""Inequality of bargaining power""?
+
+
+
+(A) The law may intervene to correct the imbalance by imposing mandatory terms into contracts.
+
+(B) The party with less bargaining power can always refuse to enter into the contract.
+
+(C) The party with more bargaining power is legally obligated to share their profits with the party with less bargaining power.
+
+(D) The party with more bargaining power is always guaranteed to gain more favourable terms.
+
+
+
+The right answer is (A) The law may intervene to correct the imbalance by imposing mandatory terms into contracts. This is because, as explained in the concept and story, when there is a persistent inequality of bargaining power that could lead to unfair contracts and market failure, the law may step in to correct this imbalance. This could be done by imposing mandatory terms into contracts or even deciding not to enforce a contract if it's deemed unfair due to the inequality of bargaining power. This serves as a potential limitation or exception to the rule of ""Inequality of bargaining power"".
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+10/28/23 12:11,10/28/23 12:45,IP Address,*******,98,2011,FALSE,10/30/23 16:02,R_31uEemOIUPjBgNv,*******,*******,*******,*******,*******,*******,anonymous,EN,1,5a3bbcac94507d00013f965f,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Male,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,5,5,5,5,5,5,5,5,5,The story really brings the definition to life and highlights the importance of this fundamental legal concept.,"The question is too easy and simple.,There is no issue.",3,There is no issue.,4,There is no issue.,4,4,5,5,5,5,5,5,5,5,I thought the story was clear and precise.,There is no issue.,4,There is no issue.,5,There is no issue.,5,5,4,4,4,5,5,4,3,3,"I thought the first part of the story was not necessary and although it provided a real life example, I think it was irrelevant. However, the rest of the story was good. ",There are more than one right answers in the 4 candidates.,3,There is no issue.,4,There is no right answer in the 4 candidates.,2,5,3,3,4,2,2,3,2,2,"There is an argument in the story that the supporter knowingly accepts the chances of being hit by the ball and suffering an injury by attending the game. The duty of care, in my opinion, would fall on the stadium/ ground operator and not put supporters in the line for fire.",There is no issue.,5,There is no issue.,5,There is no issue.,4,4,5,5,5,5,5,5,5,5,Story is highly relevant and makes the definition clear.,There is no issue.,5,There are more than one right answers in the 4 candidates.,4,There are more than one right answers in the 4 candidates.,4,Space to provide feedback to the three questions.,Interesting study,5a3bbcac94507d00013f965f,653d2eef04f12a7a7f04a7e3,653d4ecd14d143d888af0b4b
+10/28/23 11:22,10/28/23 11:51,IP Address,*******,98,1729,FALSE,10/30/23 16:02,R_31pww35wtGf5Wle,*******,*******,*******,*******,*******,*******,anonymous,EN,0.899999976,607ca741fd54ce0bd3846328,Some knowledge – I have some experience in law,Somewhat disagree,"Business, finance, accounting, marketing, economics",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Female,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,4,5,4,5,5,5,5,5,5,"easy to read, nice examples",There is no issue.,5,There is no issue.,5,There is no issue.,5,4,5,5,5,5,5,5,5,5,"good examples proved, thorough explanation",The question is confusing.,2,There is no issue.,5,There is no issue.,5,4,5,5,5,5,5,5,5,5,"very good examples, reads well",There is no issue.,5,There is no issue.,5,There is no issue.,5,4,5,4,5,5,5,5,5,5,good simple explanations given to illustrate the concept,There is no issue.,5,There is no issue.,5,"The question is confusing.,The reasoning given in the suggested answer is wrong or flawed.",2,4,5,5,5,5,5,5,5,5,"simple story, is easy to read and understand",There is no issue.,5,There is no issue.,5,There is no issue.,5,a box to note any specific issues with questions that are being evaluated,n/a,607ca741fd54ce0bd3846328,653d2eef04f12a7a7f04a7e3,653d433ccf55afb339c55a62
+10/30/23 16:07,10/30/23 16:31,IP Address,*******,98,1393,FALSE,10/30/23 17:48,R_2vkWBpK98k2TDKw,*******,*******,*******,*******,*******,*******,anonymous,EN,1,62bdfe451d380bec13a4a864,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Native/bilingual,25-34 years old,Female,,"Master’s Degree (for example: MA, MS, and MEng)",,e h l l o,4,5,4,4,4,4,5,4,4,it seemed like it was aimed at younger people,There is no issue.,5,There is no issue.,4,There is no issue.,4,3,4,3,3,3,5,4,3,4,the story could have used the example more clearly instead of jumping to another country's usage,There is no issue.,4,There is no issue.,4,There is no issue.,4,4,5,4,4,5,3,5,5,5,a little to general ,There is no issue.,4,There are more than one right answers in the 4 candidates.,3,There is no issue.,4,4,3,3,2,3,4,3,3,3,very repetitive and unclear,There is no issue.,5,The reasoning given in the suggested answer is wrong or flawed.,2,"The question is confusing.,The reasoning given in the suggested answer is wrong or flawed.",3,3,4,4,4,5,5,5,4,5,concise and helpful,There is no issue.,5,There is no issue.,4,The question is confusing.,3,"bolded or underlined definitions that would make it easier to look for certain terms or definitions, a font color other than red would make it easier tor ead","if the font was a better color, bigger, bolder, etc. to make it more readable.",62bdfe451d380bec13a4a864,653d2eef04f12a7a7f04a7e3,6540292c76437cf7242a3a8b

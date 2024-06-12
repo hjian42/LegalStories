@@ -1,0 +1,882 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-is-story,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-is-story,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-is-story,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-is-story,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-is-story,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following accurately describes the Doctrine of Foreign Equivalents?
+
+
+
+A) A rule that requires all trademarks to be translated into English before they can be registered.
+
+B) A rule that allows parties to use foreign words as marks, even if they are generic or descriptive in their original language.
+
+C) A rule that requires courts and the TTAB to translate foreign words in determining registrability or similarity with existing marks.
+
+D) A rule that prohibits the use of foreign words in trademarks altogether.
+
+
+
+The right answer is C) A rule that requires courts and the TTAB to translate foreign words in determining registrability or similarity with existing marks.
+
+
+
+Explanation: The Doctrine of Foreign Equivalents is a rule in US trademark law that requires courts and the TTAB to translate foreign words when determining whether a trademark can be registered or if it's too similar to an existing mark. This rule applies when a party uses a word as a mark that has a different meaning than its original language, or if it's generic or descriptive in a foreign language. The purpose of this doctrine is to protect consumers from confusion or deception caused by the use of foreign words in trademarks, and to ensure that consumers are not misled by foreign words that may have a different meaning or connotation in the US market. Therefore, option C is the correct answer.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: A company named ""Sake"" wants to register their name as a trademark in the US. ""Sake"" is a Japanese word for a type of rice wine. How would the TTAB apply the doctrine of foreign equivalents in this scenario?
+
+
+
+A) The TTAB would refuse to register the mark because ""sake"" is a generic term for a type of alcoholic beverage in Japanese.
+
+B) The TTAB would register the mark without translation because ""sake"" is a well-known term in the US among Japanese cuisine enthusiasts.
+
+C) The TTAB would translate ""sake"" into English as ""rice wine"" and assess the mark's registrability.
+
+D) The TTAB would translate ""sake"" into English as ""Japanese alcohol"" and assess the mark's registrability.
+
+
+
+The right answer is C) The TTAB would translate ""sake"" into English as ""rice wine"" and assess the mark's registrability.
+
+
+
+Explanation: The doctrine of foreign equivalents requires the TTAB to translate foreign words into English when evaluating a trademark application. In this scenario, ""sake"" is a Japanese word that has a specific meaning (rice wine), which may not be immediately familiar to American consumers who don't speak Japanese. To ensure that consumers are not misled by the use of a foreign word, the TTAB would translate ""sake"" into English as ""rice wine"" and then assess whether the mark is registrable or potentially confusing with other existing marks.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Doctrine_of_foreign_equivalents""?
+
+
+
+A) The rule only applies to languages that are widely spoken in the United States.
+
+B) The rule does not apply to marks that are generic or descriptive in the original language.
+
+C) The rule only applies to cases where the foreign word has a different meaning than its original language.
+
+D) The rule does not apply to marks that are registered in foreign countries.
+
+
+
+The right answer is B) The rule does not apply to marks that are generic or descriptive in the original language.
+
+
+
+Explanation: The doctrine of foreign equivalents is a rule that requires courts and the TTAB to translate foreign words in determining whether they are registrable as trademarks or confusingly similar with existing marks. However, this rule does not apply to marks that are generic or descriptive in the original language. This means that if a party uses a word as a mark that is generic or descriptive in a foreign language, it will not be translated and evaluated in the same way as a mark that has a unique meaning or connotation. In such cases, the TTAB will assess the mark's registrability based on its original language meaning, without translation. Therefore, option B is the correct answer.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+Question: Which of the following is an accurate description of the concept ""Prosecutorial Discretion""?
+
+
+A) The power of prosecutors to choose which crimes to pursue and which ones to let slide, based on guidelines and their professional judgment.
+
+B) The requirement for prosecutors to charge everyone who commits a crime, regardless of the severity or circumstances.
+
+C) A principle that gives prosecutors the freedom to decide which cases to take on and which to drop, based on their assessment of the case's merits and priorities.
+
+D) A rule that prohibits prosecutors from charging anyone with a minor offense, in order to focus on more serious crimes.
+
+
+
+The right answer is (A) The power of prosecutors to choose which crimes to pursue and which ones to let slide, based on guidelines and their professional judgment.
+
+
+
+Explanation: Prosecutorial discretion refers to the power of prosecutors to exercise their professional judgment when deciding whether or not to bring criminal charges against an individual. This includes taking into account factors such as the severity of the crime, the strength of evidence, and the priorities of the office. While there are guidelines that prosecutors must follow, they have a significant amount of discretion when it comes to deciding which cases to pursue. Therefore, option (A) accurately describes the concept of prosecutorial discretion.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+Question: A suspect has been caught on camera committing a minor crime, but the prosecutor decides not to charge them. The reason for this decision is:
+
+
+
+A) The prosecutor wants to give the suspect a second chance.
+
+B) There isn't enough evidence to prove the suspect committed the crime.
+
+C) The prosecutor wants to focus on more serious crimes.
+
+D) The suspect has connections with powerful people and the prosecutor doesn't want to mess with them.
+
+
+
+The right answer is C) The prosecutor wants to focus on more serious crimes.
+
+
+
+Explanation: In this scenario, the prosecutor has used their discretion to decide not to charge the suspect with a minor crime. This could be because they want to focus their resources on more serious crimes that are considered a higher priority. This is an example of prosecutorial discretion being used to prioritize cases that are deemed more important.
+
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Prosecutorial_discretion""?
+
+
+
+A) The principle of opportunity, which gives prosecutors the freedom to decide which cases to take on and which to drop.
+
+B) Compulsory prosecution, which requires prosecutors to charge everyone who commits a crime, regardless of the circumstances.
+
+C) Guidelines that prosecutors must follow when exercising their discretion.
+
+D) The fact that prosecutors still have to follow the law and ensure they're not abusing their discretion.
+
+
+
+The right answer is B) Compulsory prosecution, which requires prosecutors to charge everyone who commits a crime, regardless of the circumstances.
+
+
+
+Explanation: While prosecutorial discretion gives prosecutors the power to choose which crimes to pursue and which ones to let slide, compulsory prosecution does not allow for this discretion. In countries where compulsory prosecution applies, prosecutors are required to charge everyone who commits a crime, no matter how small or large. This means that they don't have the same level of flexibility as prosecutors in countries where prosecutorial discretion exists.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: Which of the following accurately describes the concept of ""Safe Harbor (law)""?
+
+
+
+A) A provision that specifies conduct that will be deemed to violate a given rule.
+
+B) A provision that clearly states what behavior is allowed and won't be considered illegal or against a specific rule.
+
+C) A provision that leaves certain behaviors to be judged according to a vague standard.
+
+D) A provision that defines what behavior is permitted, while leaving other behaviors to be evaluated based on the original vague standard.
+
+
+
+The right answer is B: A provision that clearly states what behavior is allowed and won't be considered illegal or against a specific rule.
+
+
+
+Explanation: The concept of Safe Harbor (law) refers to a provision in a statute or regulation that explicitly states what conduct is permitted and will not be considered a violation of a given rule. It provides a clear exception to a broader, more general standard, thereby providing legal certainty and clarity. In contrast, an unsafe harbor describes conduct that will be deemed to violate the rule.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: A driver is charged with reckless driving for traveling 75 mph in a 55 mph zone. The driver argues that they were driving within the safe harbor provision of the reckless driving statute. Which of the following scenarios is most likely to occur?
+
+
+
+A) The court finds the driver guilty of reckless driving because 75 mph is still considered dangerous even though it's within the safe harbor range.
+
+B) The court dismisses the charges because the driver was within the safe harbor speed limit of 25-90 mph.
+
+C) The court reduces the charge to a minor traffic violation since the driver was only slightly above the safe harbor speed limit.
+
+D) The court rules that the safe harbor provision does not apply in this case because the driver was driving recklessly regardless of their speed.
+
+
+
+The right answer is B) The court dismisses the charges because the driver was within the safe harbor speed limit of 25-90 mph.
+
+
+
+Explanation: In this scenario, the driver is arguing that they were driving within the safe harbor provision of the reckless driving statute, which states that driving at a speed of 25 mph or less will definitely not be considered reckless driving. Since the driver was traveling at 75 mph, which is within the safe harbor range of 25-90 mph, the court would likely dismiss the charges because the driver's behavior falls within the clear exception provided by the safe harbor clause.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Safe Harbor (law)""?
+
+
+
+A) The safe harbor provision only applies to cases where the conduct in question is clearly defined and falls within its scope.
+
+B) The safe harbor provision does not apply to cases where the conduct in question is not explicitly mentioned in the statute or regulation.
+
+C) The safe harbor provision only applies to cases where the conduct in question is popularly accepted as being reasonable and appropriate.
+
+D) The safe harbor provision does not apply to cases where the conduct in question was performed with an intent to harm or deceive.
+
+
+
+The right answer is A) The safe harbor provision only applies to cases where the conduct in question is clearly defined and falls within its scope.
+
+
+
+Explanation: A potential limitation or exception of the rule ""Safe Harbor (law)"" is that it only applies to cases where the conduct in question is clearly defined and falls within its scope. This means that if the conduct in question is not clearly defined or falls outside of the scope of the safe harbor provision, then it will not be protected from liability. Therefore, it is important to carefully consider whether the conduct in question falls within the safe harbor provision's scope in order to ensure legal certainty and avoid potential liability.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following accurately describes the concept ""FTC v. Dean Foods Co.""?
+
+
+
+A) The FTC has the authority to issue an injunction to prevent a merger that may violate antitrust laws.
+
+B) The FTC must wait until after a merger is complete before taking enforcement action.
+
+C) The Supreme Court ruled that the FTC cannot seek a preliminary injunction to maintain the status quo during a merger review.
+
+D) The FTC can request equitable relief in federal court against a person's threatened action that will substantially interfere with the agency's performance of its statutory duty.
+
+
+
+The right answer is (A) The FTC has the authority to issue an injunction to prevent a merger that may violate antitrust laws.
+
+
+
+Explanation: The case of FTC v. Dean Foods Co. established that the Federal Trade Commission (FTC) has the authority to seek a preliminary injunction to prevent a merger that may violate antitrust laws. This means that the FTC can ask a federal court to issue an injunction to maintain the status quo until the agency has completed its investigation and issued a final decision on the proposed merger. This ruling empowers the FTC to protect competition and consumer interests during the merger review process. Therefore, option A accurately describes the concept ""FTC v. Dean Foods Co.""
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: In the landmark case of FTC v. Dean Foods Co., the US Supreme Court ruled that the Federal Trade Commission (FTC) has the authority to seek a preliminary injunction to prevent a merger that may violate antitrust laws. Now, imagine a new scenario where the FTC seeks to enjoin a proposed merger between two large technology companies. The companies argue that the merger will create economies of scale and increase efficiency, but the FTC is concerned that it will substantially lessen competition in a key market. The FTC asks a federal court to issue a preliminary injunction to stop the merger from happening while it conducts its investigation. The court grants the injunction, and the merger is put on hold pending the FTC's review. The companies then challenge the injunction, arguing that it was improperly granted and that the FTC lacks the authority to seek such relief. The case ultimately makes its way to the US Supreme Court. How should the Court rule in this case?
+
+
+
+A) The Court should uphold the injunction and allow the FTC to continue its investigation.
+
+B) The Court should lift the injunction and allow the merger to proceed, finding that the FTC lacked the authority to seek the injunction.
+
+C) The Court should order the parties to mediate the dispute and reach a settlement that addresses the competitive concerns raised by the FTC.
+
+D) The Court should dismiss the case and find that the FTC had no standing to bring the action in the first place.
+
+
+
+The right answer is A) The Court should uphold the injunction and allow the FTC to continue its investigation. In FTC v. Dean Foods Co., the Supreme Court established that the FTC has the authority to seek a preliminary injunction to maintain the status quo during its investigation of a proposed merger. Here, the FTC has demonstrated that there is a risk of irreparable harm to competition if the merger is allowed to proceed before the agency can complete its review. The court should defer to the FTC's expertise and allow it to continue its investigation unhindered by the threat of an imminent merger.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule established in FTC v. Dean Foods Co.?
+
+
+
+A) The FTC can only seek a preliminary injunction in cases where there is clear evidence of a violation of antitrust laws.
+
+B) The FTC must demonstrate a likelihood of success on the merits of its case before a federal court will grant an injunction.
+
+C) The FTC's authority to seek a preliminary injunction is limited to cases involving mergers and acquisitions.
+
+D) The FTC's request for a preliminary injunction may be denied if the court finds that the proposed merger is in the public interest.
+
+
+
+The right answer is B: The FTC must demonstrate a likelihood of success on the merits of its case before a federal court will grant an injunction.
+
+
+
+Explanation: While FTC v. Dean Foods Co. empowers the FTC to seek a preliminary injunction to prevent a merger that may violate antitrust laws, the agency still has the burden of demonstrating a likelihood of success on the merits of its case before a federal court will grant an injunction. This means that the FTC must present sufficient evidence to show that it is likely to succeed in proving that the merger violates antitrust laws. If the FTC fails to meet this burden, the court may deny the request for an injunction, allowing the merger to proceed.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+Question: Which of the following accurately describes the concept ""Volenti non fit iniuria""?
+
+
+
+A) A person who willingly engages in an activity assumes all risks associated with it, including those that are not reasonably foreseeable.
+
+B) A person who willingly engages in an activity assumes only the risks that are explicitly stated in advance.
+
+C) A person who willingly engages in an activity does not assume any risks, as they have not given their consent.
+
+D) A person who willingly engages in an activity assumes all risks, but only up to a certain point beyond which they have not given their consent.
+
+
+
+The right answer is D) A person who willingly engages in an activity assumes all risks, but only up to a certain point beyond which they have not given their consent.
+
+
+
+Explanation: Volenti non fit iniuria is a common law doctrine that states that if someone willingly places themselves in a position where harm might result, knowing that some degree of harm might result, they are not able to bring a claim against the other party in tort or delict. However, this only applies to the risk which a reasonable person would consider them as having assumed by their actions. Therefore, if the danger exceeds what a reasonable person would expect, then the person taking the risk has not given their consent, and thus can bring a claim against the other party.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: A skydiver signs up for a jump with a reputable skydiving company. During the jump, the instructor fails to deploy the parachute on time, and the skydiver experiences a rapid descent and severe injury. Can the skydiver sue the skydiving company for damages?
+
+
+
+A) Yes, because the skydiver did not assume the risk of injury from the jump.
+
+B) No, because the skydiver assumed the risk of injury by choosing to go skydiving.
+
+C) No, because the skydiving company was negligent in their duty of care.
+
+D) Yes, because the risk of injury was not reasonably foreseeable.
+
+
+
+The right answer is B) No, because the skydiver assumed the risk of injury by choosing to go skydiving.
+
+
+
+Explanation: The concept of volenti non fit iniuria applies in this scenario. By choosing to go skydiving, the skydiver assumes the risk of injury from the activity. This includes the risk of a delayed deployment of the parachute, which is a common risk associated with skydiving. However, if the skydiving company was negligent in their duty of care, such as failing to properly check the equipment or provide adequate training, then the skydiver may still have a claim against the company. In this case, the skydiver has assumed the risk of injury from the jump, but the company's negligence has exceeded that risk, making them liable for damages.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Volenti non fit iniuria""?
+
+
+
+A) The plaintiff must have been aware of the exact nature of the risk involved.
+
+B) The defendant must have taken steps to mitigate the risk.
+
+C) The risk assumed by the plaintiff must be reasonable in relation to the activity undertaken.
+
+D) The plaintiff must have had the capacity to make an informed decision about assuming the risk.
+
+
+
+The right answer is C) The risk assumed by the plaintiff must be reasonable in relation to the activity undertaken.
+
+
+
+Explanation: The doctrine of volenti non fit iniuria does not apply if the risk assumed by the plaintiff is unreasonable or beyond what a reasonable person would consider acceptable. In such cases, the plaintiff has not truly consented to the risk, and therefore may still bring a claim against the defendant for damages. This limitation ensures that individuals are not held to have assumed risks that are disproportionate to the activity they were engaged in, and that defendants are not absolved of liability for injuries caused by their negligence or recklessness.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2205""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2206""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2209""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2208""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2207""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+10/31/23 3:18,10/31/23 3:38,IP Address,*******,98,1207,FALSE,10/31/23 7:48,R_vlwguzLreHmsjNT,*******,*******,*******,*******,*******,*******,anonymous,EN,1,63f8705ae362b217290d08c2,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Computer software, computer hardware, information technology, telecommunications",,"Business, finance, accounting, marketing, economics",,Native/bilingual,35-44 years old,Male,,"Professional Degree (for example: MD, DDS, JD)",,e h l l o,3,4,4,4,3,2,2,3,3,2,"most americans are familiar with baguettes, imho",The question cannot be derived from the definition or story above.,3,There are more than one right answers in the 4 candidates.,3,The question is confusing.,2,4,4,4,4,3,2,4,4,3,4,,The question is too easy and simple.,3,There are more than one right answers in the 4 candidates.,1,"The question cannot be derived from the definition or story above.,Other issues not covered above",2,4,2,3,2,4,2,1,2,2,2,,"There are more than one right answers in the 4 candidates.,The reasoning given in the suggested answer is wrong or flawed.",3,"The question is confusing.,There are more than one right answers in the 4 candidates.,The reasoning given in the suggested answer is wrong or flawed.",2,"There are more than one right answers in the 4 candidates.,Other issues not covered above",2,2,4,4,3,4,4,4,3,3,4,grammar errors ,There is no issue.,4,There is no issue.,4,"The question cannot be derived from the definition or story above.,There are more than one right answers in the 4 candidates.,Other issues not covered above",3,5,5,4,5,4,4,4,4,4,4,,There is no issue.,4,The reasoning given in the suggested answer is wrong or flawed.,3,The reasoning given in the suggested answer is wrong or flawed.,3,missing spaces in multiple explainers after full stops,state the jurisdiction ,63f8705ae362b217290d08c2,65405faeeb70cc080096a841,6540c66a0053d39af1c5aa63
+10/31/23 3:18,10/31/23 3:43,IP Address,*******,98,1475,FALSE,10/31/23 7:48,R_2y7PrG5W3s9daC8,*******,*******,*******,*******,*******,*******,anonymous,EN,1,60fec3441bfba411416b4925,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Healthcare, medical science, biology, life science, and pharmaceutical translations",,Full professional,18-24 years old,Female,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,5,5,4,4,5,5,5,5,5,5,The story does not give a detailed explanation/description of the legal term..,There is no issue.,5,There is no issue.,5,There is no issue.,5,4,5,5,5,5,5,5,5,5,5,No comments.,"Other issues not covered above,There is no issue.",5,There is no issue.,5,There is no issue.,5,4,2,3,3,4,3,4,4,4,5,No comment.,There is no issue.,4,There is no issue.,5,There is no issue.,5,5,2,4,4,4,5,5,5,4,5,None,There is no issue.,5,"Other issues not covered above,There is no issue.",3,There is no issue.,5,5,5,5,5,5,5,5,5,5,5,The story is a perfect simplification of the legal term.,There is no issue.,5,"There are more than one right answers in the 4 candidates.,Other issues not covered above",5,There is no issue.,5,No comment,No comment,60fec3441bfba411416b4925,65405faeeb70cc080096a841,6540c65a87f595bb0fb2e81b
+10/31/23 2:10,10/31/23 2:37,IP Address,*******,98,1585,FALSE,10/31/23 7:50,R_1g6mDbiZvL7Omjm,*******,*******,*******,*******,*******,*******,anonymous,EN,0.8999999761581421,5adc587be0feeb0001ca9d0a,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,Other:,higher education,"Laws, legal services and policies",,Native/bilingual,35-44 years old,Female,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,4,4,5,5,4,4,4,5,4,4,it was well-written and made the underlying principle easier to understand in layman's terms,There is no issue.,4,There is no issue.,5,There is no issue.,5,4,5,5,5,5,5,5,5,5,4,this story is good. It is easy to read but also engaging ,"The question is confusing.,Other issues not covered above",3,The question is too easy and simple.,3,"The question is confusing.,The reasoning given in the suggested answer is wrong or flawed.",2,3,2,2,3,2,2,3,3,2,3,"the story does not follow a story format, and it is just confusing to read",There is no issue.,4,There is no issue.,4,There is no issue.,4,4,4,5,5,5,5,4,5,5,5,this story was very informative and useful,There are more than one right answers in the 4 candidates.,4,There is no issue.,5,There is no issue.,4,5,5,5,5,5,5,4,5,5,5,"the story is excellent. It is informative, engaging, and easy to read. It explains the underlying concepts in a digestible way",There is no issue.,5,There is no issue.,5,There is no issue.,5,"the red font is awful, but besides that the study was interesting and enjoyable. ",,5adc587be0feeb0001ca9d0a,65405faeeb70cc080096a841,6540b5b41b7bf9f92525c150

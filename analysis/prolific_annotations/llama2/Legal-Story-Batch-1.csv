@@ -1,0 +1,896 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q0-ID,Q5,Q91-attention,Q3,Q3_7_TEXT,Q4,Q4_7_TEXT,Q7,Q8-age,Q9,Q9_6_TEXT,Q10,Q10_9_TEXT,Q11,Q81-readability-1,Q81-is-story,Q81-readability-2,Q81-relevance,Q81-redundancy,Q81-completeness,Q81-factuality,Q81-cohesiveness,Q81-likeability,Q81-believability,Q81-story-comments,Q81-q1-issues,Q81-q1-rating,Q81-q2-issues,Q81-q2-rating,Q81-q3-issues,Q81-q3-rating,Q82-readability-1,Q82-is-story,Q82-readability-2,Q82-relevance,Q82-redundancy,Q82-completeness,Q82-factuality,Q82-cohesiveness,Q82-likeability,Q82-believability,Q82-story-comments,Q82-q1-issues,Q82-q1-rating,Q82-q2-issues,Q82-q2-rating,Q82-q3-issues,Q82-q3-rating,Q83-readability-1,Q83-is-story,Q83-readability-2,Q83-relevance,Q83-redundancy,Q83-completeness,Q83-factuality,Q83-cohesiveness,Q83-likeability,Q83-believability,Q83-story-comments,Q83-q1-issues,Q83-q1-rating,Q83-q2-issues,Q83-q2-rating,Q83-q3-issues,Q83-q3-rating,Q84-readability-1,Q84-is-story,Q84-readability-2,Q84-relevance,Q84-redundancy,Q84-completeness,Q84-factuality,Q84-cohesiveness,Q84-likeability,Q84-believability,Q84-story-comments,Q84-q1-issues,Q84-q1-rating,Q84-q2-issues,Q84-q2-rating,Q84-q3-issues,Q84-q3-rating,Q85-readability-1,Q85-is-story,Q85-readability-2,Q85-relevance,Q85-redundancy,Q85-completeness,Q85-factuality,Q85-cohesiveness,Q85-likeability,Q85-believability,Q85-story-comments,Q85-q1-issues,Q85-q1-rating,Q85-q2-issues,Q85-q2-rating,Q85-q3-issues,Q85-q3-rating,Q28,Q29,PROLIFIC_PID,STUDY_ID,SESSION_ID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",How much knowledge or experience of law do you have?,"Help us keep track of who is paying attention. Please select ""Somewhat disagree"" from the options below.",Which of the following categories best describes the industry or research area you primarily work in? - Selected Choice,Which of the following categories best describes the industry or research area you primarily work in? - Other: - Text,What was / is your major field of study at school? - Selected Choice,What was / is your major field of study at school? - Other: - Text,What is your level of English proficiency?,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other: - Text,What is the highest level of education you have completed? - Selected Choice,What is the highest level of education you have completed? - Other: - Text,Please select the answer that puts the letters in the above image in alphabetical order.,Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following accurately describes the concept of ""Abstention_doctrine""?
+
+
+
+A) A legal principle that allows courts to refuse to hear a case if it may potentially intrude upon the powers of another court.
+
+B) A rule that requires courts to defer to the jurisdiction of another court when dealing with cases involving the same issues and parties.
+
+C) A doctrine that enables courts to duplicated efforts and interfere with each other's work when handling cases involving the same issues and parties.
+
+D) A principle that ensures cases are handled efficiently and effectively, without overlapping or contradicting each other.
+
+
+
+The right answer is (A) A legal principle that allows courts to refuse to hear a case if it may potentially intrude upon the powers of another court.
+
+
+
+Explanation: The abstention doctrine is a legal principle that permits courts to decline hearing a case if doing so might encroach on the authority of another court. This doctrine applies when lawsuits involving the same issues and parties are brought in both federal and state courts simultaneously. By invoking the abstention doctrine, courts can avoid confusion, waste resources, and appearing to disrespect one another.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Suppose a plaintiff files a case in federal court alleging violation of their civil rights by a state official, while simultaneously filing a similar case in state court against the same defendant. The state court dismisses the case citing the abstention doctrine. What happens next?
+
+
+
+A) The federal court will also dismiss the case, as the state court has already made a ruling.
+
+B) The federal court will continue to hear the case, as it has jurisdiction over civil rights violations.
+
+C) The federal court will abstain from hearing the case and allow the state court's decision to stand.
+
+D) The federal court will reverse the state court's decision and rule in favor of the plaintiff.
+
+
+
+The right answer is C) The federal court will abstain from hearing the case and allow the state court's decision to stand. This is because the abstention doctrine allows courts to decline to exercise jurisdiction when another court has already made a ruling on the same issue. In this scenario, the state court has already dismissed the case, so the federal court would abstain from hearing it to avoid duplicative efforts and potential conflict with the state court's decision.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Abstention_doctrine""?
+
+
+
+A) The doctrine only applies to cases involving the same parties and issues in both federal and state courts.
+
+B) The doctrine does not apply when one court has already made a decision on the case.
+
+C) The doctrine can be invoked by any court, regardless of its jurisdiction over the case.
+
+D) The doctrine only applies when the federal court has exclusive jurisdiction over the case.
+
+
+
+The right answer is B) The doctrine does not apply when one court has already made a decision on the case.
+
+
+
+Explanation: One potential limitation or exception of the abstention doctrine is that it may not apply when one court has already made a decision on the case. In such cases, the doctrine of collateral estoppel or issue preclusion may apply, which prevents a party from relitigating an issue that has already been decided in another court. This means that even if a court were to invoke the abstention doctrine, it may still have to consider the prior decision of the other court in its own ruling. Therefore, while the abstention doctrine can help prevent duplicative litigation and conflicts between courts, it is not a blanket rule that can be applied in all situations.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following answers is an accurate description of the concept ""Constitutional Convention""?
+
+
+
+A) A formal, written document that outlines the structure and powers of a government.
+
+B) An informal, uncodified tradition that guides the institutions of a state in the absence of a formal constitution.
+
+C) A set of rules and regulations that govern the behavior of government officials.
+
+D) A meeting of representatives from different branches of government to discuss and agree on legislation.
+
+
+
+The right answer is B) An informal, uncodified tradition that guides the institutions of a state in the absence of a formal constitution.
+
+
+
+Explanation: A constitutional convention is not a formal, written document like a constitution, but rather a set of unwritten rules and customs that guide the operations of a government. It is an informal and uncodified tradition that is followed by the institutions of a state, and it can operate alongside or instead of a written constitution. Therefore, option B accurately describes the concept of a constitutional convention.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+Question: A country with a constitutional convention has just elected a new head of state. The outgoing head of state has refused to step down, claiming that the constitution allows them to stay in power until their successor is officially sworn in. The incoming head of state argues that this is a violation of the constitutional convention, which clearly states that the outgoing head of state must step down immediately after the election. A crisis ensues, with both sides refusing to back down. How does this situation end?
+
+
+
+A) The outgoing head of state agrees to step down, citing the importance of upholding the constitutional convention.
+
+B) The incoming head of state decides to wait until the official swearing-in ceremony before taking office, effectively allowing the outgoing head of state to remain in power until then.
+
+C) The two sides agree to a compromise, where the outgoing head of state stays in power for an additional week before stepping down.
+
+D) The matter is taken to court, and the judges rule in favor of the incoming head of state, forcing the outgoing head of state to step down immediately.
+
+
+
+The right answer is (A). In a country with a constitutional convention, it is generally understood that the outgoing head of state should step down immediately after the election, as it is considered good governance and respectful of the democratic process. While there may not be a specific law or written constitutional provision requiring this, it is still widely recognized as an important aspect of the constitutional convention. Therefore, in this scenario, the outgoing head of state would likely agree to step down, citing the importance of upholding the constitutional convention.
+
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Constitutional convention (political custom)""?
+
+
+
+A) It is not a legally binding document, therefore it can be easily changed or ignored.
+
+B) It is based on customs and traditions, which may not be well-documented or widely understood.
+
+C) It relies on the good faith and cooperation of political actors, who may not always act in accordance with the convention.
+
+D) It can be superseded by written laws, rendering it obsolete.
+
+
+
+The right answer is B) It is based on customs and traditions, which may not be well-documented or widely understood.
+
+
+
+Explanation: A potential limitation or exception of the rule ""Constitutional convention (political custom)"" is that it is based on customs and traditions, which may not be well-documented or widely understood. This means that the conventions may not be clearly defined or consistently applied, leading to confusion or disagreements about how they should be followed. Additionally, as customs and traditions evolve over time, the conventions may also change, potentially leading to conflicts with established laws or practices.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following is an accurate description of the concept ""Unaccompanied minor""?
+
+
+
+A) A child who is accompanied by their legal guardian or parent.
+
+B) A child who is not accompanied by their legal guardian or parent, but is with someone who is legally responsible for taking care of them.
+
+C) A child who is not accompanied by their legal guardian or parent, and is not being cared for by an adult who is legally responsible for doing so.
+
+D) A child who is accompanied by their legal guardian or parent, but is not being cared for by them.
+
+
+
+The right answer is C) A child who is not accompanied by their legal guardian or parent, and is not being cared for by an adult who is legally responsible for doing so.
+
+
+
+Explanation: The UN Committee on the Rights of the Child defines unaccompanied minors as children who lack proper care and protection, and are not being cared for by an adult who is legally responsible for doing so. This definition encompasses children who are alone, without their parents or legal guardians, and includes those who may be accompanied by other adult family members but are still not receiving adequate care and support. Therefore, option C accurately describes the concept of an unaccompanied minor.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What happened to Alex after he embarked on his dangerous journey to seek refuge in another country?
+
+
+
+A) He was able to safely reunite with his parents who had fled the country.
+
+B) He was taken in by a kind family and given a loving home.
+
+C) He became stranded at the border and was forced to return to his war-torn country.
+
+D) He found a group of unaccompanied minors and they formed a new family together.
+
+
+
+The right answer is C) He became stranded at the border and was forced to return to his war-torn country. Unfortunately, Alex's journey did not have a happy ending. After facing many challenges and dangers along the way, he reached the border only to be turned back and forced to return to his home country. This outcome highlights the harsh realities that many unaccompanied minors face as they search for safety and protection.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Unaccompanied minor""?
+
+
+
+A) A child who is accompanied by an adult family member, but not their legal guardian, is still considered an unaccompanied minor.
+
+B) A child who has been separated from both parents and other relatives, but is being cared for by an adult who is not their legal guardian, is not considered an unaccompanied minor.
+
+C) A child who has been forced to leave their home due to war, natural disasters, or other dangerous situations, but is now living with a relative, is not considered an unaccompanied minor.
+
+D) A child who has been separated from both parents and other relatives, and is not being cared for by an adult who, by law or custom, is responsible for doing so, is not considered an unaccompanied minor if they have access to basic needs like food, shelter, and healthcare.
+
+
+
+The right answer is B: A child who has been separated from both parents and other relatives, but is being cared for by an adult who is not their legal guardian, is not considered an unaccompanied minor. According to the UN Committee on the Rights of the Child, an unaccompanied minor is a child who lacks proper care and protection, which means that they are not in the care of an adult who is legally responsible for them. If a child is being cared for by an adult who is not their legal guardian, even if they are not their parent, they are not considered an unaccompanied minor. However, it's important to note that this exception may vary depending on the specific circumstances and laws of each country.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following accurately describes the concept of ""substantial certainty doctrine""?
+
+
+
+A) A legal principle that holds people responsible for unintended consequences of their actions only if they were very sure the harm would occur.
+
+B) A legal principle that excuses people from liability if they did not intend the harm caused by their actions.
+
+C) A legal principle that presumes people have the intention to cause harm if their actions are highly likely to result in harm.
+
+D) A legal principle that allows courts to determine whether a defendant committed a tort without considering the defendant's intent.
+
+
+
+The right answer is (A): A legal principle that holds people responsible for unintended consequences of their actions only if they were very sure the harm would occur.
+
+
+
+Explanation: The substantial certainty doctrine is a legal principle that allows courts to hold individuals responsible for unintended consequences of their actions, provided that they knew with a high degree of certainty that such consequences would occur. In other words, even if an individual did not intend to cause harm, they may still be held liable if they had reason to believe that their actions would lead to harm. This doctrine helps courts determine whether a person has committed a tort, even if the person claims they did not intend to cause harm. Therefore, option (A) accurately describes the concept of substantial certainty doctrine.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Suppose you are a defendant in a court case where you are being sued for negligence. You were driving a car and accidentally hit a pedestrian who was jaywalking. The pedestrian suffered serious injuries and is now suing you for damages. You claim that you did not intend to hit the pedestrian and were not aware that they were crossing the street. However, witnesses testify that you were speeding at the time of the accident and that you had been warned several times before about speeding in the same area. Based on the substantial certainty doctrine, how would the court likely rule in this case?
+
+
+
+A) The court would find you liable for the pedestrian's injuries because you knew with substantial certainty that speeding in the area could result in an accident.
+
+B) The court would find you not liable for the pedestrian's injuries because you did not intend to hit them.
+
+C) The court would find you liable for the pedestrian's injuries because you should have known that jaywalkers might be present in the area.
+
+D) The court would find you not liable for the pedestrian's injuries because the pedestrian was partially responsible for their own injury by jaywalking.
+
+
+
+The right answer is A) The court would find you liable for the pedestrian's injuries because you knew with substantial certainty that speeding in the area could result in an accident.
+
+
+
+Explanation: Under the substantial certainty doctrine, if a person knows with a high degree of certainty that their actions will cause harm, they can be held liable for that harm even if they did not intend it. In this scenario, you knew or should have known that speeding in the area could result in an accident, and therefore you are liable for the pedestrian's injuries. This applies regardless of whether you intended to hit the pedestrian or not.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Substantial_certainty_doctrine""?
+
+
+
+A) The doctrine only applies if the actor had a specific intent to cause harm.
+
+B) The doctrine does not apply if the actor did not have actual knowledge of the potential harm.
+
+C) The doctrine only applies if the harm caused was severe and life-threatening.
+
+D) The doctrine does not apply if the actor took reasonable precautions to prevent the harm.
+
+
+
+The right answer is B) The doctrine does not apply if the actor did not have actual knowledge of the potential harm.
+
+
+
+Explanation: The substantial certainty doctrine assumes intent even if the actor did not intend the result, but knew with substantial certainty the effect would occur as a result of his action. However, if the actor did not have actual knowledge of the potential harm, the doctrine may not apply. For example, if a person moves a chair without realizing that someone is about to sit down where it used to be, they may not be held responsible for any injury caused since they did not know with substantial certainty that their action would result in harm.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.",Please rate the readability of the definition:Readability1 (bad): The definition is highly difficult,"Please rate whether of the story section above contains a story or not:
+
+
+
+1 (bad): The story section is merely a simplification of the definition and there is no narrative in it.
+
+5 (good): The story section expands the definition to a story setting and tells a good narrative.","Please rate the readability of the story:
+
+
+
+Readability
+
+1 (bad): The definition is highly difficult to read with rare words and complex structures.
+
+5 (good): The definition is easy to read, well-structured, and flows naturally.","Please rate the relevance of the story to the definition:
+
+
+Relevance
+
+1 (bad): The story is completely irrelevant to the given definition.
+
+5 (good): The story is highly relevant and directly addresses the given definition.","Please rate the redundancy of the story:
+
+
+Redundancy
+
+1 (bad): The story is excessively repetitive, containing unnecessary repetitions of the same information. If the story is too long (more than 500 tokens), we should give a low rating.
+5 (good): The story is concise and free from redundancy, explaining only essential definition information.","Please rate the completeness of the story:
+
+
+Completeness
+
+1 (bad): The story is incomplete (missing key information from the definition), leaving out crucial details or providing inaccurate information.
+5 (good): The story is comprehensive, accurate, and includes all relevant information.","Please rate the factuality of the story:
+
+
+Factuality
+
+1 (bad): The story contains a significant number of factual inaccuracies, false statements, non-existent or misleading information. For example, year or person names are wrong.
+5 (good): The story is factually accurate, supported by evidence, and free from misinformation and hallucinations.","Please rate the cohesiveness of the story:
+
+
+Cohesiveness
+
+1 (bad): Sentences in the story are highly incoherent as a whole. For instance, they are illogical, lack self-consistency, or contradict each other.
+5 (good): Sentences in the story fit together well. They are logically organized and coherent.","Please rate the likeability of the story:
+
+
+Likeability
+
+1 (bad): The story is not enjoyable at all and even contains inappropriate words or examples.
+5 (good): The story is highly enjoyable or entertaining to read.","Please rate the believability of the story:
+
+
+Believability
+
+1 (bad): The story is not convincing at all, usually too hypothetical or unreal.
+5 (good): The story is highly convincing and realistic, grounded in real-life situations.",What other comments do you have about the story?,"We create the following concept question based on the definition and story to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following is an accurate description of the concept ""Learned Intermediary""?
+
+
+
+A) A legal principle that holds manufacturers strictly liable for any harm caused by their products, regardless of whether they provided adequate warnings or information to consumers.
+
+B) A legal doctrine that protects manufacturers from liability if they provide adequate information about the risks and benefits of their products to a knowledgeable intermediate party, such as a doctor or pharmacist, who then communicates this information to the consumer.
+
+C) A legal principle that requires healthcare providers to personally guarantee the safety and efficacy of all drugs and medical devices before prescribing them to patients.
+
+D) A legal doctrine that allows consumers to sue manufacturers for any injuries or harm caused by their products, regardless of whether the manufacturer provided adequate warnings or information.
+
+
+
+The right answer is B) A legal doctrine that protects manufacturers from liability if they provide adequate information about the risks and benefits of their products to a knowledgeable intermediate party, such as a doctor or pharmacist, who then communicates this information to the consumer.
+
+
+
+Explanation: The learned intermediary doctrine is a legal principle that protects manufacturers from being held liable for injuries or harm caused by their products, as long as they provide adequate information about the product's risks and benefits to a knowledgeable intermediate party, such as a doctor or pharmacist, who then communicates this information to the consumer. This means that the manufacturer has fulfilled its duty of care by providing all necessary information to a ""learned intermediary"" who then interacts with the consumer. Therefore, option B accurately describes the concept of Learned Intermediary.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following prediction question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: In the scenario described above, what is the likely outcome of a lawsuit filed against the manufacturer by the patient who experienced unexpected side effects after taking the medication?
+
+
+
+A) The manufacturer would be held liable for the patient's injuries since they failed to provide adequate warnings directly to the consumer.
+
+B) The manufacturer would not be held liable for the patient's injuries since they provided all necessary information to the doctor, who acted as a learned intermediary.
+
+C) The doctor would be held liable for the patient's injuries since they did not properly explain the risks and benefits of the medication.
+
+D) The patient would not have legal grounds to sue the manufacturer since they were informed of the potential risks and benefits by their doctor.
+
+
+
+The right answer is B) The manufacturer would not be held liable for the patient's injuries since they provided all necessary information to the doctor, who acted as a learned intermediary.
+
+
+
+Explanation: Under the learned intermediary doctrine, the manufacturer has fulfilled its duty of care by providing all necessary information to a knowledgeable intermediate party, such as a doctor or pharmacist, who then communicates this information to the consumer. In this scenario, the manufacturer provided the doctor with detailed information about the drug's side effects and contraindications, which the doctor then passed on to the patient. Therefore, the manufacturer cannot be held liable for the patient's injuries, even if they were not directly responsible for informing the patient about the risks. This outcome highlights the importance of healthcare providers in ensuring that patients receive accurate and timely information about the treatments they are receiving.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","We create the following limitation question based on the definition and story with AI, hoping to test the comprehension of readers. We are expecting only one right answer for the question. Please look at the question and answer in red and gives your rating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: What is a potential limitation or exception of the rule ""Learned Intermediary""?
+
+
+
+A) The doctrine only applies to pharmaceutical and medical device companies.
+
+B) The doctrine does not apply when the manufacturer has failed to provide adequate information to the learned intermediary.
+
+C) The doctrine does not apply when the consumer has been misinformed or misunderstood the information provided by the learned intermediary.
+
+D) The doctrine only applies when the injury or harm caused by the product was unforeseeable.
+
+
+
+The right answer is B) The doctrine does not apply when the manufacturer has failed to provide adequate information to the learned intermediary.
+
+
+
+Explanation: The learned intermediary doctrine is a defense doctrine used by manufacturers to avoid liability for injuries or harm caused by their products. According to this doctrine, a manufacturer fulfills its duty of care by providing all necessary information to a knowledgeable intermediate party, such as a doctor or pharmacist, who then communicates this information to the consumer. However, if the manufacturer fails to provide adequate information to the learned intermediary, the doctrine does not apply, and the manufacturer may still be held liable for any harm caused by their product. Therefore, option B is the correct answer.
+
+
+Please identify any issues you observe in the proposed question and answer provided above. If you do not detect any issues, kindly choose the final option, ""There is no issue."" Remember, you can select multiple options if necessary:","Please rate the question from 1 (bad) to 5 (good).
+1 (bad):The question is vey bad.
+
+5 (good): The story is very good.","If we could provide any additional features or information to help you more easily and confidently answer questions and rate paragraphs, what would they be?",Please share any feedback you have to improve this task in the future.,PROLIFIC_PID,STUDY_ID,SESSION_ID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID2053_TEXT""}","{""ImportId"":""QID2020""}","{""ImportId"":""QID15""}","{""ImportId"":""QID2014""}","{""ImportId"":""QID2014_7_TEXT""}","{""ImportId"":""QID2035""}","{""ImportId"":""QID2035_7_TEXT""}","{""ImportId"":""QID2069""}","{""ImportId"":""QID7""}","{""ImportId"":""QID2010""}","{""ImportId"":""QID2010_6_TEXT""}","{""ImportId"":""QID2012""}","{""ImportId"":""QID2012_9_TEXT""}","{""ImportId"":""QID2013""}","{""ImportId"":""QID2087""}","{""ImportId"":""QID2205""}","{""ImportId"":""QID2089""}","{""ImportId"":""QID2090""}","{""ImportId"":""QID2091""}","{""ImportId"":""QID2092""}","{""ImportId"":""QID2093""}","{""ImportId"":""QID2094""}","{""ImportId"":""QID2095""}","{""ImportId"":""QID2096""}","{""ImportId"":""QID2200_TEXT""}","{""ImportId"":""QID2109""}","{""ImportId"":""QID2110""}","{""ImportId"":""QID2111""}","{""ImportId"":""QID2112""}","{""ImportId"":""QID2113""}","{""ImportId"":""QID2114""}","{""ImportId"":""QID2116""}","{""ImportId"":""QID2206""}","{""ImportId"":""QID2118""}","{""ImportId"":""QID2119""}","{""ImportId"":""QID2120""}","{""ImportId"":""QID2121""}","{""ImportId"":""QID2122""}","{""ImportId"":""QID2123""}","{""ImportId"":""QID2124""}","{""ImportId"":""QID2125""}","{""ImportId"":""QID2201_TEXT""}","{""ImportId"":""QID2126""}","{""ImportId"":""QID2127""}","{""ImportId"":""QID2128""}","{""ImportId"":""QID2129""}","{""ImportId"":""QID2130""}","{""ImportId"":""QID2131""}","{""ImportId"":""QID2133""}","{""ImportId"":""QID2207""}","{""ImportId"":""QID2135""}","{""ImportId"":""QID2136""}","{""ImportId"":""QID2137""}","{""ImportId"":""QID2138""}","{""ImportId"":""QID2139""}","{""ImportId"":""QID2140""}","{""ImportId"":""QID2141""}","{""ImportId"":""QID2142""}","{""ImportId"":""QID2202_TEXT""}","{""ImportId"":""QID2143""}","{""ImportId"":""QID2144""}","{""ImportId"":""QID2145""}","{""ImportId"":""QID2146""}","{""ImportId"":""QID2147""}","{""ImportId"":""QID2148""}","{""ImportId"":""QID2150""}","{""ImportId"":""QID2208""}","{""ImportId"":""QID2152""}","{""ImportId"":""QID2153""}","{""ImportId"":""QID2154""}","{""ImportId"":""QID2155""}","{""ImportId"":""QID2156""}","{""ImportId"":""QID2157""}","{""ImportId"":""QID2158""}","{""ImportId"":""QID2159""}","{""ImportId"":""QID2203_TEXT""}","{""ImportId"":""QID2160""}","{""ImportId"":""QID2161""}","{""ImportId"":""QID2162""}","{""ImportId"":""QID2163""}","{""ImportId"":""QID2164""}","{""ImportId"":""QID2165""}","{""ImportId"":""QID2167""}","{""ImportId"":""QID2209""}","{""ImportId"":""QID2169""}","{""ImportId"":""QID2170""}","{""ImportId"":""QID2171""}","{""ImportId"":""QID2172""}","{""ImportId"":""QID2173""}","{""ImportId"":""QID2174""}","{""ImportId"":""QID2175""}","{""ImportId"":""QID2176""}","{""ImportId"":""QID2204_TEXT""}","{""ImportId"":""QID2177""}","{""ImportId"":""QID2178""}","{""ImportId"":""QID2179""}","{""ImportId"":""QID2180""}","{""ImportId"":""QID2181""}","{""ImportId"":""QID2182""}","{""ImportId"":""QID2016_TEXT""}","{""ImportId"":""QID2017_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""STUDY_ID""}","{""ImportId"":""SESSION_ID""}"
+10/30/23 22:14,10/30/23 22:58,IP Address,*******,100,2620,TRUE,10/30/23 22:58,R_1NylubNeguAi3i0,*******,*******,*******,*******,*******,*******,anonymous,EN,1,60fec3441bfba411416b4925,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Healthcare, medical science, biology, life science, and pharmaceutical translations",,Full professional,18-24 years old,Female,,"Bachelor’s Degree (for example: BA, BBA, and BS)",,e h l l o,5,5,5,5,5,5,5,5,5,5,The story further expantiates the use of abstention doctrine in physical world.,There are more than one right answers in the 4 candidates.,5,There is no issue.,5,There is no issue.,5,4,1,3,4,3,3,4,3,3,4,Few ambiguities in the story/narrative.,There is no issue.,5,There are more than one right answers in the 4 candidates.,5,There is no issue.,5,5,5,5,5,5,5,5,5,5,5,Narrative further expantiates on the term.,There is no issue.,5,There is no issue.,5,There is no issue.,5,5,3,5,4,5,4,4,4,5,5,None,There is no issue.,5,There is no issue.,5,There is no issue.,4,5,Click to write Choice 5,5,5,4,5,5,5,5,5,No comments,There is no issue.,5,There are more than one right answers in the 4 candidates.,5,There is no issue.,5,There were few ambiguities and unclear narratives.,None.,60fec3441bfba411416b4925,6540594aeb70cc080096a752,65407f0c1a2e4b15f85740f0
+10/30/23 22:41,10/30/23 23:10,IP Address,*******,98,1767,FALSE,10/31/23 7:41,R_UnLjXAYFwiBvMd3,*******,*******,*******,*******,*******,*******,anonymous,EN,1,6236fe0ee063333a3e1ba72a,Some knowledge – I have some experience in law,Somewhat disagree,"Business, finance, accounting, marketing, economics",,"Laws, legal services and policies",,Limited working,18-24 years old,Female,,"Some college, but no degree",,e h l l o,3,5,4,5,5,4,4,5,4,5,I can read it all over again clearly and get a good impression.,There is no issue.,4,There are more than one right answers in the 4 candidates.,4,The reasoning given in the suggested answer is wrong or flawed.,3,4,5,4,5,1,4,5,5,5,5,It is perfectly structured just could be better off with references and citations.,There is no issue.,4,There is no issue.,5,There is no issue.,5,5,5,5,5,1,5,5,5,5,5,"It is a story that can be viewed as moral, relatable, and is relevant.",There is no issue.,4,There are more than one right answers in the 4 candidates.,4,The question cannot be derived from the definition or story above.,4,5,3,4,4,1,2,4,3,3,3,It is a bit confusing and incomplete but very readable.,There is no issue.,4,There are more than one right answers in the 4 candidates.,2,The reasoning given in the suggested answer is wrong or flawed.,2,3,4,4,5,2,4,5,5,4,5,The story tells a good narrative and is perfect as is.,There is no issue.,5,The reasoning given in the suggested answer is wrong or flawed.,3,There is no issue.,2,Have images posted beside the text to help make some of these questions easier and used to create an image.,,6236fe0ee063333a3e1ba72a,6540594aeb70cc080096a752,6540855e5a4e886ee8867653
+10/31/23 1:09,10/31/23 1:26,IP Address,*******,98,1014,FALSE,10/31/23 7:44,R_33l6I70D85ESikJ,*******,*******,*******,*******,*******,*******,anonymous,EN,0.8999999761581421,63ea41da5bd5ed0111145ffb,A lot of knowledge – I have worked in the industry or have a related degree,Somewhat disagree,"Laws, legal services and policies",,"Laws, legal services and policies",,Full professional,25-34 years old,Male,,"Master’s Degree (for example: MA, MS, and MEng)",,e h l l o,5,5,5,4,4,5,4,4,5,4,It is comprehensive.,There is no issue.,5,There is no issue.,5,The question is too easy and simple.,5,3,5,5,5,5,5,5,5,5,5,Simple and easy to understand.,There is no issue.,5,There is no issue.,5,There is no issue.,5,3,5,5,5,5,5,5,5,5,5,Comprehensive,The question is too easy and simple.,4,There is no issue.,5,There is no issue.,5,2,5,5,5,5,5,5,5,5,5,This is perfect to read and understand.,There is no issue.,5,There is no issue.,5,There is no issue.,5,3,Click to write Choice 5,5,5,5,5,5,5,5,5,Comprehensive,There is no issue.,5,There is no issue.,5,There is no issue.,5,More relatable examples to make these stories understandable,Task was enjoyable. No issue,63ea41da5bd5ed0111145ffb,6540594aeb70cc080096a752,6540a803075eb7345f79deeb
