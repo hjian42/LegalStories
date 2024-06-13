@@ -46,10 +46,10 @@ python generate_question.py --input_file ./outputs/294-doctrines-gpt4/294_doctri
 
 1. Automatic evaluation with complexity metrics: `analysis/1_complexity_measure.ipynb`
 2. Human evaluation: `analysis/2_analyze_human_ratings_and_errors.ipynb`
-3. Expert annotations: `analysis/3_expert_annotation.ipynb`
-- the final 20 stories with their questions for RCT: `analysis/expert_annotations/Final_regenerated_questions_20.tsv`
-- the final expert-annotated answers for the 20 stories: `analysis/expert_annotations/Final_answer_annotations.tsv`
-4. (upcoming) RCT analysis code and data
+3. Expert annotations on 20 legal doctrines: `analysis/3_expert_annotation.ipynb`
+- the final stories and their corresponding questions: `analysis/expert_annotations/Final_regenerated_questions_20.tsv`
+- the final expert-annotated answers for the questions: `analysis/expert_annotations/Final_answer_annotations.tsv`
+4. immediate and follow-up RCT analysis: `analysis/4_analyze_rct_results.ipynb`
 
 ## References
 
