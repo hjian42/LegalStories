@@ -49,7 +49,7 @@ python generate_question.py --input_file ./outputs/294-doctrines-gpt4/294_doctri
 3. Expert annotations on 20 legal doctrines: `analysis/3_expert_annotation.ipynb`
 - the final stories and their corresponding questions: `analysis/expert_annotations/Final_regenerated_questions_20.tsv`
 - the final expert-annotated answers for the questions: `analysis/expert_annotations/Final_answer_annotations.tsv`
-4. immediate and follow-up RCT analysis: `analysis/4_analyze_rct_results.ipynb`
+4. Immediate and follow-up RCT result analyses: `analysis/4_analyze_rct_results.ipynb`
 
 ## References
 
