@@ -50,6 +50,7 @@ python generate_question.py --input_file ./outputs/294-doctrines-gpt4/294_doctri
 - the final stories and their corresponding questions: `analysis/expert_annotations/Final_regenerated_questions_20.tsv`
 - the final expert-annotated answers for the questions: `analysis/expert_annotations/Final_answer_annotations.tsv`
 4. Immediate and follow-up RCT result analyses: `analysis/4_analyze_rct_results.ipynb`
+5. Statistical analysis on the RCT results: `analysis/5_statistical_analysis.ipynb`
 
 ## References
 
