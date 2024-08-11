@@ -59,7 +59,7 @@ If you use this repository in your research, please kindly cite [our paper](http
 ```bibtex
 @article{jiang2024leveraging,
   title={Leveraging Large Language Models for Learning Complex Legal Concepts through Storytelling},
-  author={Jiang, Hang and Zhang, Xiajie and Mahari, Robert and Kessler, Daniel and Ma, Eric and August, Tal and Li, Irene and Pentland, Alex'Sandy' and Kim, Yoon and Kabbara, Jad and others},
+  author={Jiang, Hang and Zhang, Xiajie and Mahari, Robert and Kessler, Daniel and Ma, Eric and August, Tal and Li, Irene and Pentland, Alex'Sandy' and Kim, Yoon and Roy, Deb and Kabbara, Jad},
   journal={arXiv preprint arXiv:2402.17019},
   year={2024}
 }
