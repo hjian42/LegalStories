@@ -54,7 +54,7 @@ python generate_question.py --input_file ./outputs/294-doctrines-gpt4/294_doctri
 
 ## References
 
-If you use this repository in your research, please kindly cite [our paper](https://arxiv.org/abs/2402.17019): 
+If you use this repository in your research, please kindly cite [our paper](https://aclanthology.org/2024.acl-long.388/): 
 
 ```bibtex
 @inproceedings{jiang-etal-2024-leveraging,
